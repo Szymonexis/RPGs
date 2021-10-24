@@ -50,3 +50,6 @@ Idealny strzelec, miejska dzungla jest jego podworkiem
 
 ## Opisy sesji
 ### Sesja 1
+
+
+
