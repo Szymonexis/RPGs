@@ -46,18 +46,18 @@ Grob tragicznie zmarlej matki
 <b>Bron</b><br>
 Rusznikarski rewolwer .45 colt mojego ojca
 
-## Przymioty
+### Przymioty
 
 <b>Uznanie, mistrz w fachu</b><br>
 Idealny strzelec, miejska dzungla jest jego podworkiem
 
-## Urazy/Blizny
+### Urazy/Blizny
 
-## Fobie/Manie
+### Fobie/Manie
 
-## Tajemne ksiegi, zaklecia i artefakty
+### Tajemne ksiegi, zaklecia i artefakty
 
-## Spotkania z dziwnymi istotami
+### Spotkania z dziwnymi istotami
 
 ## Opisy sesji
 
