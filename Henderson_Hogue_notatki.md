@@ -7,19 +7,6 @@
 </ul>
 
 ## Postac
-### EQ
-<ul>
-	<li>6 strzalowy rewolwer .45 colt zrobiony przez mojego ojca rusznikarza</li>
-	<li>M1 Garand bron z ktorej korzystalem z trakcie I WS, modyfikowana na bron snajperska (specjalne uchwyty, podpolicznik, zdobienia itd)</li>
-	<li>Czarny kapelusz</li>
-	<li>Krawat czarny</li>
-	<li>Biala wymieta koszula</li>
-	<li>Odznaka, przetarta</li>
-	<li>Czarny plaszcz</li>
-	<li>stary Ford T</li>
-	<li>Zniszczona kawalerka w kiepksiej dzielnicy miasta</li>
-</ul>
-
 ### Opis postaci
 //TODO
 
@@ -44,9 +31,25 @@ Rusznikarski rewolwer .45 colt mojego ojca
 Idealny strzelec, miejska dzungla jest jego podworkiem
 
 ### Urazy/Blizny
+
 ### Fobie/Manie
+
 ### Tajemne ksiegi, zaklecia i artefakty
+
 ### Spotkania z dziwnymi istotami
+
+### EQ
+<ul>
+	<li>6 strzalowy rewolwer .45 colt zrobiony przez mojego ojca rusznikarza</li>
+	<li>M1 Garand bron z ktorej korzystalem z trakcie I WS, modyfikowana na bron snajperska (specjalne uchwyty, podpolicznik, zdobienia itd)</li>
+	<li>Czarny kapelusz</li>
+	<li>Krawat czarny</li>
+	<li>Biala wymieta koszula</li>
+	<li>Odznaka, przetarta</li>
+	<li>Czarny plaszcz</li>
+	<li>stary Ford T</li>
+	<li>Zniszczona kawalerka w kiepksiej dzielnicy miasta</li>
+</ul>
 
 ## Opisy sesji
 ### Sesja 1
