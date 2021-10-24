@@ -1,5 +1,5 @@
 # Henderson Hogue - Agent federalny
-<img src="./federal_agent_noir.png" style="width:500px;height:600px;">
+<img src="./federal_agent_noir.png" style="width:250px;height:250px;">
 
 ## Sesje
 <ul>
