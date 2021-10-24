@@ -2,6 +2,7 @@
 <img src="./federal_agent_noir.png">
 
 ## Sesje
+[Sesje](#opisy-sesji) mozna znalezc tutaj:
 <ul>
 	<li>[Sesja 1](#sesja-1)</li>
 </ul>
@@ -58,3 +59,7 @@ Idealny strzelec, miejska dzungla jest jego podworkiem
 ## Tajemne ksiegi, zaklecia i artefakty
 
 ## Spotkania z dziwnymi istotami
+
+## Opisy sesji
+
+### Sesja 1
