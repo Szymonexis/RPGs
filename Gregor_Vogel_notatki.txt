@@ -123,14 +123,15 @@ Skonczylismy pod drzwiami - koniec labiryntu (ale nadal jestemy w katakumbach).
 -----Sesja no. 6-----
 
 Wrocilismy sie delikatnie do drzwi (ktore razily pradem). Otworzyl je Heidrich za pomoca magicznych run krasnoludzkich. Wchodzimy do komnaty ktore te drzwi kryly. Karkin otwiera dwie skrzynie - Leo zauwaza ze itemy w srodku sa zabezpieczone pulapkami. 
-Wyciagnelismy zdobione: pistolet, topor, miecz, wlocznie. Nagle zaczely zamykac sie zapadnie na koncach pokoju - sprintem udalo nam sie wybiec z itemami. Zdobylem zdobiony krasnoludzkimi runami 
-PISTOLET SAMOPOWTARZALNY - 6 luf, przeladowanie kosztuje 6 akcji podwojnych (6 tur) 
+Wyciagnelismy zdobione: pistolet, topor, miecz, wlocznie. Nagle zaczely zamykac sie zapadnie na koncach pokoju - sprintem udalo nam sie wybiec z itemami. Zdobylem zdobiony krasnoludzkimi runami:
+
+PISTOLET SAMOPOWTARZALNY - 6 luf, przeladowanie kosztuje 2 akcje podwojne (2 tury) 
 96 - 98 - szwankuje
 99 - 100 - wybucha
 Znaczenie run: 
 	- pierwszy strzal na US +30
-	- pierwsze przeladowanie skraca sie o polowe (stack z artylerzysta) (runa daje z 12 do 6
-		akcji + artylerzysta daje 5 akcji)
+	- pierwsze przeladowanie skraca sie o polowe (stack z artylerzysta) (runa daje z 4 do 2
+		akcji + artylerzysta daje 1 akcje)
 
 Wyszlismy z katakumb. Udajemy sie do karczmy, spotykamy tam krasnoludzkiego maga - kowala run - Halgrim'a. Widac ze jest zaciekawiony runami na naszej broni - jednak nie chce powiedziec co te runy znacza. Opowiadamy Halgim'owi o naszej przygodzie w katakumbach i ten zaciekawiony mowi nam ze jezeli oddamy mu ksiege to powie nam co znacza runy. Oddajemy mu ksiege i mowi nam co znacza runy (patrz gora PISTOLET SAMOPOWTARZALNY aby poznac znaczenie swoich run). 
 
@@ -138,7 +139,7 @@ Poszlismy zaprowadzic Halgrim'a do katakumb. Halgrim sam znalazl biblioteke. Idz
 
 Znajdujemy sie w komnacie pelnej stalaktytow i stalagmitow, pelno dziwnych napisow (brak krasnoludzkich run). To miasto scavenow. Spierdalamy (po paru problemach z nawigacja) z labiryntu i biegniemy po Halgrima do bibliotkei, Skaweny nas gonia. Zaslaniamy wejscie skalami i meblami. Skaweny sa super blisko. Zamykamy kamienne drzwi i skaweny nakurwiaja potezna furia w drzwi - setki skawenow sa zaraz a nimi i probuja je zburzyc. 
 
-Biegne do trazy - udalo mi sie zebrac 30 woja. Leo pobiegl do elektorki ona przyniesie wiecej strazy. Heidrich, Karkin i Kris walcza z krasnoludami u boku ze skawenami. 
+Biegne do strazy - udalo mi sie zebrac 30 woja. Leo pobiegl do elektorki ona przyniesie wiecej strazy. Heidrich, Karkin i Kris walcza z krasnoludami u boku ze skawenami. 
 
 Przewaga skawenow 3:1
 Ja nadal biege z wojami a Leo z reszta wojow.
@@ -148,4 +149,31 @@ Przybywam z 30 woja - nasza przewaga 3:1
 Przybywa Leo z konnymi elektorki - nasza przewaga - jezeli teraz zdobedziemy przewage to wygramy
 Zabicie maga skawenow (Heidrich)
 Skaweny przegraly, spierdolily spowrotem do katakumb i skaweny zapieczetowaly wejscie do katakumb skalami i magia. Koniec walki.
+
+-----Sesja no. 7-----
+Po bitwie spotykamy sie z ksiezna na polu bitwy - dziekuje nam za odgonienie skawenow. 
+Spotykamy sie ze straza i opowiadamy o skawenach oraz calej sytuacji z Halgrimem.
+
+Leopold dostaje listy od gonca - pierwszy list od matki, drugi list od kochanki
+
+Leo powinien zadbac o swoja ukochana - powinnismy sie niedlugo udac do Alendorfu.
+
+Heidrich i Karkin poszli do siedziby Gildii. Zastaja kompletny rozpierdol po walce ze skawenami, dziur w scaianach pelno kamieni z sufitu pospadalo na podloge itd. 
+
+Tymczasem mezczyzna o blond wlosach i zielonym odzieniu podejrzanie sie rozglada w dzielnicy Aldi (stare budynki). Skradam sie do tego miejsca - wszystko zasloniete (okna), klapa do piwnicy rowniez zamknieta.
+Wleciaem do srodka - udajac debila ze niby piwo tam sprzedaja - wraz z mezczyzna wpadam do srodka. Wokol mnie 10 mezczyzn ze sztyletami.
+
+Leo i Krisu ida mnie szukac - zostaja zaatakowani na zewnatrz przez tych samych mezczyzn - Leo zostal znokautowany, Krisu walczy lukiem.
+
+Zostalismy zlapani - jestesmy w celi. Ktos nas przesluchuje (Heronimus Ostwald) - okazuje sie ze Hadred (lowca czarownic ktorego spotkalismy na poczatku kampanii) jest kultysta Tzintcha i wrabia nas a zmowe ze Skavenami zeby podbic Nuln.
+
+Wydostalismy sie - dzieki Heidrichowi i jego magii - z wiezienia. Poszlismy do ksiaznej i mimo ze oficjalnie nam nie pomaga to nas nie zatrzymuje. Udajemy sie do Hadreda (zdrajcy, kultysty, wiedzmaka). W miesjcu gdzie nas trzymano Hadred juz na nas czeka, zamienil sie w latajacego stwora.
+
+Ubijam stwora morgensternem lamiac mu kark, zabieram 4 pistolety nalezace do lowcy czarownic.
+
+Przeszukujac cialo wiedzmina dotknalem jego spaczonego ciala i doszlo do mutacji - TELEKINEZA (dojdzie do manifestacji przez MG). Zdobywam 4 pistolety, kabury na te pistolety oraz 12 naboi z prochem.
+
+
+
+
 
