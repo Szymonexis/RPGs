@@ -90,4 +90,41 @@ Pobieglem do wiedzmina i pogralem dlugo z wiedzminem, finalnie nie udalo mi sie 
 
 Joseph wychodzi z karczmy. Musial wyjsc wczesnie bo jutro od samego rana musi pomoc Elizie.
 
-Priscilla mnie wychacza i idziemy na dlugi spacer. Rozmawiamy o  tym co bylo co jest i co bedzie - o jej marzeniach i lepiej sie poznajemy. Odprowadzam ja do domu i kieruje sie do przytulku kolo swiatyni Szaliji.
+Priscilla mnie wychacza i idziemy na dlugi spacer. Rozmawiamy o tym co bylo co jest i co bedzie - o jej marzeniach i lepiej sie poznajemy. Odprowadzam ja do domu i kieruje sie do przytulku kolo swiatyni Szaliji.
+
+---
+
+Poszlismy spac - jest gleboka noc, delikatnie pada deszczyk. Kazdemu z nas cos sie sni:
+
+- Rior ma sny przemarszu wojsk
+- Naen o ludziach wyciaganych z chat
+- Lin sni o tlumach ludzi, ognisku i namiotach
+- A mi snia sie dwa wielkie namioty nad jeziorem a w jeziorze kapiaca sie kobiete
+
+---
+
+Budzimy sie wszyscy rano. Naen przechodzac po przytulku widzi jakie kartki a notatkami cyrulicznymi Cadfelta i idzie w strone jego sypialni. Naen widzi ze sypialnia Cadfelta jest pusta a wszystkie szafki sa pootwierane a ich zawartosc przeszukana.
+
+Lin w kuchni widzi taki sam rozpierdol jak Naen w sypialni Cadfelta. Naen biegnie do miasteczka a Lin przeszukuje reszte domu. Lin wchodzi do pracowni i widzi ze ksiegi zakazane leza porozrzucane na podlodze. Zauwaza tez ruszajaca sie deske - usuwa ja z drogi - patrzy a tam peleryna cala czarna z jakimis oznakowaniami.
+
+---
+
+Naen budzi Riona i prosi go zeby obudzil wiedzmina - "Okradli nas!". Wiedzmin obudzony widac ze ma oczy z pionowymi zrenicami.
+
+Rion budzi Henryka i mowi mu o tym ze cyrulik Cadfelt zostal okradziony. Tamten odrazu organizuje zbiorke w wiosce zeby zalatwic 40 zk dla wiedzmina zeby zaczal sledztwo.
+
+Lin slyszy krzyki swojego brata z ogrodu. Nean drze pizde bo krzaczki zostaly podjebane.
+
+---
+
+Eliza mnie budzi i mowi ze Joseph dostal porannezadania a ja mam dzisiaj umyc podlogi w swiatyni i jak skoncze to reszta dnia jest moja. Mije te podlogi, widze Urala (starca co ma "milion lat"). Rozmawiam z nim dzien jakos mija...
+
+---
+
+Wiedzmin z Rion'em ida na miejsce zbrodni. Wiedzmin pokazuje Rion'owi co gdzie i jak - Rion chuja rozumie. Wiedzmin znajduje tajemne przejscie w pracowni Cadfelta.
+
+---
+
+Ja koncze swoja pracew swiatyni, dostaje od Elizy pare szylingow za dobra prace i udaje sie do karczmy. Tam opierdalam paczka z kaszanka i zurawina - smakuje mi niesamowicie - bedzie nowa pozycja w menu. Henryk mowi mi co sie stalo w przytulku - biegne tam ogarnac co sie dzieje.
+
+Rion tlumaczy mi co sie odiwanilo - slyszymy gonca na moscie. Mowi ze za pare dni przez nasza wioske bedzie przejezdzalo wojsko imperialne.
