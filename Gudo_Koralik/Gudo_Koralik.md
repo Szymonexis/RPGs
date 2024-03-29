@@ -128,3 +128,9 @@ Wiedzmin z Rion'em ida na miejsce zbrodni. Wiedzmin pokazuje Rion'owi co gdzie i
 Ja koncze swoja pracew swiatyni, dostaje od Elizy pare szylingow za dobra prace i udaje sie do karczmy. Tam opierdalam paczka z kaszanka i zurawina - smakuje mi niesamowicie - bedzie nowa pozycja w menu. Henryk mowi mi co sie stalo w przytulku - biegne tam ogarnac co sie dzieje.
 
 Rion tlumaczy mi co sie odiwanilo - slyszymy gonca na moscie. Mowi ze za pare dni przez nasza wioske bedzie przejezdzalo wojsko imperialne.
+
+Po 10 minutach widzimy ze wiedzmin wraca z Naen'em i Lin'em. Pyta sie nas o jakies niezwykle rzeczy lub cos nienormalnego. Bez slowa podchodzi do skraju lasu i przypatruje sie ziemi. Zadaje pytania o Cadfelta - mowi ze wyglada jakby ktos go porwal. Mozliwe ze jego przeszlosc go dogonila.
+
+Wiedzmina bierze nas w las - prowadzi nas za szlakiem Cadfelta. Nagle zatrzymuje sie przy jakims kamieniu, rusza dziwnie rekoma i kamien sie zaczyna swiecic. Pyta czy gdzies tutaj nie ma miejsca gdzie ktos moglby sie ukryc - Naen i Lin pamietaja ze niedaleko jest jaskinia. Idziemy tam. Wchodzac do jaskinii widzimy ze ktos tam zrobil prowizoryczne schornisko z desek wraz z drzwiami. Jest dziwnie ciemno i zimny dreszcze przechodzi nas po karkach...
+
+Podbiega do nas Rufus - pies Naen'a. Wiedzmin odrazu go ucisza i karze nam byc cicho wyjmujac srebrny miecz. Widac dym z jaskini. Wiedzmin probuje delikatnie otworzyc drzwi. Bardzo powoli nimi buja w taki sposob zeby nie zakrzypialy.
