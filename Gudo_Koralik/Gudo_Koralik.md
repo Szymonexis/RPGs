@@ -15,7 +15,7 @@ Inni gracze:
 - Joseph Muller (Krisu) (sluga) (czlowiek) (sluga w przytulku)
 - Thet-An Naen (Janek) (bajarz) (elf) (chlopiec w przytulku - brat Lin'a)
 - Mor'Ol'Lin (Kuba) (podrzegacz) (elf) (chlopiec w przytulku - brat Naen'a)
-- Eastern Rion (Maciek) (cyrkowiec) (elf) (chlopiec z karczmy)
+- Eastern Riorn (Maciek) (cyrkowiec) (elf) (chlopiec z karczmy)
 
 Cecha fizyczna: Wszystkie wlosy sie kreca
 Cecha psychiczna: Dziecinny
@@ -38,7 +38,7 @@ Joseph siedzi na rynku, nic sie nie dzieje wiec oddaje sie swojemu ulubionemu za
 
 ---
 
-Rion jest w karczmie razem ze mna. Ja siedze sobie i pokazuje Rionowi sztuczke karciana. Probuje go namowic na zaklad za szylinga ale odmawia. Wtem przychodzi do mnie wysoki (2 metrowy) zakapturzony mezczyzna i proponuje partie pokera. Wejscie 1zk a ja stawiam swoje kosci (z kosci). Widze ze mezczyzna uklada karty ale ja jestem w stanie je mniej wiecej policzyc.
+Riorn jest w karczmie razem ze mna. Ja siedze sobie i pokazuje Riornowi sztuczke karciana. Probuje go namowic na zaklad za szylinga ale odmawia. Wtem przychodzi do mnie wysoki (2 metrowy) zakapturzony mezczyzna i proponuje partie pokera. Wejscie 1zk a ja stawiam swoje kosci (z kosci). Widze ze mezczyzna uklada karty ale ja jestem w stanie je mniej wiecej policzyc.
 
 ---
 
@@ -48,7 +48,7 @@ Lin poszedl szukac brata ktory nagle zniknal z zadania zbierania ziol na poletka
 
 ---
 
-W karczmie - Rion krzyczy na Naen'a zeby nie chodzil po mokrym. Naen wskakuje na stol upierdalajac go calego blotem. Lin to samo. Gram z nieznajomym i widze ze mam fula a on tylko pare. Mowi "Zaraza..." i odchodzi. Wygralem zloata korone :3
+W karczmie - Riorn krzyczy na Naen'a zeby nie chodzil po mokrym. Naen wskakuje na stol upierdalajac go calego blotem. Lin to samo. Gram z nieznajomym i widze ze mam fula a on tylko pare. Mowi "Zaraza..." i odchodzi. Wygralem zloata korone :3
 
 Naen probuje nieznajomego zaczepic ale tamten sie nie daje. Wchodzi lutniarz - gladki, dobrze ubrany, czysty. Naen go zaczepia (probuje pisac opowiesci na podstawie historii nieznajomych).
 
@@ -109,28 +109,96 @@ Lin w kuchni widzi taki sam rozpierdol jak Naen w sypialni Cadfelta. Naen biegni
 
 ---
 
-Naen budzi Riona i prosi go zeby obudzil wiedzmina - "Okradli nas!". Wiedzmin obudzony widac ze ma oczy z pionowymi zrenicami.
+Naen budzi Riorna i prosi go zeby obudzil wiedzmina - "Okradli nas!". Wiedzmin obudzony widac ze ma oczy z pionowymi zrenicami.
 
-Rion budzi Henryka i mowi mu o tym ze cyrulik Cadfelt zostal okradziony. Tamten odrazu organizuje zbiorke w wiosce zeby zalatwic 40 zk dla wiedzmina zeby zaczal sledztwo.
+Riorn budzi Henryka i mowi mu o tym ze cyrulik Cadfelt zostal okradziony. Tamten odrazu organizuje zbiorke w wiosce zeby zalatwic 40 zk dla wiedzmina zeby zaczal sledztwo.
 
 Lin slyszy krzyki swojego brata z ogrodu. Nean drze pizde bo krzaczki zostaly podjebane.
 
 ---
 
-Eliza mnie budzi i mowi ze Joseph dostal porannezadania a ja mam dzisiaj umyc podlogi w swiatyni i jak skoncze to reszta dnia jest moja. Mije te podlogi, widze Urala (starca co ma "milion lat"). Rozmawiam z nim dzien jakos mija...
+Eliza mnie budzi i mowi ze Joseph dostal poranne zadania a ja mam dzisiaj umyc podlogi w swiatyni i jak skoncze to reszta dnia jest moja. Mije te podlogi, widze Urala (starca co ma "milion lat"). Rozmawiam z nim dzien jakos mija...
 
 ---
 
-Wiedzmin z Rion'em ida na miejsce zbrodni. Wiedzmin pokazuje Rion'owi co gdzie i jak - Rion chuja rozumie. Wiedzmin znajduje tajemne przejscie w pracowni Cadfelta.
+Wiedzmin z Riorn'em ida na miejsce zbrodni. Wiedzmin pokazuje Riorn'owi co gdzie i jak - Riorn chuja rozumie. Wiedzmin znajduje tajemne przejscie w pracowni Cadfelta wraz ze skrzynia i tajemniczymi, ciemnymi szatami. Nie wiemy co moge oznaczac.
 
 ---
 
-Ja koncze swoja pracew swiatyni, dostaje od Elizy pare szylingow za dobra prace i udaje sie do karczmy. Tam opierdalam paczka z kaszanka i zurawina - smakuje mi niesamowicie - bedzie nowa pozycja w menu. Henryk mowi mi co sie stalo w przytulku - biegne tam ogarnac co sie dzieje.
+Ja koncze swoja prace w swiatyni, dostaje od Elizy pare szylingow za dobra prace i udaje sie do karczmy. Tam opierdalam paczka z kaszanka i zurawina - smakuje mi niesamowicie - bedzie nowa pozycja w menu. Henryk mowi mi co sie stalo w przytulku - biegne tam ogarnac co sie dzieje.
 
-Rion tlumaczy mi co sie odiwanilo - slyszymy gonca na moscie. Mowi ze za pare dni przez nasza wioske bedzie przejezdzalo wojsko imperialne.
+Riorn tlumaczy mi co sie odiwanilo - slyszymy gonca na moscie. Mowi ze za pare dni przez nasza wioske bedzie przejezdzalo wojsko imperialne.
 
 Po 10 minutach widzimy ze wiedzmin wraca z Naen'em i Lin'em. Pyta sie nas o jakies niezwykle rzeczy lub cos nienormalnego. Bez slowa podchodzi do skraju lasu i przypatruje sie ziemi. Zadaje pytania o Cadfelta - mowi ze wyglada jakby ktos go porwal. Mozliwe ze jego przeszlosc go dogonila.
 
 Wiedzmina bierze nas w las - prowadzi nas za szlakiem Cadfelta. Nagle zatrzymuje sie przy jakims kamieniu, rusza dziwnie rekoma i kamien sie zaczyna swiecic. Pyta czy gdzies tutaj nie ma miejsca gdzie ktos moglby sie ukryc - Naen i Lin pamietaja ze niedaleko jest jaskinia. Idziemy tam. Wchodzac do jaskinii widzimy ze ktos tam zrobil prowizoryczne schornisko z desek wraz z drzwiami. Jest dziwnie ciemno i zimny dreszcze przechodzi nas po karkach...
 
 Podbiega do nas Rufus - pies Naen'a. Wiedzmin odrazu go ucisza i karze nam byc cicho wyjmujac srebrny miecz. Widac dym z jaskini. Wiedzmin probuje delikatnie otworzyc drzwi. Bardzo powoli nimi buja w taki sposob zeby nie zakrzypialy.
+
+# Sesja 2 - 15.07.2024
+
+(Rozwoj 2 + 1 darmowe)
+
+Wiedzmin (Raven) skrada sie do drzwi - przysluchuje sie, delikatnie otwiera drzwi. Wyciagamy bron i udajemy sie za Ravenem do srodka jaskini. Czujemy chlodne i wilgotne powietrze, sciany pokryte delikatna warstwa sluzu, daja efekt jakby oddychaly. Krople wody nie pozwalaja sie w 100% skupic.
+
+Raven zatrzymuje sie po paru krokach, wyjmuje z plecaka fiolke ze srebrnym, mieniacym sie plynem. Zauwazam ze sciany sa pokryte porostami ktore oddaja swiatlo - kolory zmieniaja sie z zielonego na fiolet na czerwien i spowrotem.
+
+Idziemy w glab i jest coraz wiecej sluzu, porostow. Pod nogami coraz wiecej lisci i kosci malych zwierzat. Korytarz otwiera sie na przestronna sale, tak duza ze nie widac sufitu.
+
+Widac na srodku drwieniany stol z resztkami krwii, wokol kadzidla i swiece. Kadzidla pachna ziolami opiekuna Naen'a i Lin'a (Catfeld). Za stolem znajduja sie okragle, ogromne, kamienne drzwi.
+
+Joseph slyszy Cadfelta jak gada z kims za tymi drzwiami, rozmawia z kims. Nieznany glos grozi Cadfeltowi. Wtedy Raven otwiera kamienna drzwi aby uratowac Cadfelta.
+
+W srodku jest 4 mezczyzn i Cadfelt. Raven wchodzi tam na pelnej kurwie gotowy do walki, Joseph patrzy zza framugi, my rowniez. Szata jednego z mezczyzn nie odbija swiatla, jego skor pokryta jest tatuazami, a mezczyzna jest widocznie starszy od reszty.
+
+Wtem Naen wychodzi wraz z Lin'em gadajac cos o tym ze sa grupa cyrkowcow. Dziad stoi w miejscu, Raven probuje sie skradac ale mu sie nie udaje (jakby stal w miejscu). Adepci ida w nasza strone.
+
+Riorn rzuca nozem i trafia starucha w ramie. Ja strzelam mu z procy, on sie do mnie usmiecha i teleportuje sie za mnie.
+Adpeci zaczynaja sie miedzy soba klocic (roll na 100 na inteligencje).
+
+Magowie sa adeptami kolegium cienia - palaja sie w iluzjach.
+
+---
+
+Wojt wioski oglasza za za dwa dni przyjada wojska imperialne i trzeba przygotowac wioske pod to. WOjt rozdaje nam zadania:
+
+- Riorn: pomoc przy ognisku
+- Naen: pomoc przy ognisku
+- Lin: ulotki rekrutacyjne
+- Joseph: pomaganie w swiatyni
+- Gudd'o: pomaganie w swiatyni
+
+Lin tworzy idealne ulotki, bardzo szybko.
+Joseph i ja pomagamy w swiatyni. Lozka wyjebaly sie na mnie (stracilem 2 hp). Joseph mi pomaga (bedzie tam sypialnia dla zolnierzy).
+Naen i Riorn przygotowywuja ognisko - niosac drewno, Riorn stracil koncentracje i zaczal biec za zwierzyna (teraz bedzie wielki lowca od czasu kiedy kupil luk).
+
+Ostatniego dnia przygotowan na przybycie wojska, podczas popoludniowej modlitwy w swiatyni, poczulem obecnosc, takie dziwne cieplo. Mam wrazenie ze na dloni cos mnie przypieklo. Pojawil sie gleboki slad jakby ktos mi cos wypalil a potem to cos zniknelo - na prawej rece. Byla to pieczec bialej golebicy - znak Szaliji.
+
+![IMPORTANT]
+Eliza tlumaczy podstawy wyznawcow Szaliji:
+
+- nie zabijaj
+- nigdy nie odmawiaj pomocy potrzebujacemu
+- nie zatrzymuj duszy jezeli nadejdzie jej czas odejscia w zaswiaty
+- krocz przez zycie bez bronim potrzebny ci tylko podrozny kij
+- zwalczaj Nurgla, wladcy much we wszystkich jego postaciach i wszystkie jego slugi
+
+To moment zwrotny mojej postaci, powinienem probowac zostac akolita/kaplanem aby spotegowac pomoce Szaliji w dalszych podrozach.
+
+Wieczorem, juz w lozkach w swiatyni, Joseph opowiada nam swoja historie, Pokazuje nam dwa obrazy (gory w nocy i czerwony korpus). Opowiada jak zostal sprzedany jakiemus krolowi i jego sadystycznej corce. Uratowala go rodzina szlachcickich elfow i od tamtego czasu pracuje w swiatyni ze mna i Eliza.
+
+---
+
+Dzien przyjazdu wojska.
+
+Z rana slyszymy wiele krokow. Naen chodzi z woda i proponuje picie ale zmeczeni zolnierze go ignoruja. Lin poznal oficera i pokazuje mu ulotki zachecajace na przylaczenie sie do szeregow. Joseph i ja pomagamy w swiatyni - ja tez modle sie zeby uzyskac pomoc od Szaliji, gdzie mam sie kierowac w zyciu z laska i spojrzeniem.
+
+W swiatynie zorganizowane zostaje pomieszczenie oficerskie, zolnierze jedza i pija, odpoczywaja. Nadchodzi wieczor, czas ogniska. Naen rabie drewno a Riorn caly czas szuka zwierzyny do lowienia. Lin przychodzi i zaczynaja razem rabac drewno na ognisko.
+
+Naen rozpala ognisko a Lin przemawia do ludzi zeby zebrac ich na ognisko. Zolnierze zbieraja sie z miesem i trunkiem wokol ogniska. Naen naciera twarz weglem i opowiada opowiesc o dzikosci. Opowiesc o dwoch braciach - Naen'ie i Mor'Lin'ie. Opowiada to co stalo sie cztery dni temu z Raven'em, cyrulikiem Cadfeld'em, oraz cala reszta nas. Opowiesc porawala tlumy - wszyscy stoja i bija brawo. Jaskier i Raven rownierz bija brawo jednakze prosza Naen'a aby nie opowiadal tej opowiesci zbyt czesto.
+
+Po wieczorze pelnym emocji, kladziemy sie spac u Cadfeld'a.
+
+---
+
+Budzimy sie rano, a moe nie rano? Jest bardzo jasno. Wtem jeden zolnierz wbiega do dmu Cadfeld'a - z buta wybija drzwi z framugi. Zolnierze wyciagaja dzieci z domow. Budzimy Cadfeld'a. Pokazujemy pomoc przy ogniskumu plonace domy na zewnatrz. Jedenz zolnierzy odbiega do Lin'a i mowi "O, TY BEDZIESZ KOLEJNY!".
