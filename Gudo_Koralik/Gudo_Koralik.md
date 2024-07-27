@@ -2,7 +2,7 @@
 
 ![](Gudo_Koralik.webp)
 
-Gudo "Koralik" (niziolek) pochodzi z Krainy Zgromadzen - rodzimych ziem niziolkow.
+Gudd Gudo "Koralik" (niziolek) pochodzi z Krainy Zgromadzen - rodzimych ziem niziolkow.
 
 Moja przepowiednia:
 
@@ -174,7 +174,8 @@ Naen i Riorn przygotowywuja ognisko - niosac drewno, Riorn stracil koncentracje 
 
 Ostatniego dnia przygotowan na przybycie wojska, podczas popoludniowej modlitwy w swiatyni, poczulem obecnosc, takie dziwne cieplo. Mam wrazenie ze na dloni cos mnie przypieklo. Pojawil sie gleboki slad jakby ktos mi cos wypalil a potem to cos zniknelo - na prawej rece. Byla to pieczec bialej golebicy - znak Szaliji.
 
-![IMPORTANT]
+## IMPORTANT
+
 Eliza tlumaczy podstawy wyznawcow Szaliji:
 
 - nie zabijaj
@@ -201,4 +202,75 @@ Po wieczorze pelnym emocji, kladziemy sie spac u Cadfeld'a.
 
 ---
 
-Budzimy sie rano, a moe nie rano? Jest bardzo jasno. Wtem jeden zolnierz wbiega do dmu Cadfeld'a - z buta wybija drzwi z framugi. Zolnierze wyciagaja dzieci z domow. Budzimy Cadfeld'a. Pokazujemy pomoc przy ogniskumu plonace domy na zewnatrz. Jedenz zolnierzy odbiega do Lin'a i mowi "O, TY BEDZIESZ KOLEJNY!".
+Budzimy sie rano, a moze nie rano? Jest bardzo jasno. Wtem jeden zolnierz wbiega do domu Cadfeld'a - z buta wybija drzwi z framugi. Zolnierze wyciagaja dzieci z domow. Budzimy Cadfeld'a. Pokazujemy pomoc przy ogniskum i plonace pochodnie na zewnatrz. Jeden z zolnierzy dobiega do Lin'a i mowi "O, TY BEDZIESZ KOLEJNY! TY SIE NADASZ!".
+
+# Sesja 3 - 26.07.2024
+
+Zolnierz stoi w drzwiach. Wchodzi do srodka. Lin i Naen budza nas, widzimy ze nie ma nigdzie Riorn'a. Joseph i ja ubieramy sie szybko. Naen wywala z domu zolnierza i zamyka drzwi. Zolnierz sie poddaje.
+
+Widzimy jak zolnierze w calej wiosce zbieraja mlodych mezczyzn i mlode kobiety na glowny plac. Cadfelt barykaduje drzwi i kaze nam uciekac.
+
+Wypadamy przez tylne drzwi, slyszymy jak zolnierze za nami pytaja Cadfelta gdzie jestesmy. Spierdalamy do lasu na polnoc - chcemy pobiec do swiatyni. Widzimy oka mgnieniem ze Cadfelt lezy na podlodze i cos szepcze i rusza dlonmi.
+
+Skradamy sie po lini lasu do swiatyni, wtem napotykamy Ravena i Leanarda (lowca i bajarz). Mowia nam ze nie mozemy uciekac przez las, trzeba isc przez rzeke i przejsc przez most.
+
+Kierujemy sie do swiatyni - wielu ludzi ze swiatyni zostaje wyciagnietych przez zolnierzy. Uderza Elize ale nie mozemy jej pomoc narazie - Szalija tez mnie nie slyszy. Joseph probuje zwrocic uwage zolnierzy rzucajac kamieniami ale nic nie dziala. Raven i reszta sie oddalaja ale nie biegniemy za nimi zeby sie nie wypierdolic.
+
+Dochodzimy do mostu, 20 zolnierzy stoi odwrocne plecami jakies 200 metrow od mostu. Przechodzimy przez most i dochodzimy do mlyna ktorego wlascicielem jest Tobiarz. Mlyn jest otwarty ale drzwi sa zamkniete. Podbiegam do drzwi i otwieram je powoli widze niziolke (okragla, w mundurze za duzy z fafluniscie podpietymi oznakami i emblematami, ciemnobrazowe, duze oczy, rude wlosy, przestraszona, zastyga w bezruchu).
+
+Nizolka schowala sie za filarem, na srodku jest jedna pochodnia. Lin wkurzony, wbija z kopem do mlyna. Niziolka nadal chowa sie za filarem.
+Joseph mowi niziolce "Te z rudymi wlosami wychodz!" i wyciaga miecz. Klocimy sie miedzy soba zeby nie przestraszyc nizolki kiedy Lin i Jospeh sa nastawieni agresywnie do ubranej w mundur nizolki.
+
+Tobiarz wchodzi do mlyna w pizamie, niziolka nadal sie chowa a Jospeh nadal ma wyciagniety miecz. Jest skonfundowany, tlumaczymy mu co sie dzieje w wiosce. Tobiarz widzi ja pierwszy raz.
+
+Ona ltumaczy ze dostala oferte nie do domowienia. Wojsko ja wzielo ale udalo jej sie uciec w naszej wiosce. Jej oferta nie do odmowienia byly grozby mieczem.
+
+Tobiarz sciagnal Lin'a na bok i mowi mu ze jest tunel do tajnej kryjowki Cadfelta ktorym mozemy uciec i tam bedziemy bezpieczni.
+
+Wchodzimy do tunelu ktory tobiarz wraz z linem otworzyli. idziemy i na koncu kraty.
+
+## Nowa postac - **Murc-Lotta "Podplomyk"**
+
+**Murc-Lotta "Podplomyk"** - nasza nowa niziolka. Jej potrzeba i marzeniem jest wrocic do rodzimej wioski. Jest cyrulikiem. Jest urokliwa. Chcialoby sie powiedziec ze jest ladniejsza od 50% spoleczenstwa. Widac ze mowi prawde bo widac charakterytyczne szramy na jej rekach. Jest dentystka - poszla w slady ojca i prowadzila jego klinike w wiosce.
+
+Joseph pierdoli... - nadal nie ufa Murc-Lott'cie.
+
+Idziemy jaskinia i widzimy wyjscie. Wychodzimy, widac pagorek a na nim wieze, lekko podniszczona. Wyglada jak stara wieza graniczna. Ide w jej strone. Reszta za mna. Dochodzimy do wiezy. Spokoj, cicha, delikatny wiaterek a ptaszki spiewaja. Drzwi wiezy sa drewniane, jest zimno ale nie nieprzyjemnie. Ciemno, kamienne schody, cale, pna sie ku gorze.
+
+Gdzie niegdzie zapasy ale wiekszosc zgnila, stare meble i w rogu zeliwny garnuszek. Wraz z Lott'a bierzemy sie z przejzenie wekow i kiedy Naen da sygnal ze mozna rozpalic ognisko to przyzadzimy jakas strawe.
+
+Joseph i Lin poszli na 1 pietro - widza tam torby, stol alchemiczny i suchy prowiant. Na stole jest ksiega, Joseph czyta ze to ksiega o zielarstwie. Probuja ja podniesc ale nie sa w stanie - chyba jest przytwierdzona.
+
+Na 2 pietrze Naen widzi plachty, dywany i wychodzacy na zewnatrz balkon oraz drzwi.
+
+Na 3 pietrze (dach) Naen widzi okolice. Wielka polana, na granicy drzew zwierzeta. Zza linii drzew widzi zabudowania - mozliwe ze to nasza wioska Reinsfield. Nie widac zadnych innych zabudowan ani zadnych ludzi ani dymu.
+
+Nagle slychac rozbijane fiolki na 1 pietrze, to Lin sfrustrowany musial sie wyrzyc. Rozmawiaja jak brat z bratem.
+
+Tymczasem Joseph sprawdzal pokoje na gorze a Ja i Lotta poszlismy zbierac drewno ale ze jestesmy debilami (jezeli chodzi o przetrwanie) to udaje nam sie tylko zebrac lekko mokre galezie i runo lesne. Lotta znajduje pudeleczko pelne zapalek i mozemy go uzyc do rozpalenia ognia. Ogien niesetyt tylko sie tli dlatego wychodze na zewnatrz w celu scieca mieczem jakichs mniejszych drzew.
+
+Lotta zaczyna gotowa a ja dokladam drewna. Gulasz z serem i sucharkami jest pyszny, syty i nawet Josephowi uszy sie trzesa.
+
+Joseph zamkna sie w pokoju i zaczal malowac krwia ale zadne z nas tego nie wie.
+
+My po dwoch miskach gulaszu poszlismy spac jeszcze w trakcie jedzenia.
+
+---
+
+Budzimy sie wieczorem tego samego dnia. Joseph zszedl do nas. Teraz powoli zaczyna nas uderzac ze jestesmy pierwszy raz sami bez niczyjej opieki
+
+Po dluzszej naradzie dochodzimy do wniosku ze wracamy do Tobiasza tunelem - zabierajac prowiant, ksiege z czytelnika (brakuje jej tylnej okladki bo ja wyrwalismy). Idziemy i nagle daleko w lesie slyszymy dzwieki wilkow lub psow. Szybko pakujemy sie do otworu tunelu.
+
+W srodku ciemno i zimno tak jak wczesniej. Dochodzimy do drewnianego sufitu. Poprzez drewniane deski klapy slyszymy wachanie psa. Z mysla ze to pies Tobiasza, Lalek, Joseph wola go i slyszy piski i drapanie w klape. Joseph otwiera klape wraz z Lin'em. Wychylamy glowy przez drzwii i widzimy w glab wioski gdzie widac znacznie mniej namiotow wojska. Widac troche psow i swiatlo w domu Tobiasza.
+
+Nean sie skrada do domu Tobiasza.
+
+Slyszymy ze ktos sie skrada w naszym kierunku, ale ledwo co to slychac. Czaimy sie w mlynie i rzucamy sie na intruza. To Naen.
+
+Mowi ze nasza ucieczka byla glosna sprawa i zostaly dwa pulki zolnierzy zeby nas szukac. Musimy stad uciekac jak najszybciej mozemy. Eliza i Cadfelt sa cali. Tobiasz powiedzial ze musimy uciekac wraz z nurtem rzeki az do rozwidlenia.
+
+Idziemy wzdluz rzeki, slyszymy raz co raz zwierzeta. Nagle slyszymy dzwieki kopyt. Chowamy sie w chaszczach. Kopyta zaczynaja galopowac w nasza strone. To Bestigory! Pol kozy pol ludzie (troche jak minotaury ale to kozy).
+
+Probujemy uciec od bestigor ale zmuszeni jestesmy do walki. Joseph wali z miecza ja z procy ale nic to nie daje. Jedna z bestigor wpieprza sie w rzeke probujac mnie nadziac na swoje rogi ale udaje mi sie uniknac. Lotta ucieka a Lin wali w bestigore ale nic to nie daje, bestia jest za mocna. Probuje temu w rzece skoczyc na plecy ale sie nie udaje - odrazu jak na niego wskoczylem to mnie zrzucil do rzeki. W odwecie probuje mnie nadziac na rogi jeszcze raz ale znowu mu sie nie udaje. Joseph, Naen i Lin walcza z poprzednim bestigorem. Joseph zamachnal sie mieczem nie trafil ale jak nim wracal zamachanl sie pod pache bestigora i odcial mu reke. Bestia drze sie w nieboglosy. Atakuje drugiego bestigora wrecz ale uderzam w udo. Ten zamacha sie we mnie mieczem ale przelatuje nad moja glowa. W koncu jednak mu sie udaje, dostaje w glowe za 5 pktow. Naen trafia bestie poteznie i sprawia ze teraz na nim sie skupia. Joseph trafia w noge bestii i sprawia ze sie topi w rzece. Obie bestigory pokonane.
+
+Szlismy cala noc w kierunku nurtu rzeki. Jestesmy padnieci, we krwii, mokrzy. Polozylismy sie posrodku lasu, przy ognisku ktore Joseph rozpalil przy uzyciu swojego krzesiwa i oleju.
