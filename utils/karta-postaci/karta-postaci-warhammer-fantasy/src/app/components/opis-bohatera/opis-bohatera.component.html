@@ -1,0 +1,17 @@
+<div class="opis-bohatera section">
+  <div class="section__header">Opis bohatera</div>
+
+  <div class="section__content">
+    @for (config of inputConfigs; track $index) {
+    <div class="field__expand">
+      <label [for]="config.key"> {{ config.key }}: </label>
+      <input
+        [id]="config.key"
+        [type]="config.type"
+        [required]="config.required"
+        (change)="dataService.onInputChange($event)"
+      />
+    </div>
+    }
+  </div>
+</div>
