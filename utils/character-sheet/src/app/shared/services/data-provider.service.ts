@@ -3,13 +3,13 @@ import { BehaviorSubject } from 'rxjs';
 import { DOCUMENT } from '@angular/common';
 import { Inject, Injectable } from '@angular/core';
 
-import { SheetData } from './data-provider.model';
+import { SheetData, DEFAULT_SHEET_DATA } from './data-provider.model';
 
 @Injectable({
   providedIn: 'root',
 })
 export class DataProviderService {
-  sheetData$ = new BehaviorSubject<SheetData | null>(null);
+  sheetData$ = new BehaviorSubject<SheetData>(DEFAULT_SHEET_DATA);
 
   constructor(@Inject(DOCUMENT) private document: Document) {}
 
@@ -34,14 +34,14 @@ export class DataProviderService {
             const data = JSON.parse(fileContents);
             this.sheetData$.next(data);
           } catch (error: any) {
-            console.error('Error parsing JSON:', error);
-            alert('Error parsing JSON: ' + error.message);
+            const err = error as Error;
+            console.error('Error parsing JSON:', err);
+            alert('Error parsing JSON: ' + err.message);
           } finally {
             input.remove();
           }
         };
 
-        // Handle any errors that occur while reading the file
         reader.onerror = (e: ProgressEvent<FileReader>) => {
           console.error('Error reading file:', e);
           alert('Error reading file: ' + e.target?.error?.message);

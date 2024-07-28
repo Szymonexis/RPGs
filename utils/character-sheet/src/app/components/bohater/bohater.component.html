@@ -1,1 +1,31 @@
-<p>bohater works!</p>
+@if (data && name) {
+<div class="section">
+  <div class="section__header">{{ name }}</div>
+
+  <div class="section__content">
+    @if (data | instanceOf : heroClass) {
+    <ng-container *ngIf="{ data: $as(data, Hero) } as ctx">
+      <div class="field--expand">
+        <label>Imie: </label>
+        <input type="text" [value]="ctx.data.name" />
+      </div>
+
+      <div class="field--expand">
+        <label>Rasa: </label>
+        <input type="text" [value]="ctx.data.race" />
+      </div>
+
+      <div class="field--expand">
+        <label>Aktualna profesja: </label>
+        <input type="text" [value]="data.currentProfession" />
+      </div>
+
+      <div class="field--expand">
+        <label>Poprzednia profesja: </label>
+        <input type="text" [value]="data.previousProfession" />
+      </div>
+    </ng-container>
+    }
+  </div>
+</div>
+}
