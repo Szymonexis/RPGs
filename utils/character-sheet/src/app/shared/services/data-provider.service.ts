@@ -3,7 +3,9 @@ import { BehaviorSubject } from 'rxjs';
 import { DOCUMENT } from '@angular/common';
 import { Inject, Injectable } from '@angular/core';
 
-import { SheetData, DEFAULT_SHEET_DATA } from './data-provider.model';
+import { SheetData } from './data-provider.model';
+
+const DEFAULT_SHEET_DATA = new SheetData();
 
 @Injectable({
   providedIn: 'root',

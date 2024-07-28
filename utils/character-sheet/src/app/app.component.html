@@ -4,9 +4,11 @@
   *ngIf="{ sheetData: dataProvider.sheetData$ | async } as viewData"
 >
   <div class="sheet">
-    <app-bohater
-      name="Bohater"
+    <app-simple-section
       [data]="viewData?.sheetData?.hero ?? null"
-    ></app-bohater>
+    ></app-simple-section>
+    <app-simple-section
+      [data]="viewData?.sheetData?.heroDescription ?? null"
+    ></app-simple-section>
   </div>
 </ng-container>

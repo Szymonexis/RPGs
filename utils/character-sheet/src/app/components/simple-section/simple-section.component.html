@@ -1,0 +1,46 @@
+@if (data) {
+<div class="section">
+  <div class="section__header">{{ data.propertyLabel }}</div>
+
+  <div class="section__content">
+    @if (data | instanceOf : Hero) {
+    <ng-container
+      *ngTemplateOutlet="heroTemplate; context: { hero: data }"
+    ></ng-container>
+    } @else if (data | instanceOf : HeroDescription) {
+    <ng-container
+      *ngTemplateOutlet="
+        heroDescirptionTemplate;
+        context: { heroDescription: data }
+      "
+    ></ng-container>
+    }
+  </div>
+</div>
+}
+
+<ng-template
+  #heroTemplate
+  [typedTemplate]="{ hero: $as(data, Hero) }"
+  let-hero="hero"
+>
+  @for (propKey of hero.getKeys(); track $index) {
+  <div class="field--expand">
+    <label>{{ hero[propKey].label }}</label>
+    <input type="text" [value]="hero[propKey].value" />
+  </div>
+  }
+</ng-template>
+
+<ng-template
+  #heroDescirptionTemplate
+  [typedTemplate]="{ heroDescription: $as(data, HeroDescription) }"
+  let-heroDescription="heroDescription"
+>
+  @for (propKey of heroDescription.getKeys(); track $index) {
+  <div class="field--expand">
+    <label>{{ heroDescription[propKey].label }}</label>
+    <input type="text" [value]="heroDescription[propKey].value" />
+  </div>
+  }
+</ng-template>

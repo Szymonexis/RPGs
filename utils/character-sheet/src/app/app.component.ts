@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { BohaterComponent } from './components/bohater/bohater.component';
+import { SimpleSectionComponent } from './components/simple-section/simple-section.component';
 import { GlobalStylesComponent } from './shared/components/global-styles/global-styles.component';
 import { DataProviderService } from './shared/services/data-provider.service';
 import { CommonModule } from '@angular/common';
@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [
     RouterOutlet,
-    BohaterComponent,
+    SimpleSectionComponent,
     GlobalStylesComponent,
     CommonModule,
   ],

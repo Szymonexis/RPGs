@@ -1,7 +1,35 @@
+import { Constructor } from '../utils/types';
+import {
+  BASIC_SKILL_NAMES,
+  MAIN_CHARACTERISTIC_KEYS,
+  SECONDARY_CHARACTERISTIC_KEYS,
+} from './data-provider.consts';
+
+type InputType = 'text' | 'number';
+
+function createDefaultMappedValue<T, K>(
+  keys: K,
+  valueConstructor: Constructor
+): T {
+  return (keys as []).reduce<T>(
+    (acc, key) => ({ ...acc, [key]: new valueConstructor() }),
+    {} as T
+  );
+}
+
+export class SheetValue<T> {
+  constructor(
+    public label: string = '',
+    public inputType: InputType = 'text',
+    public value: T | null = null
+  ) {}
+}
+
 abstract class SheetProperty {
   abstract propertyLabel: string;
   abstract getValueString(): string;
   abstract setValue(obj: any): void;
+  abstract getKeys(): any;
 }
 
 abstract class SheetArrayProperty<T> extends SheetProperty {
@@ -16,80 +44,92 @@ abstract class SheetArrayProperty<T> extends SheetProperty {
   override setValue({ values }: { values: T[] }): void {
     this.values = values;
   }
+
+  override getKeys() {
+    throw new Error("SheetArrayProperty doesn't implement getKeys");
+  }
 }
 
 export class Characteristic {
   constructor(
-    public start: number | null = null,
-    public developementScheme: number | null = null,
-    public actual: number | null = null
+    public start = new SheetValue<string>(),
+    public developementScheme = new SheetValue<number>(),
+    public actual = new SheetValue<number>()
   ) {}
 }
 
 export class Skill {
   constructor(
-    public name: string | null = null,
-    public level: null | 'wykupione' | '+10' | '+20' = null,
-    public related: string | null = null
+    public name = new SheetValue<string>(),
+    public level = new SheetValue<'wykupione' | '+10' | '+20'>(),
+    public related = new SheetValue<string>()
   ) {}
 }
 
 export class Ability {
   constructor(
-    public name: string | null = null,
-    public description: string | null = null
+    public name = new SheetValue<string>(),
+    public description = new SheetValue<string>()
   ) {}
 }
 
 export class EquipmentItem {
   constructor(
-    public name: string | null = null,
-    public weight: number | null = null,
-    public description: string | null = null
+    public name = new SheetValue<string>(),
+    public weight = new SheetValue<number>(),
+    public description = new SheetValue<string>()
   ) {}
 }
 
 export class Weapon {
   constructor(
-    public name: string | null = null,
-    public weight: number | null = null,
-    public category: string | null = null,
-    public damage: string | null = null,
-    public range: string | null = null,
-    public reload: string | null = null,
-    public details: string | null = null
+    public name = new SheetValue<string>(),
+    public weight = new SheetValue<number>(),
+    public category = new SheetValue<string>(),
+    public damage = new SheetValue<string>(),
+    public range = new SheetValue<string>(),
+    public reload = new SheetValue<string>(),
+    public details = new SheetValue<string>()
   ) {}
 }
 
 export class SimpleArmour {
   constructor(
-    public name: string | null = null,
-    public armourType: string | null = null,
-    public armourPoints: string | null = null
+    public name = new SheetValue<string>(),
+    public armourType = new SheetValue<string>(),
+    public armourPoints = new SheetValue<string>()
   ) {}
 }
 
-export class AdvencedArmourItem {
+export class AdvancedArmourItem {
   constructor(
-    public armourType: string | null = null,
-    public weight: number | null = null,
-    public location: string | null = null,
-    public healthPoints: number | null = null
+    public armourType = new SheetValue<string>(),
+    public weight = new SheetValue<number>(),
+    public location = new SheetValue<string>(),
+    public healthPoints = new SheetValue<number>()
   ) {}
+}
+
+export class AdvancedArmour extends SheetArrayProperty<AdvancedArmourItem> {
+  override propertyLabel: string = 'Pancerz Zaawansowany';
 }
 
 export class ArmourPoints extends SheetProperty {
   override propertyLabel: string = 'Punkty Pancerza';
 
   constructor(
-    public head: number | null = null,
-    public corpus: number | null = null,
-    public rightHand: number | null = null,
-    public leftHand: number | null = null,
-    public rightLeg: number | null = null,
-    public leftLeg: number | null = null
+    public head = new SheetValue<number>(),
+    public corpus = new SheetValue<number>(),
+    public rightHand = new SheetValue<number>(),
+    public leftHand = new SheetValue<number>(),
+    public rightLeg = new SheetValue<number>(),
+    public leftLeg = new SheetValue<number>()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -103,19 +143,23 @@ export class ArmourPoints extends SheetProperty {
     });
   }
 
-  override setValue(): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class Money extends SheetProperty {
   override propertyLabel: string = 'Pieniądze';
 
   constructor(
-    public gold: number | null = null,
-    public silver: number | null = null,
-    public bronze: number | null = null
+    public gold = new SheetValue<number>(),
+    public silver = new SheetValue<number>(),
+    public bronze = new SheetValue<number>()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -126,20 +170,24 @@ export class Money extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class Hero extends SheetProperty {
   override propertyLabel: string = 'Bohater';
 
   constructor(
-    public name: string | null = null,
-    public race: string | null = null,
-    public currentProfession: string | null = null,
-    public previousProfession: string | null = null
+    public name = new SheetValue<string>('Imie'),
+    public race = new SheetValue<string>('Rasa'),
+    public currentProfession = new SheetValue<string>('Obecna profesja'),
+    public previousProfession = new SheetValue<string>('Poprzednia profesja')
   ) {
     super();
+  }
+
+  override getKeys() {
+    return ['name', 'race', 'currentProfession', 'previousProfession'] as const;
   }
 
   override getValueString(): string {
@@ -151,26 +199,41 @@ export class Hero extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class HeroDescription extends SheetProperty {
   override propertyLabel: string = 'Opis Bohatera';
 
   constructor(
-    public age: string | null = null,
-    public sex: string | null = null,
-    public eyeColor: string | null = null,
-    public weight: number | null = null,
-    public hairColor: string | null = null,
-    public height: string | null = null,
-    public starSign: string | null = null,
-    public siblings: string | null = null,
-    public placeOfBirth: string | null = null,
-    public specialSigns: string | null = null
+    public age = new SheetValue<string>('Wiek'),
+    public sex = new SheetValue<string>('Plec'),
+    public eyeColor = new SheetValue<string>('Kolor oczu'),
+    public weight = new SheetValue<number>('Waga'),
+    public hairColor = new SheetValue<string>('Kolor wlosow'),
+    public height = new SheetValue<string>('Wysokosc'),
+    public starSign = new SheetValue<string>('Znak gwiezdny'),
+    public siblings = new SheetValue<string>('Rodzenstwo'),
+    public placeOfBirth = new SheetValue<string>('Miejsce urodzenia'),
+    public specialSigns = new SheetValue<string>('Znaki specjalne')
   ) {
     super();
+  }
+
+  override getKeys() {
+    return [
+      'age',
+      'sex',
+      'eyeColor',
+      'weight',
+      'hairColor',
+      'height',
+      'starSign',
+      'siblings',
+      'placeOfBirth',
+      'specialSigns',
+    ] as const;
   }
 
   override getValueString(): string {
@@ -188,20 +251,24 @@ export class HeroDescription extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class Player extends SheetProperty {
   override propertyLabel: string = 'Gracz';
 
   constructor(
-    public name: string | null = null,
-    public campaign: string | null = null,
-    public gameMaster: string | null = null,
-    public campaignYear: string | null = null
+    public name = new SheetValue<string>(),
+    public campaign = new SheetValue<string>(),
+    public gameMaster = new SheetValue<string>(),
+    public campaignYear = new SheetValue<string>()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -213,18 +280,22 @@ export class Player extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class ExperiencePoints extends SheetProperty {
   override propertyLabel: string = 'Punkty Doświadczenia';
 
   constructor(
-    public current: number | null = null,
-    public total: number | null = null
+    public current = new SheetValue<number>(),
+    public total = new SheetValue<number>()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -234,19 +305,23 @@ export class ExperiencePoints extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class MovementInCombat extends SheetProperty {
   override propertyLabel: string = 'Ruch w Walce';
 
   constructor(
-    public movement: number | null = null,
-    public charge: number | null = null,
-    public sprint: number | null = null
+    public movement = new SheetValue<number>(),
+    public charge = new SheetValue<number>(),
+    public sprint = new SheetValue<number>()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -257,28 +332,30 @@ export class MovementInCombat extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
-export class BasicSkills {
-  [key: string]: Omit<Skill, 'name'>;
+type BasicSkillsValue = { [key in BasicSkillKeys]: Omit<Skill, 'name'> };
 
-  constructor() {
-    BASIC_SKILL_NAMES.forEach((skillName) => {
-      this[skillName] = new Skill(null, null, null);
-    });
-  }
+const DEFAULT_BASIC_SKILLS_VALUE = createDefaultMappedValue<
+  BasicSkillsValue,
+  typeof BASIC_SKILL_NAMES
+>(BASIC_SKILL_NAMES, Skill);
+
+export class BasicSkills {
+  constructor(public skills: BasicSkillsValue = DEFAULT_BASIC_SKILLS_VALUE) {}
 }
 
 export class Skills extends SheetProperty {
   override propertyLabel: string = 'Umiejętności';
 
-  constructor(
-    public basic: BasicSkills = new BasicSkills(),
-    public advanced: Skill[] = []
-  ) {
+  constructor(public basic = new BasicSkills(), public advanced: Skill[] = []) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -288,37 +365,39 @@ export class Skills extends SheetProperty {
     });
   }
 
-  override setValue(obj: any): void {}
+  // TODO
+  override setValue({}: any): void {}
 }
+
+export type MainCharacteristics = {
+  [key in MainCharacteristicKeys]: Characteristic;
+};
+export type SecondaryCharacteristics = {
+  [key in SecondaryCharacteristicKeys]: Characteristic;
+};
+
+const DEFAULT_MAIN_CHARACTERICTICS = createDefaultMappedValue<
+  MainCharacteristics,
+  typeof MAIN_CHARACTERISTIC_KEYS
+>(MAIN_CHARACTERISTIC_KEYS, Characteristic);
+
+const DEFAULT_SECONDARY_CHARACTERICTICS = createDefaultMappedValue<
+  SecondaryCharacteristics,
+  typeof SECONDARY_CHARACTERISTIC_KEYS
+>(SECONDARY_CHARACTERISTIC_KEYS, Characteristic);
 
 export class Characteristics extends SheetProperty {
   override propertyLabel: string = 'Cechy';
 
   constructor(
-    public main: { [key in MainCharacteristicKeys]: Characteristic } = {
-      WW: new Characteristic(),
-      US: new Characteristic(),
-      K: new Characteristic(),
-      ODP: new Characteristic(),
-      ZR: new Characteristic(),
-      INT: new Characteristic(),
-      SW: new Characteristic(),
-      OGD: new Characteristic(),
-    },
-    public secondary: {
-      [key in SecondaryCharacteristicKeys]: Characteristic;
-    } = {
-      A: new Characteristic(),
-      ZYW: new Characteristic(),
-      S: new Characteristic(),
-      WT: new Characteristic(),
-      SZ: new Characteristic(),
-      MAG: new Characteristic(),
-      PO: new Characteristic(),
-      PP: new Characteristic(),
-    }
+    public main = DEFAULT_MAIN_CHARACTERICTICS,
+    public secondary = DEFAULT_SECONDARY_CHARACTERICTICS
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -328,7 +407,8 @@ export class Characteristics extends SheetProperty {
     });
   }
 
-  override setValue(obj: any): void {}
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class Abilities extends SheetArrayProperty<Ability> {
@@ -359,10 +439,14 @@ export class Armour extends SheetProperty {
   override propertyLabel: string = 'Pancerz';
 
   constructor(
-    public simpleArmour: SimpleArmour = new SimpleArmour(),
-    public advencedArmour: AdvencedArmourItem[] = []
+    public simpleArmour = new SimpleArmour(),
+    public advencedArmour = new AdvancedArmour()
   ) {
     super();
+  }
+
+  override getKeys() {
+    throw new Error('Method not implemented.');
   }
 
   override getValueString(): string {
@@ -372,8 +456,8 @@ export class Armour extends SheetProperty {
     });
   }
 
-  override setValue({}: any): void {
-  }
+  // TODO
+  override setValue({}: any): void {}
 }
 
 export class SheetData {
@@ -394,54 +478,9 @@ export class SheetData {
   ) {}
 }
 
-export const DEFAULT_SHEET_DATA: SheetData = new SheetData();
+export type MainCharacteristicKeys = (typeof MAIN_CHARACTERISTIC_KEYS)[number];
 
-export const BASIC_SKILL_NAMES = [
-  'Charakteryzacja',
-  'Dowodzenie',
-  'Hazard',
-  'Jezdziectwo',
-  'Mocna glowa',
-  'Opieka nad zwierzetami',
-  'Plotkowanie',
-  'Plywanie',
-  'Powozenie',
-  'Przekonywanie',
-  'Przeszukiwanie',
-  'Skradanie sie',
-  'Spostrzegawczosc',
-  'Sztuka przetrwania',
-  'Targowanie',
-  'Ukrywanie sie',
-  'Wioslarstwo',
-  'Wspinaczka',
-  'Wycena',
-  'Zastraszanie',
-] as const;
-
-export const MAIN_CHARACTERISTIC_KEYS = [
-  'WW',
-  'US',
-  'K',
-  'ODP',
-  'ZR',
-  'INT',
-  'SW',
-  'OGD',
-] as const;
-
-type MainCharacteristicKeys = (typeof MAIN_CHARACTERISTIC_KEYS)[number];
-
-export const SECONDARY_CHARACTERISTIC_KEYS = [
-  'A',
-  'ZYW',
-  'S',
-  'WT',
-  'SZ',
-  'MAG',
-  'PO',
-  'PP',
-] as const;
-
-type SecondaryCharacteristicKeys =
+export type SecondaryCharacteristicKeys =
   (typeof SECONDARY_CHARACTERISTIC_KEYS)[number];
+
+export type BasicSkillKeys = (typeof BASIC_SKILL_NAMES)[number];
