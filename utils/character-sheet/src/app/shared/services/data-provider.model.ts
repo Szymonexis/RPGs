@@ -30,6 +30,7 @@ abstract class SheetProperty {
   abstract getValueString(): string;
   abstract setValue(obj: any): void;
   abstract getKeys(): any;
+  protected abstract readonly _keys: any;
 }
 
 abstract class SheetArrayProperty<T> extends SheetProperty {
@@ -177,6 +178,13 @@ export class Money extends SheetProperty {
 export class Hero extends SheetProperty {
   override propertyLabel: string = 'Bohater';
 
+  protected readonly _keys = [
+    'name',
+    'race',
+    'currentProfession',
+    'previousProfession',
+  ] as const;
+
   constructor(
     public name = new SheetValue<string>('Imie'),
     public race = new SheetValue<string>('Rasa'),
@@ -187,7 +195,7 @@ export class Hero extends SheetProperty {
   }
 
   override getKeys() {
-    return ['name', 'race', 'currentProfession', 'previousProfession'] as const;
+    return this._keys;
   }
 
   override getValueString(): string {
@@ -200,7 +208,13 @@ export class Hero extends SheetProperty {
   }
 
   // TODO
-  override setValue({}: any): void {}
+  override setValue(vals: any): void {
+    Object.keys(vals).forEach((key) => {
+      if (key in this._keys) {
+        this[key as (typeof this._keys)[number]] = vals[key];
+      }
+    });
+  }
 }
 
 export class HeroDescription extends SheetProperty {
