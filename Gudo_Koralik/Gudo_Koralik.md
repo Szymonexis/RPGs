@@ -182,7 +182,7 @@ Eliza tlumaczy podstawy wyznawcow Szaliji:
 - nigdy nie odmawiaj pomocy potrzebujacemu
 - nie zatrzymuj duszy jezeli nadejdzie jej czas odejscia w zaswiaty
 - krocz przez zycie bez bronim potrzebny ci tylko podrozny kij
-- zwalczaj Nurgla, wladcy much we wszystkich jego postaciach i wszystkie jego slugi
+- zwalczaj Nurgla, wladce much we wszystkich jego postaciach i wszystkie jego slugi
 
 To moment zwrotny mojej postaci, powinienem probowac zostac akolita/kaplanem aby spotegowac pomoce Szaliji w dalszych podrozach.
 
@@ -274,3 +274,82 @@ Idziemy wzdluz rzeki, slyszymy raz co raz zwierzeta. Nagle slyszymy dzwieki kopy
 Probujemy uciec od bestigor ale zmuszeni jestesmy do walki. Joseph wali z miecza ja z procy ale nic to nie daje. Jedna z bestigor wpieprza sie w rzeke probujac mnie nadziac na swoje rogi ale udaje mi sie uniknac. Lotta ucieka a Lin wali w bestigore ale nic to nie daje, bestia jest za mocna. Probuje temu w rzece skoczyc na plecy ale sie nie udaje - odrazu jak na niego wskoczylem to mnie zrzucil do rzeki. W odwecie probuje mnie nadziac na rogi jeszcze raz ale znowu mu sie nie udaje. Joseph, Naen i Lin walcza z poprzednim bestigorem. Joseph zamachnal sie mieczem nie trafil ale jak nim wracal zamachanl sie pod pache bestigora i odcial mu reke. Bestia drze sie w nieboglosy. Atakuje drugiego bestigora wrecz ale uderzam w udo. Ten zamacha sie we mnie mieczem ale przelatuje nad moja glowa. W koncu jednak mu sie udaje, dostaje w glowe za 5 pktow. Naen trafia bestie poteznie i sprawia ze teraz na nim sie skupia. Joseph trafia w noge bestii i sprawia ze sie topi w rzece. Obie bestigory pokonane.
 
 Szlismy cala noc w kierunku nurtu rzeki. Jestesmy padnieci, we krwii, mokrzy. Polozylismy sie posrodku lasu, przy ognisku ktore Joseph rozpalil przy uzyciu swojego krzesiwa i oleju.
+
+# Sesja 4 - 12.04.2025
+
+---
+
+## Podsumowanie tego co bylo do tej pory
+
+Wydarzenia przez ktore przeszlismy zostawily na nas pietno, Katflet (nasz opiekun) zniknac. Raven i Gerard pomagali na, znalezlismy Kadfelta zlapanego przez kultystow (idac tropem jego ukrytej pracowni). Przygotowalismy sie do przybytu wojsk cesarskich. W nocy miala miejsce oblawa. W jej trakcie Raven szukal sladow po Kadfelcie. Znalazl szate podobna do szat kultystow z przekreslonym znakiem kultystow. Po tym poszlismy do mlyna Tobiasza (poza wioska). Tam spotkalismy Mucr-Lotte (nizolnica pracujaca dla wosjk). Poszlismy w kierunku wirzy regionalnej, tam sie schowalismy i odpoczelismy. Po odpoczynku wrocilismy do wioski, zeby sprawdzic co sie dzieje. W wiosce brak jakichkolwiek mezczyzn i chlopcow. Tobiasz namowil nas zebysmy uciekali wraz z nuretm rzeki, do rozwidlenia. Tam znajdziemy pomoc. Po drodze zaatakowaly na bestigory.
+
+---
+
+Naen - Janek
+Isternriorn (Rion) - Macius
+Mororlin (Morlin) - Kubus
+Joseph - Krisu
+Plomyk - ex Janka (aktualnie Czarek)
+
+---
+
+Jestesmy miedzy Wurstbad (na polnac 60km) a kapliczka Szaliji (okolo 2km w lesie). Suszymy sie prz ognisku, jest ranek, pareset metrow od rzeki.
+
+> Sen
+> W trakcie snu, snila mi sie biala golebica lecaca w kierunku duzego bialego budynku. Nagle bialy budynek zaczal sie mienic niebieskim swiatlem, prawie jakby stanal w plomieniach a sam budynek obrosl mackami. Wtem biala golebica jakby wybuchla i plomienie wraz z mackami zniknely.
+
+Slyszymy szczekanie psa, to pies Tobiasza. Z nimi idzie Raven (wiedzmak), Jaskier (trubadur) oraz Gerard (biombrownik). Informuja nas ze nasza ucieczka poniosla sie duzym echem. Jestesmy zdrajcami - w najlepszym przypadku trafimy do wojska, w najgorszym zostaniemy powieszeni.
+
+Dostalismy pozywienie od Gererda (na 6 dni) 3 flaszki bimbru, zapalki, line (10 metrow), buklak na wode, siekiera.
+
+Raven lapie mnie i Morlina i pokazuje nam cos w oddali - cos jakby sie mienilo. Raven mowi ze to jakas zbroja, mozliwe ze ida tam wojska, na poludniu.
+
+Sprawdzam czy bimber jest latwopalny - JEST latwopalny - dobiegam do rezty i wyruszamy. W trakcie podrozy Gerard opowiada alkoholowe anegdoty. Raven nas prowadzi, co chwila sie rozglada, sprawdza las i droge, rozglada sie. Dochodzimy do rozwidlenia, skrecamy w prawo. Po paru godzinach marszu, nogi wchodza nam w dupe. Las zaczyna sie rozrzedzac. Polana otoczona starymi debami, na srodku kapliczka ze znakiem bialej golebicy (znak Szaliji). Zatrzymujemy sie w tej kapliczce idac za glosem Ravena. Sa tez tam inni ludzie, powietrze wypelnia zapach ziol i kwiatow. Niektorzy pracuja a niektorzy ci ktoryz nie moga, odpoczywaja lub rozmawiaja. Dzwonimy dzwonem do kapliczki.
+
+Otwiera siostra Agata - kaplanka Szaliji, ciemne wlosy, zielone oczy, schludna szata, inne szaty niz siostra Eliza. (Critical Success) Zauwazam ze ma tatuaz, nie do rozpoznania. Zaczela mnie piec reka jak go zobaczylem. Widac ze chowa ten tatuaz.
+
+Za oltarzem w kapliczce jest jeszcze druga siostra, bardzo stara, widac ze jest bliska smierci, modli sie, nie ma z nia kontaktu.
+
+Modle sie w kaplicy kiedy reszta gada z ludzmi pracujacymi - wielko-cycata kaplanka dolacza sie do mnie ale nic z modlitwy sie nie udaje. Rozkojarzony z powodu dydow.
+
+Nagle szlyszymy krzyk dzicka, jest rozpalone. Jak Agata doknela dzicka to pojawily sie na jego czole pod skora czarne kreski. Kreski maja zielonkawa barwe. Raven mowi ze widzial juz wczesniej takie spaczenie - spaczenie Nurgla. Cycata siostra to Inga. Mowi ze musimy sprawic zeby dziecko wyzdrowialo. Wpadla w apanike. Agata uspokaja wszyskich. Mowi ze zna odpowiedni rytulal oczyszczenia krwii do ktorego potrzeba kogos niewinnego.
+
+Raven powiedzial ze cala sytuacja mi sie strasznie nie podoba i sie zmyl. Odchodzimy przegadywamy sprawe - ten rytulal krwii to scam (slowa Ravena). Agata przyszla i spytala sie czy bedziemy pomagac, powiedzialem ze "jak najbardziej pomoge". Reszta zostala, ja poszedlem z nia.
+
+Agata pyta sie co to za silna moc ktora we mnie drzemie, ja sie ja pytam o jej tatuaz. Ona probuje cos zrobic, oczy mi zachodza jakby mgla ale potem nic sie nie dzieje. Pytam sie ja jeszcze raz o ten tatuaz, znowu nic, pytam sie ja czy nie chce sie jej srac. Potem probuje sie wyrwac. Wyrwalem sie i katem oka widze dwie postacie wychodzace z lasu w szatach tkore juz wczesniej widzialem, wokol Agaty zaczyna krecic sie wiatr a jej oczy swieca sie turkusowym blaskiem.
+
+Probuje powiedziec chlopakom co sie stalo ale nagle slyszymy "ZAMKNIJ MORDE!!" to Agata. "Jak smiecie sie stawiac panu zmian Tzinchowi w jego swiatyni skurwysyny!"
+
+## Walka 4.1
+
+Kolejnosc:
+
+- Agata
+- Raven
+- Jaskier
+- Istern
+- Naen
+- Morlin
+- Joseph
+- Koralik (Ja)
+- Kultysci
+
+1. agata zwija niebieskie plomienie kierunku Josepha ktora go pochlaniaja. Jaskier spierdala. Raven biegnie sprintem w strone kultystow. Iskier stoi w miejscu. Naen, Morlin i ja sie chowamy. Kultysci przygotowywuja jakies modly.
+2. Raven macha mieczem a Agate, trafia w lewe ramie i wyciaga. Krew leci wszedzie - zaplamia biala szate na niebiesko (co tu sie odpierdala?). Istern trafia strzalaw kultyste przerywajac ich rytulal. Naen biegnie po stara kaplanke. Morlin podbiega do Agaty przygotowywuje sie do szarzy. Joseph flankuje. Ja napierdalam z procy za 14 w drugiego kaplana. Pieczec rytualna sie zamknela. Kultysci patrza sie na siebie, machneli sobie glowami i jeden z nich zamienil sie w cien a drugi go jakby wchlonal. Joseph czuje jakby na nim cos roslo ale potem znika (nieudany rzut kultysty).
+3. Agata zgniata kamien w dloni i wciaga go nosem (magiczny koks?). Momentalnie jej wszystkie wlosy zamieniaja sie w piora, cala staje sie czarna i wyrastaja jej skrzydla i zaczyna sie wspinac w powietrze. Raven poprostu sie na nia patrzy. Istern strzela w nia ale nie trafia. Agata odlatuje. Cos z niej wypada, to resztki ciuchow Agaty. Zaczynaja sie przciagac wraz z plecakiem Ravena. Raven atakuje Kultyste. Ucina mu leb. Josephn lapie za szmaty ktore spadly z Agaty i czuje ze cos pod nimi jest, wiec je zrywa z tego czegos. Widzi tam elementy kamienia z runami na nim.
+
+Koniec walki (?)
+
+Naen wraca ze starsza kaplanka. Tlumaczy jej co sie tutaj stalo. Gadaja o rytuale krwii. Tlumaczymy jej o wszystkim, mowimy o Tzintchu, o Agacie i o tym ze walczylismy z kultystami. Nie jest zadowolona z faktu ze rozlalismy krew na swietej ziemi. Trzepniete baby...
+
+Raven wyciaga artefekt ze swojego plecaka. Mowi ze Kadfelt chcial nam to przekazac. Artefaktem jest drugi kawalek kamienia z runami.
+
+Raven opowiada o Seraphenie - starym przyjacielu Kadfelta. Kadfelt byl kiedys wyslannikiem szkoly magicznej cienia. Seraphen chcial uzyc tego kamienia cienia - pieczeci Szaliji - do sporzadzenia rytulalu ktory zamienialby ludzi w zmutowane gowna. Normalnie ta pieczec dziala odwrotnie ale Seraphin chcial uzyc odwroconego rytulalu zeby spowodowac odwrotne efekty.
+
+Starsza kaplanka - Helga - podchodzi do nas i mowi ze rozumie ze musielismy zrobic to co zrobilismy. Pyta sie czy pomozemy jej oczyscic to miejsce z plugastwa. Zaczynamy sie modlic nad ta krwia spaczencow, stajemy sie lacznikami magii boskiej (ja, Naen i Morlin) - ci ktorym nie wszlo to odeszli. Ja widzialem ta magie wczesniej ale teraz wiem co to jest i widze takie bialy dym unoszacy sie od wszystkich. Wpadamy w delikatny trans. Czujemy narastajace cieplo i emocje takie jak szczecie, spokoj, jakbysmy byli otuleni zajebistym kocykiem. Pojawia sie dodatkowy cien za kaplankami i za mna w ksztalcie ptaka. Nagle niektore kropelki krwii zaczynaja sie unosic i znikac. To samo dzieje sie z czesciami ciala. Nagle pojawil sie bialy plomien i wszystkie ciala spaczencow zniknely w bialym plomieniu nie pozostawiajac po sobie zadnych sladow.
+
+Helga mowi mi ze powinienem zostac kaplanem, powinienem udac sie do swiatyni i probowac zostac akolita. W Grossfurre znajduje sie wieksza kaplica wyslannikow Szaliji. Raven poszedl do kapliczki odpoczac po walce.
+
+Podejmujemy decyzje ze idziemy do Grossfurre do klasztoru Szaliji.
+
+Zdobyte XP: 210
