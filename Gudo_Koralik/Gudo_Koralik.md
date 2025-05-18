@@ -338,7 +338,7 @@ Kolejnosc:
 2. Raven macha mieczem a Agate, trafia w lewe ramie i wyciaga. Krew leci wszedzie - zaplamia biala szate na niebiesko (co tu sie odpierdala?). Istern trafia strzalaw kultyste przerywajac ich rytulal. Naen biegnie po stara kaplanke. Morlin podbiega do Agaty przygotowywuje sie do szarzy. Joseph flankuje. Ja napierdalam z procy za 14 w drugiego kaplana. Pieczec rytualna sie zamknela. Kultysci patrza sie na siebie, machneli sobie glowami i jeden z nich zamienil sie w cien a drugi go jakby wchlonal. Joseph czuje jakby na nim cos roslo ale potem znika (nieudany rzut kultysty).
 3. Agata zgniata kamien w dloni i wciaga go nosem (magiczny koks?). Momentalnie jej wszystkie wlosy zamieniaja sie w piora, cala staje sie czarna i wyrastaja jej skrzydla i zaczyna sie wspinac w powietrze. Raven poprostu sie na nia patrzy. Istern strzela w nia ale nie trafia. Agata odlatuje. Cos z niej wypada, to resztki ciuchow Agaty. Zaczynaja sie przciagac wraz z plecakiem Ravena. Raven atakuje Kultyste. Ucina mu leb. Josephn lapie za szmaty ktore spadly z Agaty i czuje ze cos pod nimi jest, wiec je zrywa z tego czegos. Widzi tam elementy kamienia z runami na nim.
 
-Koniec walki (?)
+Koniec walki
 
 Naen wraca ze starsza kaplanka. Tlumaczy jej co sie tutaj stalo. Gadaja o rytuale krwii. Tlumaczymy jej o wszystkim, mowimy o Tzintchu, o Agacie i o tym ze walczylismy z kultystami. Nie jest zadowolona z faktu ze rozlalismy krew na swietej ziemi. Trzepniete baby...
 
@@ -353,3 +353,86 @@ Helga mowi mi ze powinienem zostac kaplanem, powinienem udac sie do swiatyni i p
 Podejmujemy decyzje ze idziemy do Grossfurre do klasztoru Szaliji.
 
 Zdobyte XP: 210
+
+---
+
+# Sesja 4 - 18.05.2025
+
+Zostajemy wyekwipowani przez Gerarda, idziemy szlakiem uzywanym przez lowcow - nadal musimy unikac armii. Do Grossfurre jest ok. 600km (3 - 4 tygodnie drogi).
+
+Mororlin (postac Kuby) dostaje od Ravena zestaw znakow uzywanych przez lowcow. Dzieki nim bedziemy w stanie podazac za szlakiem. Morlin niestety jest debilem i nie jest w stanie nauczyc sie tych znakow. Raven probuje nauczyc Josepha i mu sie udaje - Joseph bedzie naszym przewodnikiem po szlakach lowcow.
+
+Obie sesje nauki trwaja lacznie caly dzien wiec nocujemy dodatkowa noc w swiatynii Szaliji. Helga proponuje nam cieply posilek.
+
+Pytania i prosby do Helgi:
+
+- Naen prosi o nauke lowienia ryb
+- Rion nauczyl sie tropic zwierzyne
+- Ja probuje sie modlic z Helga do Szaliji o blogoslawienstwo naszej wyprawy (nie wyszlo)
+- Morlin nauczyl sie stawiania szalasow
+- Joseph nauczyl sie podstaw leczenia
+
+Naen zlowil 4 rybki, udalo mi sie 2 ryby przygotowac pod wyprawe.
+
+## Podroz do Grossfurre - Dzien 1
+
+Wyruszamy - Raven i Jaskier zostaja w swiatyni. Idziemy szlakiem lowieckim. Sciezka mimo ze jest uzywana przez ludzi to jest mocno zarosnieta. Cala sciezka daje sie zdawac objeta jakims magicznym czarem - jestciemno, gdzie niegdzie widac tylko przebijajace sie promienie slonca.
+
+Po paru godzinach marszu zauwazamy mezczyzne ktory siedzi pod drzewem. Wychudzony blady, w plaszczu, z lekka kolczuga i obok niego lezy zlamany sztylet. Ma niepokojacy wzrok. Nie wyglada jak zolnierz, bardziej jak straznik drog.
+
+Podchodze do typa, ten wnet lapie mnie za ramiona, oczy szalone, mowi "NIE RUSZAJCIE SIE, ONO WIDZI RUCH, DRZWEO ZNA WASZE IMIE, ODDALES ICH, NIE ZAPLACILES, TERAZ TWOJA KOLEJ TERAZ TWOJA KOLEJ (...)"
+Typ kurczowo trzyma cos w rekach, czulem to samo kiedy spotkalem Agate (demonice w kaplicce Szaliji).
+
+Wyrywamy mu to cos z lap - to kawalek pieczeci Szaliji ale nie taki jak reszta. Ktos dodal do tego dodatkowe czarne runy.
+
+Straznikowi opada glowa - zemdlal. Rion zlapal kamien, wykrecilo go ostro, potem rzucil kamien i wrocil do siebie. Jak podniosl kamien to slyszal szepty.
+
+Probuje zlaczyc ze soba jasny i ciemny kamien ale nie chca sie ze soba polaczyc mimo ze czarny kamien zaczyna sie swiecie na bialo. Dodatkowo kamienie wygladaja jakby mialy pasowac idealnie ze soba. Dotykam kamienia i moje rece zaczynaja oddawac jasne swiatlo a golebica widocznie swiecie mi sie na nadgarstku. Modle sie dlugo na tym kamieniem ale nic mi sie nie udaje.
+
+Morlin bierze na plecy tego straznika z celem doniesienia go do jakiejs cywilizacji. Joseph znajduje na szyi straznika medalion gryfa na czarnym tle.
+
+Joseph mowi - "jest to symbol szlachcica Heidelmana, sasiada naszej wsi, z zamkiem na wzgorzu" - pokazuje blizny na swoich plecach po czym sprwdza czy straznik ma te same blizny, ma je.
+
+Joseph opowiada swoje backstory. Jak trafil na zamek Heidelmana, ze go mnisi sprzedali ze wzgledu na kolor jego oczu. Zostal tam zmuszony do sluzby (od 12 do 17 roku). W ucieczce pomogl mu elf - byl torturowany przez dwie corki i syna tamtego szlachcica.
+
+Dochodzimy do serii gorek w lesie, zaczynamy sie zastanawiac nad rozlozeniem biwaku i nocowaniem.
+
+Widzimy przed soba drzewo. Na nim wisza trupy, pod nim runy poukladane z kosci a posrodku czaszka kozla z wypalonymi oczami. Ewidentnie mial tu miejsce jakis rytulal.
+
+Straznik nie zyje - Joseph idzie mu wykopac grob.
+
+## Podroz do Grossfurre - Noc 1
+
+W przygotowanym biwaku ide spac razem z Morlinem i Josephem. Naen i Rion stoja na warcie.
+
+Snie mi sie nastepujacy sen:
+
+"Staje wśród dzieci na modlitwie, ale ich twarze są zamazane. Kiedy zaczynają śpiewać, ich głosy zamieniają się w krakanie."
+
+Nastepni na warcie sa Joseph i Morlin a spac ida Naen i Rion. Ja dalej spie.
+
+## Podroz do Grossfurre - Dzien 2
+
+Naen z rana lapie dwie ryby - daje mi je i przyzadzam je perfekcyjnie. Zwijamy biwak i idziemy dalej.
+
+Po drodze widzimy dom, swiezo zgliszczony, pachnie krwia i strachem. Dom zostal zniszczony nie dawniej niz 2 tygodnie temu.
+
+W piwnicy spalonego domu mieszka 13-sto letnia, problematyczna dziewczynke, ktora posiada medalion matki Nean'a i Morlin'a.
+
+Dziweczynka mowi ze zdobyla medalion niedawno, pojawil sie na jej szyji po tym jka wojska przyszly do jej domu rekrutujac mezczyzn. Saplili dom, ona obudzila sie jakis czas potem z medalionem na szyi obok niej siedziala jakas postac, smukla, z blond wlosami. Od tamtego czasu slyszy jak popiol szepcze i widzi czarne jelenie ktore ja ignoruja. Nie pamieta swojego imienia. Prosi Naen'a o to zeby nadal jej imie. Naen nadaje jej imie Lirael (Lilly).
+
+Lirael (Lilly) idzie z nami w podroz. Znajdujemy wejscie na szlak ale ze juz sie robi pozno wiec musimy znalezc miejsce na biwak. Brak nam wody.
+
+## Podroz do Grossfurre - Noc 2
+
+Przespana spokojnie
+
+## Podroz do Grossfurre - Dzien 3
+
+Spotykamy starego dziada co odpowiada na dowolne pytanie ale za nieznany koszt. Ja dostaje info ze dotyk uleczy te kamienie (odjeta umiejetnosc gotowania).
+
+Joseph pyta sie co mu odebral szlachcic co go torturowal - godnosc (odjeta umiejetnosc jezyk staroswiatowy).
+
+Zdobyte XP: 180
+
+---
