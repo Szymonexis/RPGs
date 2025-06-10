@@ -436,3 +436,126 @@ Joseph pyta sie co mu odebral szlachcic co go torturowal - godnosc (odjeta umiej
 Zdobyte XP: 180
 
 ---
+
+# Sesja 5 - 10.06.2025
+
+---
+
+Naen - Janek
+Isternriorn (Rion) - Macius
+Mororlin (Morlin) - Kubus
+Joseph - Krisu
+Loriel (Lilly) - dziewczyna ktora znalezlismy w opuszczonym spalonym domu
+
+---
+
+## Podroz do Grossfurre - Noc 3
+
+Lirael, pograzona w polsnie, spiewa:
+
+> Zabiora was znow tam
+> Gdzie swiatlo nie siega
+> Piec monet jedno imie
+> Krew Dziecka
+> Reka ksieza
+
+Sni mi sie ze oddalem cala pieczec. Zostaje obsypany laurami - pelny mocy Szaliji i pewny siebie wychodze jako nowo mianowany kaplan przed swiatynie. Tam czeka na mnie bezdomna dziewczynka.
+Szepcze mi do ucha "Mimo oddanego znaku i tak zguba jest pewna" - i wgryza sie w moja szyje.
+
+## Podroz do Grossfurre - Dzien 4
+
+Budze sie zmeczony (-5 do krzepy na ten dzien). Wyruszamy dalej w podroz. Joseph zaczyna pokazywac i wydawac dziwne dzwieki. Chyba pokazuje name ze znalazl tajny szlak tajnych lowcow.
+
+Idziemy przez waski skrot, i wchodzimy na szeroki trakt.Na trakcie znajduje sie przwrocony powoz. Kolo reca sie powoli, ciala porozrzucane po drodze. Wygladaja jakby padlu silom chaosu - przypalona skora, twarze zamarzniete w strachu.
+
+Rozgladam sie - pierwsze co zauwazam, to chlopak trzymajacy list z ksiazecej sluzby. Pieczec czarnego gryfa na zlotym tle. Joseph odrazu podbiega (nie rozumie co tam mowilem).
+
+Rion mowi ze pojdzie w strone glosow i zagwizdze jak bedziemy mu potrzebni.
+
+Morlin wytraca Josephowi bron ktora podniosl - myslac ze jest spaczona. Joseph bierze list z pieczecia.
+
+W wozie znajdujemy: monete na awersie glowa bez twarzy a na rewersie znajduje sie trojoki ptak, sztylet z grawerem "H. H." - Naen i Morlin mysla ze to sztylet ich ojca (rozpoznali go jako takowy, wspomnienia, pewnosc 99%).
+
+W liscie mowa o rytuale - H. (nieznane imie) dotknal naszych snow. Rytulal wymaga zgody a zgoda wymaga strachu. Tresc listu:
+
+> Dar przekazany.
+> Chłopiec gotowy dla Lady Marleny.
+> Rytuał wymaga zgody, a zgoda wymaga strachu.
+> H. czeka.
+> Jego ręka już dotknęła ich snów.
+
+---
+
+Nagle slyszymy gwizd Riona. Potrzebuje nas!
+
+Rion walczy ze zwierzoludzmi. Trafia jednego zwierzoludzia.
+
+1. Rion trafia w zwierzoludzia lukiem i spierdala tak ze znajduje sie za mna.
+2. Zwierzoludz probuje mnie zszarzowac ale nie udaje mu sie - zatrzymuje sie zaraz przy mnie.
+3. Joseph napierdala na zwierzoludzia obok mnie, trafia ale nie robi mu wiele. wierzoludz sie wsciekl.
+4. Morlin atakuje szalenczo na zweirzoludzia ktory stoi obok Naen'a.
+5. Odsuwam sie od sowjego zwierzoludzia, nie trafia (opportunity attack), trafiam go w leb z procy.
+6. Rion trafia mojego zwierzoludzia mocno w udo, tamten lapie sie za udo i pada. Zostae jeden.
+7. Naen, napierdala swojego zwierzoludzia sztyletem.
+8. Morlin, wkurzony, zamachuje sie mieczem i ucina mu leb, konczac walke.
+
+Zauwazamy ze nie ma Lilly. Wolamy ja. Przychodzi, kiedy zapewniamy ja ze jest bezpiecznie. Widzimy ze jest cala umorusana blotem. Mowi ze sie troche przestraszyla.
+
+Chwila spokoju. Joseph chce nam cos przekazac ale nie jestesmy w stanie rozszyfrowac o co mu chodzi.
+
+Morlin znajduje w wozie fragment ksiegi rodu. Szczegolami sie nie podzielil jeszcze.
+
+Joseph probuje sie uczyc naszych imion (na nowo) - udaje mu sie.
+
+Morlin dzieli sie info o rodzie Heidelmana ktory juz wygasl. Zostal wykonczony przez Sigmara.
+
+Znalezlismy rowniez wzmianke o rodzie Heidleman z pieczecia kruka w klatce. Tresc pergaminu mowi:
+
+> Hiedelmanowie pochodza z krwii cesarzkiej ale ich linia zostala zgaszona dekretami
+> Sigmara a jednak wraca chodz pod innym imieniem.
+> Szkarlatna szkola, Aldorf, klasztor zamkniety.
+> Kontakt przez G.H.
+
+---
+
+## Podroz do Grossfurre - Noc 4
+
+Idziemy dalej, mijamy opuszczona swiatynie Szaliji. Postanawiamy sie tutaj zatrzymac na noc. Widzimy w srodku swiatyni rozrysowane kreda 6 postaci przypominajacych nasza trupe - creepy. Modle sie o porade do Szaliji - porade dalszej drogi i co z tymi postaciami na scianie.
+
+W trakie modlitwy dostaje wizja dziecinstwa - emocje - ktos mnie ukrywa przed pania w szkarlacie.
+
+Widzimy w nocy pdaleko przed kapliczka mezczyzne w ciezkiej pelerynie. Trzyma dziecko za reke i odchodzi. Biegniemy za nim - ciagniemy za soba rowniez Lilly. Mezczyzna sie zatrzymuje. Lapie sie za medalion na szyi - fioletowy poblask. Wszystko zaczyna sie znieksztalcac. Drzewa zmieniaja pozycje a kroki brzmia echem.
+
+Czujemy sie jakbysmy biegli w miejscu. W koncu dobiegamy do miejsca gdzie stal - widzimy tam tylko slad mezczyzny (tak jakby stal tam tylko i wyparowal). Efekt czaru niknie. Przerazeni decydujemy wrocic na noc do kapliczki i tworzymy prowizoryczne zasieki i barykady z galezi.
+
+## Podroz do Grossfurre - Dzien 5
+
+Budzimy sie rano i slyszymy beczenie owiec. Widzimy miasto przed kapliczka w dol doliny.
+
+Morlin mowi ze dzienniku znalazl dodatkowa notatke o miescie Estoche - piszacy mowi tam ze musi zdarzyc tam ze swoim dzieckiem "inaczej wszystko stracone".
+
+Podejmujemy decyzje ze warto sprawdzic ta sprawe, tym bardziej ze wydaje sie ona byc powiazana z nami lub, co bardziej prawdopodobne z ojcem Naen'a i Morlni'a.
+
+Estoche to miasto portowe, pelne zapochow ryb w roznych postaciach. Swoja swietnosc widzialo juz dawno temu (vibe Gdanska)
+
+Przy bramie brak straznikow. Ludzie nie sa usmiechnieci, w barach widac ze kufle sa oznaczone krwia. Samo miasto bylo kiedys dumna stolica kupcow ale teraz bardziej przypomina martwa rybe wyrzucana na brzeg niz tetniace zyciem miasto. W miescie znajduje sie rowniez zniszczony klasztor Szaliji. Postanawiamy isc prosto do portu - nie bedziemy w stanie tutaj zarobic bez przyciagania do siebie zbednej atencji.
+
+W porcie szukamy tajemniczego zakapturzonego faceta z dzieckiem. Jeden z przechodniow mowi ze widzial podobnego jegomoscia kolo latarni.
+
+Dochodzimy do latarni. Jest otwarta. Brak straznikow. Wchodzimy. W srodku znajdujemy ksiege ze szkicami dzieciecych twarzy, runami ktorych widok przyprawia o niepokoj a na ostatniej stronie kawalek dziwnej kolysanki. Jak patrzymy na te szkice dzieci to widzimy ze jedno z nich jest podobne do Josepha.
+
+Pytamy sie Josepha czy kojarzy te dzieci - swoim uga-buga jezykiem odpowiada ze czesc dzieci kojarze ale reszty nie. Te dzieciaki byly slugami na tym samym dworze co Joseph kiedy trafil do niewoli.
+
+Nic wiecej tutaj nie znajdziemy - wychodzimy pytac ludzi. Jeden z zaczepionych to zarzadca portu - mowi nam ze typek w pelerynie nie zdarzyl na statek i moze czekac w karczmie.
+
+Wchodzimy do karczmy. Dosyc schludna. Rowniez tutaj na kuflach widac slady zaschnietej krwii. W karczmie za szynkwasem stoi potezna cycata baba - Gertruda. Naen idzie z nia gadac o niezajomym zapelerynionym jegomosciu. Pyta ja czy moze go zaprowadzic do pokoju w ktorym przebywal. W pokoju dwa lozka, pokoj na pierwszy rzut oka wydaje sie byc pusty.
+
+Naen znajduje na scianie, przy mniej wygniecionym lozkiem (prawdopodobnie tutaj spalo dziecko), wyryte igla, tekst "Sa coraz blizej". Morlin znajduje strone z dziennika z narysowanym Josephem spiacym w skrzyni a nad skrzynia cienka linia krwii.
+
+Gertruda pyta sie jak ma miec na imie jegomosc ale Heidelman to nie imie ktore posiada w dzienniku. W dzienniku widnieje Grave H. (Grave Heidelman).
+
+Postanawiamy (po bardzo dlugiej namowie) ze bedziemy czekac na jegomoscia (Grave'a Heidelman'a) przed latarnia (3 w srodku, 2 na zewnatrz).
+
+---
+
+Zdobyte pd: 150 (aktualnie 970 + 150 = 1120)
