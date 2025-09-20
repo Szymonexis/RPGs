@@ -350,6 +350,8 @@ Helga mowi mi ze powinienem zostac kaplanem, powinienem udac sie do swiatyni i p
 
 Podejmujemy decyzje ze idziemy do Grossfurre do klasztoru Szaliji.
 
+---
+
 Zdobyte XP: 210
 
 ---
@@ -430,6 +432,8 @@ Przespana spokojnie
 Spotykamy starego dziada co odpowiada na dowolne pytanie ale za nieznany koszt. Ja dostaje info ze dotyk uleczy te kamienie (odjeta umiejetnosc gotowania).
 
 Joseph pyta sie co mu odebral szlachcic co go torturowal - godnosc (odjeta umiejetnosc jezyk staroswiatowy).
+
+---
 
 Zdobyte XP: 180
 
@@ -556,7 +560,10 @@ Postanawiamy (po bardzo dlugiej namowie) ze bedziemy czekac na jegomoscia (Heidr
 
 ---
 
-Zdobyte pd: 150 (aktualnie 970 + 150 = 1120)
+Zdobyte XP: 150
+(aktualnie 970 + 150 = 1120)
+
+---
 
 # Sesja 6 - 20.09.2025
 
@@ -663,7 +670,7 @@ Trupa sklada sie z:
 
 Joseph wraz z medykiem wbijaja do karczmy. Lekarz pomaga mu doczlapac do nas, pyta sie co sie stalo. Wchodzi w dyskusje z Riornem, Morlinem i Naenem. Podchodzi do baru wraz z lekarzem i pyta lekarza o wyjasnienia jak przezyl. Lekarz mu mowi ze to szczescie, i ze musi teraz o siebie dbac, nie przemeczac sie ale cwiczyc, zeby wrocic do sil.
 
-Przedstawiam sie manadzerce trupy jako hazardzista, gram z kartomantka o korony, przegrywam lacznie jedna. 
+Przedstawiam sie manadzerce trupy jako hazardzista, gram z kartomantka o korony, przegrywam lacznie jedna.
 
 Upilem sie i gadam z akrobatka Greta "Wiatr" Albrecht - dowiaduje sie ze jest wyznawca Szaliji - moze mi pomoze z tymi pieczeciami? Przez to ze sie upilem to kaze mi sie spierdalac ale mowi mi ze moge byc czescia trupy, bede uczyl sie hazadru. Idziemy spac
 
@@ -675,5 +682,18 @@ Riorn wraca sie do karczmy i znajduje dzieciaka. Dzieciak przedstawia sie jako R
 
 ---
 
+Przez rok pracujemy w trupie cyrkowej. Nosimy skrzynie, pomagamy trupie, szkolimy sie w swoich profesjach i umiejetnosciach. Pojechalismy na polnocny-zachod - przeciwna strona od kierunku Grossfurre.
 
+```IMPORTANT
+1. Znajdz sobie rozwiniecie w ktore chcesz leciec -> https://drive.google.com/file/d/1Qo4C5qBU0s8nvNqqeDwexQML7tHcRHx1/view
+2. Skupic sie na akrobatce w sprawach Szaliji
+3. Skupic sie na kartomantce Madamme Sybilla De Vaux w sprawach cyrkowych (podobam jej sie, hehe, rzut na oglade wyszedl)
+4. Pomyslec co moja postac ma robic przez rok - zamysl Czarka jest taki ze nasza trupa kontynuuje podroz w kierunku Marienburga - wolnego miasta
+```
 
+---
+
+Zdobyte XP: 300
+(akutalnie 1120 + 300 = 1420)
+
+---
