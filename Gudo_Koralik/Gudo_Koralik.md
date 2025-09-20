@@ -174,8 +174,7 @@ Naen i Riorn przygotowywuja ognisko - niosac drewno, Riorn stracil koncentracje 
 
 Ostatniego dnia przygotowan na przybycie wojska, podczas popoludniowej modlitwy w swiatyni, poczulem obecnosc, takie dziwne cieplo. Mam wrazenie ze na dloni cos mnie przypieklo. Pojawil sie gleboki slad jakby ktos mi cos wypalil a potem to cos zniknelo - na prawej rece. Byla to pieczec bialej golebicy - znak Szaliji.
 
-## IMPORTANT
-
+```IMPORTANT
 Eliza tlumaczy podstawy wyznawcow Szaliji:
 
 - nie zabijaj
@@ -187,8 +186,7 @@ Eliza tlumaczy podstawy wyznawcow Szaliji:
 To moment zwrotny mojej postaci, powinienem probowac zostac akolita/kaplanem aby spotegowac pomoce Szaliji w dalszych podrozach.
 
 Wieczorem, juz w lozkach w swiatyni, Joseph opowiada nam swoja historie, Pokazuje nam dwa obrazy (gory w nocy i czerwony korpus). Opowiada jak zostal sprzedany jakiemus krolowi i jego sadystycznej corce. Uratowala go rodzina szlachcickich elfow i od tamtego czasu pracuje w swiatyni ze mna i Eliza.
-
----
+```
 
 Dzien przyjazdu wojska.
 
@@ -511,7 +509,7 @@ Morlin dzieli sie info o rodzie Heidelmana ktory juz wygasl. Zostal wykonczony p
 
 Znalezlismy rowniez wzmianke o rodzie Heidleman z pieczecia kruka w klatce. Tresc pergaminu mowi:
 
-> Hiedelmanowie pochodza z krwii cesarzkiej ale ich linia zostala zgaszona dekretami
+> Hiedelmanowie pochodza z krwii cesarskiej ale ich linia zostala zgaszona dekretami
 > Sigmara a jednak wraca chodz pod innym imieniem.
 > Szkarlatna szkola, Aldorf, klasztor zamkniety.
 > Kontakt przez G.H.
@@ -552,10 +550,130 @@ Wchodzimy do karczmy. Dosyc schludna. Rowniez tutaj na kuflach widac slady zasch
 
 Naen znajduje na scianie, przy mniej wygniecionym lozkiem (prawdopodobnie tutaj spalo dziecko), wyryte igla, tekst "Sa coraz blizej". Morlin znajduje strone z dziennika z narysowanym Josephem spiacym w skrzyni a nad skrzynia cienka linia krwii.
 
-Gertruda pyta sie jak ma miec na imie jegomosc ale Heidelman to nie imie ktore posiada w dzienniku. W dzienniku widnieje Grave H. (Grave Heidelman).
+Gertruda pyta sie jak ma miec na imie jegomosc ale Heidelman to nie imie ktore posiada w dzienniku. W dzienniku widnieje Heidrich H. (Heidrich Heidelman).
 
-Postanawiamy (po bardzo dlugiej namowie) ze bedziemy czekac na jegomoscia (Grave'a Heidelman'a) przed latarnia (3 w srodku, 2 na zewnatrz).
+Postanawiamy (po bardzo dlugiej namowie) ze bedziemy czekac na jegomoscia (Heidrich'a Heidelman'a) przed latarnia (3 w srodku, 2 na zewnatrz).
 
 ---
 
 Zdobyte pd: 150 (aktualnie 970 + 150 = 1120)
+
+# Sesja 6 - 20.09.2025
+
+---
+
+Gudo Koralik - Ja
+Naen - Janek
+Isternriorn (Riorn) - Macius
+Mororlin (Morlin) - Kubus
+Joseph - Krisu
+Lirael (Lilly) - npc grany przez Czarka (dziewczynka ktora napotkalismy w zniszczonym domu)
+
+---
+
+Ja, Naen i Morlin jestesmy w srodku latarni a Lilly, Joseph i Riorn sa na zewnatrz.
+
+Ja i Morlin chowamy sie za drzwiami, Naen czyta ksiegi nalezace do Hiedelmana. Joseph i Lilly czekaja niedaleko latarni a Riorn jest skitrany w krzaku obok latarni.
+
+Naen szuka w skeigach czegos o genealogii Heidelmanow, dlaczego znikneli z kart historii albo czegos zwiazanego z Aldorfem. Niestety nie udaje mu sie. W ksiegach brak takich informacji. Ale znalazl wzmianke o katalizatorach rytulalow i tym ze dzieci sa idealne do tych celow.
+
+Joseph widzi mezczyzne w plaszczu z dzieckiem przy boku - jakby bylo w polsnie - idacych alejka prowadzaca do latarnii. Postanawia go sledzic. Mezczyzna zauwaza ze Joseph go sledzi i obraca sie w jego strone, Joseph udaje ze nic sie nie dzieje i zskreca w inna uliczke ale nadal w kierunku latarnii.
+
+Riorn z krzakow zauwaza mezczyzne w plaszczu. Zauwazyl tez akcje z Josephem. Po odejsciu Josepha mezczyzna stoi w tamtym miejscu jeszcze pare minut i po chwili rusza dalej. Riorn cierpliwie czeka w krzakach. Mezczyzna idzie dalej w kierunku latarnii.
+
+Mezczyzna przechodzi kolo krzakow, przyglada sie framudze zamknietych drzwi latarni, Riorn wyskakuje z krzakow i wola do mezczyzny "Hej zatrzymaj sie!". Mezczyzna go ignoruje. Wychodzimy z latarni. Riorn lapie faceta za ramie i mowi "Poczekaj!". Mezczyzna ztrzepuje jego reke i dalej go ingoruje.
+
+Naen rzuca sie szarza w nogi mezczyzny. Lapie go za nogi ale facet poprostu idzie dalej.
+
+Riorn staje przed nim i mowi "Odpowiedz na nasze pytania!".
+
+- Mezczyzna: "Ehhh, czego..."
+- Riorn: "Co robisz z tymi dziecmi?"
+- Mezczyzna: "Nie wasza sprawa"
+- Naen: "Dlaczego oddajesz te dzieci lady Marlenie? To handle dziecmi, zawolamy straze i trafisz do ciupy!"
+- Mezczyzna: "To wolajcie..."
+
+Joseph zauwaza kto to i wyciaga miecz (to maz Lady Marleny, Baron, - tam Josepha na zamku chlostali i traktowali jak niewolnika, jest zrodlem calego zla ktore spotkalo Josepha w mlodosci).
+
+Joseph grozi mezczyznie, mowi ze zabije jego corki (one tez go chlostaly), mezczyzna smieje sie mu w twarz. Joseph przygotowuje sie do ataku. Kaze mu puscic dziecko.
+
+Mezczyzna cos szepcze. Wyciagnelismy swoje oraza. Naen, Riorn i Ja walczymy z iluzja mezczyzny. Joseph i Morlin biegan za prawdziwym mezczyzna. Strzelam w iluzje i trafiam w Josepha, prawie go zabijajac. Naen napierdala sztyletem w udo iluzji (w powietrze).
+
+Joseph (ranny) i Morlin nadal biegna za prawdziwym mezczyzna. My nadal walczymy z jego iluzja.
+
+Joseph i Morlin biegna pelnym sprintem za mezczyzna. Mezczyzna ucieka i w pewnym momencie zatrzymuje sie, odklada dziecko na ziemie i wciaga miecz. Morlin szarzuje na dziecko, lapiac je i spierdala dalej, mezczyzna nie trafia w niego mieczem. Wyciaga sztylet i przygotowuje sie do rzutu. Morlin przyspiesza. Mezczyzna rzuca sztyletem i ale sztylet odbija sie od ramienia Morlina. Ramie zaczyna go dziwnie piec. Biegnie dalej.
+
+Nagle przed Morlinem pojawia sie woz z warzywami, mezczyzna sie wpierdolil z pelnym impetem w woz. Morlin razem z dzieckiem mu uciekli. Joseph korzysta z okazji i szarzuje na mezczyzne. Napierdlaja sie, mezczyzna probuje zabrac Josepha.
+
+U nas iluzja znika. Naen i Riorn sa w szoku. Mowie im zeby sie ockneli i musimy znalezc chlopakow. Dobiegamy do alejki gdzie Riorn widzial Morlina ostatni raz. Riorn zauwaza slady krokow i biegniemy w tamtym kierunku.
+
+Joseph dalej walczy z mezczyzna, my dalej biegniemy (jeszcze trzy tury). Mezczyzna atakuje Josepha i zadaje finalny cios. Uderza Josepha w kaltke piersiowa i Joseph traci dech w piersi. Mezczyzna widza lezacego Josepha zostawia go i spierdala (ma ambiwalentne uczucia w jego kierunku). Znajduje lekarza i zaprowadzam go do Josepha. Naen w miedzyczasie zajmuje sie szukaniem Morlina. Lekarz podaje mu medykamenty, leczy Josepha. Nie bedzie inwalida ale i tak bedzie musial sie zrehabilitowac.
+
+Naen szukajac Morlina natrafia na ogra. Naen probuje uzyc persfazji ale to ogr. Ogr rzuca mlotem w kierunku Nean'a zatrzymujac go. Mowi mu ze szuka Morlina na to ogr lapie go szmaty i kladzie go na swoim ramieniu. Mowi mu ze jest najemnikiem, i szuka zlych ludzisk i stworow za zloto i ze sam z checia poszuka teraz z Nean'em Morlina bo nie jest wynajety i nudzi mu sie.
+
+Naen gada z ogrem, mami mu leb, opowiada historie o tytule "Ratunek cyrulika" - ta sama historie ktorej uzyl do omamienia wojsk pare tygodni temu. Ogr zadaje pytanie co to "zew" sluchajac opowiesci, zatrzymuje sie na krancu miasta i siada, dalej sluchajac historii Nean'a. Nean w trakcie opowiadania historii uzywa kwiecistego jezyka, co sprawia ze ogr co chwila zatrzymuje jego opowiadanie i pyta sie o znaczenia roznych slow. Naen musi je tlumaczyc korzystajac z bardzo prostych i ogrzych metafor, ciagle wracajac do cebuli, zupy z elfow i barbarzynstwa.
+
+Ogr lubi Naen'a, mowi mu ze widzial Morlina w jakiejs obskunej karczmie "Zgnila Ryba" i zyzczy mu smacznego brata (? xd). Nean znajduje Morlina w karczmie wskazanej przez ogra. Zauwaza rane na ramieniu brata. Zaprowadza go do lekarza.
+
+Widac na dwoch skrajach alejki ruch. Siedzimy na zewnatrz, trzymajac ukryte oreze. Wiemy ze musimy tutaj czekac bo lekarz nie obroni rannego Josepha. Cos lub ktos rzuca w nas kamieniami. strzelam w tamtym kierunku wolajac "WYCHODZ! PRZESTAN W NAS RZUCAC KAMIENIAMI!".
+
+Nagle to cos kierujac sie do Riorna "Halo, pomozcie mi..." i znowu rzut kamieniem. Krzyczymy zeby ten ktos powiedzial kim jest ale znowu brak odzewu.
+
+Riorn nagle widzi jak na koncu alejki rozswietla sie plomien i ma wrazenie ze widzi swojego opiekuna z karczmy, Henrika, i z wyciagnieta reka blaga go o pomoc. Ja tez widze Henrika. Nagle widzimy rece wychdzace zza niego ktore ciegna go dalej w alejke. Strzelam z procy w niego ale zanim proca trafia to Henrik zostaje zaciagniety za alejke.
+
+Dochodzimy do wniosku ze to musi byc jedna z geirek mezczyzny i wchodzimy do domu lekarza zobaczyc czy lekarz i Joseph nadal sa na swoich miejscach. Obudzilismy lekarza.
+
+Nagle dzwieki krzykow na zewnatrz ustaja i slysze szepty. Cos przejmuje nademna kontrole. Probuje przekonac Riorna ze wyjde sam na zewnatrz ale mi sie nie udaje. Dlatego po kryjomu wychodze do alejki, Riorn robuje mnie zatrzymac, wyrywam sie mu i biegne dlaej w alejke.
+
+Pod wplywem Heidricha oddalem mu wszystkie pieczeci Szaliji, wolam "RIORN!! POMOCY!! HEDIRICH!!". Riorn biegnie w moim kierunku, Morlin to samo wraz z Naen'em.
+
+"ODDAWAJ PIECZECI ZBIRZE!" - atakuje Heidrich'a Heidelman'a. Walka.
+
+Siekam mieczem Heidricha, dostal po mordzie ale nadal ucieka. Chlopaki go gonia, ja tez. Heidrich dalej ucieka. Szarzuje go ale on unika. Morlin zakurwia mu poteznie po plecach. Heidrich pada na ziemie, lapie sie za amulet. Rzuca iluzje - Morlin i Naen biegna z ailuzja. Ja i Riorn probujemy go rannego uciukac. Wstaje po woli i probuje uciec w przeciwna strone. Riorn strzela w jego kierunku z luku i trafia. Heidrich zostaje dobity - strzala przebija mu serce. Typ pada na ziemie i umiera natychmiastowo, widac delikatna niebieska mgle unaszaca sie nad nim i tak szybko jak sie pojawila to znika.
+
+Riorn probuje zabrac medalion z trupa Heidricha ale medalion rozsypuje mu sie w rekach. Zabieramy pieczeci Szaliji.
+
+Riorn przeszukuje jego cialo. Znajduje 200 zlotych koron. Kazdy dostaje 40 zlotych koron.
+
+```IMPORTANT
+Zyskalem 37 zlotych koron i 10 szylingow.
+```
+
+Akurat opierdolilismy caly loot z tego Heidricha i wbijamy do domu lekarza. Na zewnatrz straznicy przeszukuja teren. Lekarz patrzy na nas wielkimi slepiami i pyta sie "Co tu sie odpierdala?!". Riorn daje mu za milczenie 10 zlotych koron.
+
+Naen prosi lekarza zeby zobaczyl rane na ramieniu Morlina. Lekarz mowi ze to normalna rana i porpostu rana jest swieza i dlatego tak wyglada.
+
+Po tym jak sie umylismy bierzemy dzieciaka ze soba i idziemy do karczmy "Zgnila Ryba". Jest tam tloczno, glosno - wydaje sie jakby byla ostatnim bastionem szczescia w tym miescie. Ludzie bawia sie tancza. Na koncu jednego ze stolow siedzi ogr z ktorym wczesniej widzial sie Naen. "Panie skalo, witam ponowanie!". Skala wstaje, rozpieprzajac wszystko ze swojego stolu i wita cieplo Naen'a. Naen tez prosi karczmarza o pare lozek. Naen jest w swoim zywiole, zwraca na siebie uwage i z fikusnym kapelutkiem sklania sie i przedstawia sie wszystkim dookola, opowiada historie naszych przygod umilajac wszystkim czas. "Ratunek Cyrulika" znowu zostaje opowiedziana.
+
+Naen opowiadal pod ogra, probujac sie mu przypodobac. Ogrowi opowiesc sie podobala ale jej nie zrozumial wiec przypodobanie sie nie zadzialalo.
+
+Gdzies w karczmie widze cyrkowca z naszyjnikiem golebicy. Prosze Riorna o oddanie mi tych pieczeci - oddaje mi je i Riorn sam wchodzi za drzwi cyrkowcow. Ja tam nie wchodze, czekam przed wejsciem. Riorn rozmawia z kobieta cyrkowa z naszyjnikiem. Laska prosi Riorna zeby im pomogl z przenoszeniem jakichs beczek z zarciem. Riorn przekupuje ogra do pomocy.
+
+Trupa sklada sie z:
+
+- manadzerki - laska ma na imie Maestra Vittoria Calaveccio
+- cyrkowca - Angian Piskosz (czlowiek z Kataju) - z polamana maska (ma skosne oczy i 5 zebow)
+- kartomantka - Madamme Sybilla De Vaux
+- laske plujaca ogniem - Iryna Gurienko
+- akrobatka - Greta Wiatr Albrecht - z naszyjnikiem szaliji
+- skrzypaczka - Elsbet Tannen
+- ochroniarz - Kurt Doner
+- zlodziejaszek/maskotka - niziolek - Maut - szeroko pojety asystent trupy
+- oraz nas i ogra (Skałe)
+
+Joseph wraz z medykiem wbijaja do karczmy. Lekarz pomaga mu doczlapac do nas, pyta sie co sie stalo. Wchodzi w dyskusje z Riornem, Morlinem i Naenem. Podchodzi do baru wraz z lekarzem i pyta lekarza o wyjasnienia jak przezyl. Lekarz mu mowi ze to szczescie, i ze musi teraz o siebie dbac, nie przemeczac sie ale cwiczyc, zeby wrocic do sil.
+
+Przedstawiam sie manadzerce trupy jako hazardzista, gram z kartomantka o korony, przegrywam lacznie jedna. 
+
+Upilem sie i gadam z akrobatka Greta "Wiatr" Albrecht - dowiaduje sie ze jest wyznawca Szaliji - moze mi pomoze z tymi pieczeciami? Przez to ze sie upilem to kaze mi sie spierdalac ale mowi mi ze moge byc czescia trupy, bede uczyl sie hazadru. Idziemy spac
+
+---
+
+Staje ranek. Nagle zdajemy sobie sprawe ze zgubilismy Lilly i chlopca ktorego uratowalismy z lap Heidricha. Wracamy do szarego ponurego miasta. Szukamy Lilly i dzieciaka.
+
+Riorn wraca sie do karczmy i znajduje dzieciaka. Dzieciak przedstawia sie jako Rupert. Pyta sie go czy pamieta co sie stalo, dzieciak nic nie pamieta.
+
+---
+
+
+
