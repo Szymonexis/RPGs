@@ -662,17 +662,18 @@ Trupa sklada sie z:
 - cyrkowca - Angian Piskosz (czlowiek z Kataju) - z polamana maska (ma skosne oczy i 5 zebow)
 - kartomantka - Madamme Sybilla De Vaux
 - laske plujaca ogniem - Iryna Gurienko
-- akrobatka - Greta Wiatr Albrecht - z naszyjnikiem szaliji
+- akrobatka - Greta "Wiatr" Albrecht - z naszyjnikiem szaliji
 - skrzypaczka - Elsbet Tannen
 - ochroniarz - Kurt Doner
 - zlodziejaszek/maskotka - niziolek - Maut - szeroko pojety asystent trupy
+- nowy rekwizytor Tabora (pomocnik akrobatki) - Wenzel „Kruk” Kramer
 - oraz nas i ogra (Skałe)
 
 Joseph wraz z medykiem wbijaja do karczmy. Lekarz pomaga mu doczlapac do nas, pyta sie co sie stalo. Wchodzi w dyskusje z Riornem, Morlinem i Naenem. Podchodzi do baru wraz z lekarzem i pyta lekarza o wyjasnienia jak przezyl. Lekarz mu mowi ze to szczescie, i ze musi teraz o siebie dbac, nie przemeczac sie ale cwiczyc, zeby wrocic do sil.
 
 Przedstawiam sie manadzerce trupy jako hazardzista, gram z kartomantka o korony, przegrywam lacznie jedna.
 
-Upilem sie i gadam z akrobatka Greta "Wiatr" Albrecht - dowiaduje sie ze jest wyznawca Szaliji - moze mi pomoze z tymi pieczeciami? Przez to ze sie upilem to kaze mi sie spierdalac ale mowi mi ze moge byc czescia trupy, bede uczyl sie hazadru. Idziemy spac
+Upilem sie i gadam z akrobatka Greta "Wiatr" Albrecht - dowiaduje sie ze jest wyznawca Szaliji - moze mi pomoze z tymi pieczeciami? Przez to ze sie upilem to kaze mi sie spierdalac ale mowi mi ze moge byc czescia trupy, bede uczyl sie hazadru. Idziemy spac.
 
 ---
 
@@ -684,16 +685,70 @@ Riorn wraca sie do karczmy i znajduje dzieciaka. Dzieciak przedstawia sie jako R
 
 Przez rok pracujemy w trupie cyrkowej. Nosimy skrzynie, pomagamy trupie, szkolimy sie w swoich profesjach i umiejetnosciach. Pojechalismy na polnocny-zachod - przeciwna strona od kierunku Grossfurre.
 
-```IMPORTANT
-1. Znajdz sobie rozwiniecie w ktore chcesz leciec -> https://drive.google.com/file/d/1Qo4C5qBU0s8nvNqqeDwexQML7tHcRHx1/view
-2. Skupic sie na akrobatce w sprawach Szaliji
-3. Skupic sie na kartomantce Madamme Sybilla De Vaux w sprawach cyrkowych (podobam jej sie, hehe, rzut na oglade wyszedl)
-4. Pomyslec co moja postac ma robic przez rok - zamysl Czarka jest taki ze nasza trupa kontynuuje podroz w kierunku Marienburga - wolnego miasta
-```
-
 ---
 
 Zdobyte XP: 300
 (akutalnie 1120 + 300 = 1420)
+
+---
+
+# Sesja 7 - 25.09.2025
+
+![Nastepna wybrana profesja](nastepna-wybrana-profesja.png)
+
+---
+
+## Co sie dzialo przez te pol roku
+
+Przez pierwsze pol roku Gudo zaczal swoje szkolenia w trikach kartami.
+
+Rozmawial czesto z Greta "Wiatr" Albrecht - pytal ja o tajniki wiary w Szalyie. Akrobatka nie jest kaplanka ale niektorymi wieczorami wchodzili w filozoficzne rozmowy o bogini i jej wierze.
+
+Dzieki tym rozmowom, Gudo zaczal prowadzic refleksje na samego siebie (akcje ktore popelnil) - uznal że ze swoim skillsetem w trupie moglby stac sie zlodziejaszkiem - w ten sposob bylby w stanie pomoc trupie ale nikogo nie krzywdzic fizycznie a w momentach kiedy sytuacja by tego wymagala uzyc swojego sprytu i zrecznosci oraz oglady do lagodzenia i ucieczki.
+
+---
+
+W trakcie polrocznej podrozy do trupy dolaczyl Wenzel „Kruk” Kramer – nowy rekwizytor Tabora.
+
+Vittoria (manadzerka) i Naen ida w strone miasta. Miasto jest zadbane, z ladnymi murami. Jest to Dimen - miasto portowe. Vittoria wita jednego ze straznikow. Informuje ze przyjechalismy tutaj na wystep i trupa potrzebuje przepustek.
+
+Greta pokazuje Josephowi jak sie poprawnie "rozciagac" kiedy cala sytuacje psuja Kurt i Iryna oraz ja i Morlin. Kaza nam przestawiac skrzynie na miejsce wystepu.
+
+Maut i Riorn patrza na list z dwiema pieczeciami. Otwieraja list ale zaden z nich nie umie czytac. Tylko machaja glowami jak dwoch neandertali. Proponuje im ze przeczytam im ten list pod pretekstem "mocnej kursywy". Patrze na list ale widze na nim tylko losowe literki i cyfry. Mozliwe ze to jakis szyfr.
+
+Riorn dostaje od Mauta zadanie specjalne - rozkodowac list.
+
+Potrzebuje kupic wytrychy, ale tylko Riorn bedzie w stanie mi pomoc. Dochodzimy do porozumienia - ja pomoge mu rozkodowac list a on pomoze mi znalezc wytrychy.
+
+Naen rozmawia z Lilly - o jego piesniach. Joseph byzka sie z akrobatka. Zbieraja sie wokol nas, kiedy ja i Riorn rozmawiamy o liscie.
+
+Rozszyfrowalismy kod: `Mdgd gdohm sd sółqrf 26Q 34H pldvwr glghp` -> `Jada dalej pa północ 26N 34E miasto didem`
+
+Riorn idzie do Mauta z ta informacja ale nic nie dostaje za to. Wraca do nas. Rozmawiamy troche i prosze go ponownie o znalezienie ze mna wytrychow w miescie. Wraca do Mauta zeby spytac go o droge. Mowi ze jest zmeczony i nie pomoze. Wychodzimy z Riornem w miasto w poszukiwaniu wytrychow.
+
+Nagle slyszymy "Ratunku!" ze strony trupy - to glos Josepha. Wracamy sie. Szukamy go ale sie nie udaje. Biegne sprawdzic śluze, widze ze zostala przecieta. Nagle zauwazam za soba 3 zakapturzone postacie. Probuja mnie zlapac, nie udaje im sie. Probuje ich przechytrzyc krzycac "O MOJ BOZE SMOK!" i pokazujac w osobna strone ale nie daja sie. Dostaje w glowe i mdleje.
+
+Naen, Riorn i Morlin szukaja teraz mnie i Josepha. Naen troche odchodzi o trojki chlopakow. Zostaje przez kogos naskoczony po czym wraca do chlopakow, caly zadyszany. Chlopaki sie chowaja i uciekaja napastnikom.
+
+Ida do Vittorii - mowia ze to pewnie medyk nas sprzedal i teraz Heidelman'owie nas szukaja zeby zaciagnac nas do swojego niewolniczego palacu.
+
+Znajduja nas chlopaki w sluzie za podpilowanymi kratami. Ja i Joseph jestesmy zakneblowani z kajdankami na rekach. Vittoria wraz z Mautem. Prawie nas wywalaja za ta akcje ale udaje sie nam ogarnac sytuacje. Wracamy do obozu. Jest srodek nocy.
+
+Naen wychodzi zeby pogadac ze Skałą. Slyszymy jak rozmawiaja a potem cisza.
+
+Wychodzimy z wozow zeby sprawdzic co jest nie halo. Slyszymy mocne chrapanie Skaly. Obchodzimy okra i widzimy jak Naen lezy w jego objeciach. Postanawiamy zostawic Naen'a w tym miejscu. Idziemy spac.
+
+Budza nas rano mowiac ze trzeba szykowac scene. Vittoria mowi ze rozumie nas ale jezeli chcemy wyjechac z miasta z nimi to musimy zalatwic sprawe naszych tymczasowych przesladowcow - musimy sprawic zeby przestali nas sledzic. Naen i Skała podchodza do nas - Skala ciagnie za soba Węzela. Vittoria mowi ze listy byly pisane przez Węzela.
+
+Vittoria zwraca sie do Naena i podaje mu sztylet.
+
+Czuje jak moja pieczec golebicy zaczyna mnie piec, musze powstrzymac ich przed zabiciem tego czlowieka. Krzycze do Neana ze zabijanie niczego nie rozwiaze i probuje uderzyc Wezela tak zeby stracil przytomnosc. Naen odpycha mnie i zaklada kastet na reke i zaczyna bic jegomoscia.
+
+Zaczynamy sie miedzy soba bic, w chaosie Joseph probuje zaszarzowac z mieczem na Wezela ale Riorn go lapie. Naen probuje zastraszyc Wezela ale ten smieje sie i pluje mu prosto w twarz. Naen sekunde pozniej uderza go kastetem w morde i potem zatapia sztylet w jego szyi.
+
+---
+
+Zdobyte XP: 150
+(akutalnie 1420 + 150 = 1570)
 
 ---
