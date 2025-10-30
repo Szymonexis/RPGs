@@ -752,3 +752,71 @@ Zdobyte XP: 150
 (akutalnie 1420 + 150 = 1570)
 
 ---
+
+# Sesja 8 - 30.10.2025
+
+---
+
+Gudo Koralik - Ja
+Naen - Janek
+Isternriorn (Riorn) - Macius
+Mororlin (Morlin) - Kubus
+Joseph - Krisu
+
+---
+
+Po chwili jak Naen zabija Wezela zaczyna padac snieg. Vittoria przechodzi bezposrednio do stawiania dalszych warunkow. Mowi ze "skoro odcielismy ogon, to teraz czas odciac glowe" - czyli mamy pozbyc sie reszty problemow i wtedy bedziemy mogli dalej z nia podrozowac pod ich skrzydlami.
+
+Proponuje ogrowi czy nie chcialby zjesc ciala. Rozmawiamy o tym co zrobil Naen.
+
+Mam wrazenie jakby sama Szalija na mnie spojrzala, zimny wiatr, ciemne burzowe chmury. Widze przez chwile w nich Szalije i nagle strzela we mnie piorun. Trace przytomnosc.
+
+Trace dotyk Szaliji oraz znak golebicy. Piorun trafil mnie tak mocno ze polamal mi zebra.
+
+Chlopaki zaprowadzaja mnie do Grety - zaklada mi opatrunek na rany i zajmuje sie mna.
+
+Dostaje 6zk od Vittorii na lekarza. Tlumaczy nam ze tylko chciala sprawdzic czy Naen jest jej posluszny, nie spodziewala sie ze rzeczywiscie zabije Wezela. Naen nie przyjmuje tej wiadomosci dobrze.
+
+Wezel mial notatnik - w tym notatniku widac ze wymienial korespondencje z zolnierzami ktorzy poszukuja nas z powodu zabojstwa chaosnika w poprzednim miescie. Dogonia nas pewnie w tym tygodniu. Musimy ich sie pozbyc - najlepiej bez rozlewu krwii.
+
+Teraz mamy wypierdalac do miasta i wrocic w poludnie. Ludzie na miescie mimo zimy i sniegu maja dobre humory. Widac ze wiedza co ich czeka wieczorem - nasz wystep. Dochodzimy do jednego z szyldow na ktorym jest napisane "Cyrulik". Typ nastawia mi zebra, leje lekarstwo w dupsko i wypuszcza na zewnatrz.
+
+Przygotowujemy sie do starcia z zolnierzami - Naen rozprowadza plotki o zolnierzach-gwalcicielach, udaje mu sie. Udaje mu sie az tak bardzo ze znajduje sie w gildii zlodziei. Tam rozmawia z nimi ale do niczego nie dochodzi.
+
+Obmyslamy plan w ktorym Iryna i Greta beda naszymi wabikami, zaprosza zolnierzy na scene a my ich tam upokorzymy, a plotki o gwaltach tez zrobia swoje.
+
+Vittoria ma zato inny plan - my bedziemy glownymi gwiazdami wystepu. W trakcie wystepow na sam koniec obleje sie zolnierzy gownem, miodem, piorami i innymi gwizdkami i wichajstrami. Tematyka wystepu - pobor do wojska.
+
+Nasze wystepy:
+
+- Joseph bedzie pomagal Grecie
+- Gudo bedzie rzucal kartami w obiekty
+- Morlin bedzie wspolprowadzacym
+- Naen bedzie spiewal nowa wersje piesni Eltaris
+
+Wystep sie zaczyna, Morlin rozpoczyna wprowadzenie. Vittoria za nim, konczy wstep.
+
+Pierwszy wystep to wystep grajka - Elzbetha, muzyka gra, przyjemna az robi sie cieplo na sercu.
+
+Drugi wystep - Lily i Naen - granie i spiew. Naen spiewa piesn Eltaris - druga zwrotka jest bardzo wzruszajaca.
+
+Po wystepie Naena, Joseph zanoszac rzeczy na scene pod wystep swoj i Grety, zauwaza 4 osoby. Wszyscy w skorze i lekkich pancerzach. Maja psa. Przywodca jest wysoki, postawny. Typ od psa jest niski, ma zadarty nos. Trzeci to medyk. Czwarty to ekspert od dokumentacji i listow - ma torbe i pelno pieczeci i papierow.
+
+Trzeci wystep - Greta i Joseph. Wystep gimnastyczny. Rzucanie nozami, gwiazdy, liny, zonglerka itd itd. W trakcie rzucania nozami Greta gubi jeden i ten noz wbija sie w ramie Josepha.
+
+Czwarty wystep - Madame Sibilla i Gudo - zchodza do tlumu i bawia ludzi sztuczkami z kartami.
+
+Angian potem jezdzi na jednym kole, zagluje. Iryna daje pokaz sztuczek z ogniem na scenie.
+
+Jestesmy wszyscy za kurtyna. Widzimy ze zolnierze ida w kierunku sceny. Przygotowujemy sie do upokorzenia ich. Gudo wystawia leb przez kurtyne, pierdzi morda i drze pizde "Takiego chuja a nie szukacie!". Zolnierze biegna w nasza strone.
+
+Kurt przygotowywuje sie do akcji, ciagnie za line i lajno zaczyna leciec w strone zolnierzy. Greta chwile pozniej ciagnie za line od beczek z piorem a Iryna pluje ogniem w ich strone. Wszyscy smieja sie do rozpuchu.
+
+Wszystko co nalezalo do zolnierzy znika w rekach ogladajacych. Zolnierze gasza ogien z siebie i pokazuja na nas spowrotem i biegna za nami znowu. Spuszczamy za nami beczki i slychac jak zolnierze wkurwieni odchodza. Wracamy parenascie minut pozniej juz spokojni do cyrku. Reszta wieczoru leci nam spokojnie.
+
+---
+
+Zdobyte XP: 130
+(akutalnie 1570 + 130 = 1700)
+
+---
