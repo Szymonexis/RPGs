@@ -279,7 +279,7 @@ Szlismy cala noc w kierunku nurtu rzeki. Jestesmy padnieci, we krwii, mokrzy. Po
 
 ## Podsumowanie tego co bylo do tej pory
 
-Wydarzenia przez ktore przeszlismy zostawily na nas pietno, Katflet (nasz opiekun) zniknac. Raven i Gerard pomagali na, znalezlismy Kadfelta zlapanego przez kultystow (idac tropem jego ukrytej pracowni). Przygotowalismy sie do przybytu wojsk cesarskich. W nocy miala miejsce oblawa. W jej trakcie Raven szukal sladow po Kadfelcie. Znalazl szate podobna do szat kultystow z przekreslonym znakiem kultystow. Po tym poszlismy do mlyna Tobiasza (poza wioska). Tam spotkalismy Mucr-Lotte (nizolnica pracujaca dla wosjk). Poszlismy w kierunku wirzy regionalnej, tam sie schowalismy i odpoczelismy. Po odpoczynku wrocilismy do wioski, zeby sprawdzic co sie dzieje. W wiosce brak jakichkolwiek mezczyzn i chlopcow. Tobiasz namowil nas zebysmy uciekali wraz z nuretm rzeki, do rozwidlenia. Tam znajdziemy pomoc. Po drodze zaatakowaly na bestigory.
+Wydarzenia przez ktore przeszlismy zostawily na nas pietno, Katwelt (nasz opiekun) zniknac. Raven i Gerard pomagali na, znalezlismy Kadfelta zlapanego przez kultystow (idac tropem jego ukrytej pracowni). Przygotowalismy sie do przybytu wojsk cesarskich. W nocy miala miejsce oblawa. W jej trakcie Raven szukal sladow po Kadfelcie. Znalazl szate podobna do szat kultystow z przekreslonym znakiem kultystow. Po tym poszlismy do mlyna Tobiasza (poza wioska). Tam spotkalismy Mucr-Lotte (nizolnica pracujaca dla wosjk). Poszlismy w kierunku wirzy regionalnej, tam sie schowalismy i odpoczelismy. Po odpoczynku wrocilismy do wioski, zeby sprawdzic co sie dzieje. W wiosce brak jakichkolwiek mezczyzn i chlopcow. Tobiasz namowil nas zebysmy uciekali wraz z nuretm rzeki, do rozwidlenia. Tam znajdziemy pomoc. Po drodze zaatakowaly na bestigory.
 
 ---
 
@@ -818,5 +818,83 @@ Wszystko co nalezalo do zolnierzy znika w rekach ogladajacych. Zolnierze gasza o
 
 Zdobyte XP: 130
 (akutalnie 1570 + 130 = 1700)
+
+---
+
+# Sesja 9 - 02.11.2025
+
+---
+
+Do rozwiniecia potrzebuje 84.5zk / 65zk jezeli przekonam chlopakow zeby dali my 13 zk na rozwiniecie 
+
+---
+
+Gudo Koralik - Ja
+Naen - Janek
+Isternriorn (Riorn) - Macius
+Mororlin (Morlin) - Kubus
+Joseph - Krisu
+
+---
+
+Przekonalem chlopakow zeby dali mi kaske na rozwiniecie. Jestem teraz Szarlatanem.
+Wisze Jankowi (Naen) 6zk, Mackowi (Riorn) 3.5zk, Krysowi (Joseph) 3.5zk. Musze oddac w nastepnym miescie.
+
+Zima nadal trzyma. Wychodzimy z Didem. Pol roku podrozy do innego miasta - Marienburga.
+
+Zarabiam 58.5zk w tym czasie - na zarcie wydalem 1zk 13p a na 2zk 10s - po splaceniu chlopakow zostaje mi 35zk 1s 7p.
+
+Dajemy wystepy, od czasu do czasu widac typa z wasem przycietym jak do linijki. Zawsze oglada z dala, nigdy nie zostaje na dlugo. Po pewnym czasie spotykamy inna trupe, ale mijamy ich po czasie.
+
+Wiosna - dochodzimy do Marienburga. Morlin i Naen widza znaki oznaczajace szlak elfow. Decydujemy ze oddzielimy sie od grupy i pojdziemy z nimi w tamta strone.
+
+Idac ta droga spotykamy kobiete - mowi o swoim nie-potworzym mezu. Inaczej oddycha, mamy nie isc w tamta strone. Z wody bagna nagle wychodzi mezczyzna - blony miedzy palcami i skrzela na szyi. Typ pracowal w Marienburgu, zajrzal do skrzyni i dotknal zielonego kamienia (spaczen) i stalo mu sie jak pracowal w dokach.
+
+Chowamy kobiete pod liscami i plaszczem. Kazemy mezczyznie wrocic do wody i sie ukryc. 
+
+Nadchodzi tlum ludzi ktorzy szukaja naszego rybo-czlowieka. Wiekszosc z nich wchodzi do wody i zaczyna nakurwiac z pelna furia w wode - jeden z nich podchodzi do nas i zaczynamy gadac. Przekonujemy tlum ze widzielismy czlowieka-mutanta gdzies dalej w lesie. Tlum odchodzi - mezczyzna i kobieta nam dziekuja.
+
+Idziemy dalej szlakiem - widzimy Gerarda (wlasciciela destylarni z naszej wioski). Wita i karci nas za znikniecie ze swiatyni. Ma dla nas list od naszego opiekuna. Naen bierze list i go czyta. Katwelt jest prawdopodobnie w Grossfurre, ale Gerard nie wie dokladnie. Pyta sie nas jak to sie stalo ze my tutaj trafilismy i jaki jest nasz dalszy plan.
+
+Sprawdzam czy mam pieczecie przy mnie - sa. Gerard chce je wziac ode mnie - klade te pieczecie przed nami i mowie zeby ktos je wzial ode mnie. Naen odpisuje na list i przekazuje go Gerardowi do oddania Katweltowi. Bierze je ode mnie Morlin - bedzie je trzymal i obiecami Gerardowi ze wrocimy niedlugo na sciezke do Grossfurre na ktora nasz stawil Katwelt.
+
+Gerard mowi cos o braciach cienia - ale nie mowi nic konkretnego. Mowi tylko ze sa niebezpieczni i nie powinnismy uzywac wlasnych imion.
+
+Idziemy dalej szlakiem - widzimy przed soba menhiry - wielkie kamienie ulozone w krag. Na srodku jest kamien z lisciem - takim jaki ma na szyi Lilly. Przyklada lisc do skaly, cale otoczenie nagle sie zmienia, Marienburg nagle staje sie mniejszy, wszystko staje sie zywsze, ale ptaki na niebie sie zatrzymuja. Sztylet z inicjalami H.H. ktory nalezy do Naen'a nagle zaczyna drzec w kierunku glazu. Naen wyciaga sztylet i pozwala zeby zostal przyciagniety do centralnego glazu. 
+
+Widzimy jakby film. Czarny statek przyplywa na kontynent. Wysokie czarne elfy wychodza ze statku. Ostatnim elfem jest samiec. Dobrze zbudowany - przywodca. Kolory oczu jak Naen a wlosow jak Morlin. Potem widzimy bitwe miedzy zwyklymi a ciemnymi elfami. Przywodca zostaje zlapany. Zwykla elfka pilnuje przywodcy. Mija szmat lat. Elfka caly czas go pilnuje. Rozmawiaja ze soba. Mowa ciala jest inna ale nadal jest tarcie miedzy nimi. Dystans sie skrocil. Sa blizej siebie ale dalej daleko. Po pewnym czasie widac nastepny skok w czasie. Ciemny elf i elfka sa ze soba. Elfka ma naszyjnik na sobie a ciemny elf ma przy sobie sztylet.
+
+Sztylet znalazl sie w rekach Naen'a w trakcie podrozy do Grossfurre. Wyrawlismy go z rak straznika lasu. Lilly ma naszyjnik od tylko wtedy kiedy pamieta.
+
+---
+
+Wymyslamy sobie falszywe imiona na prosbe Katwelta:
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+Wchodzimy do Marienburga - przygotujemy sie tam na wyprawe do Grossfurre aby raz na zawsze zamknac sprawe pieczeci Szaliji. W delcie rzeki stoi czarna jak smola wyspa - na niej wielkie wiezienie. Naen szuka trupy plotkujac ze straznikami. Trupa pojechala w kierunku portu - Czujdoku. Idziemy miastem w kierunku Czujdoku.
+
+Idziemy w kierunku zurawi i dzwigow. Widac ze tutaj kreci sie pieniadz. Widzimy najwiekszy port starego miasta. Widzimy byka z lysa glaca i podpisem Łysobyki. Zaraz obok stoja wozy naszej trupy. Wchodzimy do karczmy. Pelno mezczyzn w skorzanych plaszczach, dziwne kapelusze, czerwone bandamy. W rogu karczmy ktos sie bije (po przyjacielsku). Widzimy stol zajety przez nasza trupe.
+
+Pytam Wittori o samo miasto - Elftown, Dzielnica Swiatynna, Kamienny Olbrzym (most).
+
+Zdobywam nam pokoje po obnizonej cenie. Idziemy do Dzielnicy Swiatynnej. Joseph, Gudo, Riorn i Morlin ida do swiatyni. Gudo wycofuje sie ze swiatyni - nie chce dostac piorunem jeszcze raz. Joseph, Riorn i Morlin ida dalej. Gudo czeka na zewnatrz.
+
+Morlin pyta kaplanke o pomoc z pieczecia - pokazuje jej czesci pieczeci. Kaplanka dotyka pieczeci bezposrednio - nie znika - to dobry znak. Oddaje pieczec Morlinowi i idzie wglab swiatyni po matke swiatynna. Matka jest wysoka kobieta, widac jak od niej bije cieplo i swiatlo. Odbiera pieczec bez ani jednego slowa. Dotykajac pieczec widac jak jej oczy delikatnie sie swieca. Delikatny usmiech na jej twarzy, pyta "Gdzie to znalazles?". Mowi ze powinnismy udac sie z ta pieczecia do Aldorfu lub Kourone w Bretonii - tam znajduja sie dwie najwieksze swiatynie Szaliji. Tam beda w stanie nam pomoc. Mowi ze pieczec w kawalkach jest tylko zwyklym kamieniem ale w calosci jest poteznym artefaktem. Najblizsze miejsce z arcy-swiatynia do Kourone w Bretonii.
+
+Arcykaplanka wychodzi ze swiatyni i rozmawia ze mna - place jalmuzne 10zk. Modle sie - czuje cieplo Szaliji.
+
+Naen zaszedl do swiatyni Wereny - szuka tam biblioteki - dostaje reprymende, nie dostanie dostepu do ksiag bo jest "nieczysty". Modli sie do Wereny aby sie oczyscic, czyta ksiegi. Dowiaduje sie o swoim przodku - Alanir'ze - wyrywa w emocjach strone ksiegi. Opuszcza biblioteke pod przymusem.
+
+---
+
+Zdobyte XP: 180
+(akutalnie 1700 + 180 = 1880)
 
 ---
