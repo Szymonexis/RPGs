@@ -970,3 +970,10 @@ Naen (Loren) przedstawia sie swoim falszywym imieniem. Mag mowi ze nie moze mu p
 Naen (Loren) decyduje sie przejsc przez rytulal - Alterin daje mu znac ze jezeli rytulal przejdzie zle (aka. jego wszyscy rodzice nie zyja) to umrze w przeciagu 24 godzin. Rytulal pozwoli mu spojrzec w przeszlosc historii swojej krwii. W przeciagu nastepnych 24 godzin albo umrze albo dostanie wizje przeszlosci swojej krwii.
 
 Chlopaki wychodza - Sfinks stoi na ich drodze zadaje znowu zagadki. Musza na nie odpowiedziec zeby moc wyjsc. Wychodza odpowiadajac na wszystkie zagadki.
+
+---
+
+Zdobyte XP: 180
+(akutalnie 1880 + 180 = 1960)
+
+---
