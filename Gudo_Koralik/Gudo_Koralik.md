@@ -825,7 +825,7 @@ Zdobyte XP: 130
 
 ---
 
-Do rozwiniecia potrzebuje 84.5zk / 65zk jezeli przekonam chlopakow zeby dali my 13 zk na rozwiniecie 
+Do rozwiniecia potrzebuje 84.5zk / 65zk jezeli przekonam chlopakow zeby dali my 13 zk na rozwiniecie
 
 ---
 
@@ -850,7 +850,7 @@ Wiosna - dochodzimy do Marienburga. Morlin i Naen widza znaki oznaczajace szlak 
 
 Idac ta droga spotykamy kobiete - mowi o swoim nie-potworzym mezu. Inaczej oddycha, mamy nie isc w tamta strone. Z wody bagna nagle wychodzi mezczyzna - blony miedzy palcami i skrzela na szyi. Typ pracowal w Marienburgu, zajrzal do skrzyni i dotknal zielonego kamienia (spaczen) i stalo mu sie jak pracowal w dokach.
 
-Chowamy kobiete pod liscami i plaszczem. Kazemy mezczyznie wrocic do wody i sie ukryc. 
+Chowamy kobiete pod liscami i plaszczem. Kazemy mezczyznie wrocic do wody i sie ukryc.
 
 Nadchodzi tlum ludzi ktorzy szukaja naszego rybo-czlowieka. Wiekszosc z nich wchodzi do wody i zaczyna nakurwiac z pelna furia w wode - jeden z nich podchodzi do nas i zaczynamy gadac. Przekonujemy tlum ze widzielismy czlowieka-mutanta gdzies dalej w lesie. Tlum odchodzi - mezczyzna i kobieta nam dziekuja.
 
@@ -860,7 +860,7 @@ Sprawdzam czy mam pieczecie przy mnie - sa. Gerard chce je wziac ode mnie - klad
 
 Gerard mowi cos o braciach cienia - ale nie mowi nic konkretnego. Mowi tylko ze sa niebezpieczni i nie powinnismy uzywac wlasnych imion.
 
-Idziemy dalej szlakiem - widzimy przed soba menhiry - wielkie kamienie ulozone w krag. Na srodku jest kamien z lisciem - takim jaki ma na szyi Lilly. Przyklada lisc do skaly, cale otoczenie nagle sie zmienia, Marienburg nagle staje sie mniejszy, wszystko staje sie zywsze, ale ptaki na niebie sie zatrzymuja. Sztylet z inicjalami H.H. ktory nalezy do Naen'a nagle zaczyna drzec w kierunku glazu. Naen wyciaga sztylet i pozwala zeby zostal przyciagniety do centralnego glazu. 
+Idziemy dalej szlakiem - widzimy przed soba menhiry - wielkie kamienie ulozone w krag. Na srodku jest kamien z lisciem - takim jaki ma na szyi Lilly. Przyklada lisc do skaly, cale otoczenie nagle sie zmienia, Marienburg nagle staje sie mniejszy, wszystko staje sie zywsze, ale ptaki na niebie sie zatrzymuja. Sztylet z inicjalami H.H. ktory nalezy do Naen'a nagle zaczyna drzec w kierunku glazu. Naen wyciaga sztylet i pozwala zeby zostal przyciagniety do centralnego glazu.
 
 Widzimy jakby film. Czarny statek przyplywa na kontynent. Wysokie czarne elfy wychodza ze statku. Ostatnim elfem jest samiec. Dobrze zbudowany - przywodca. Kolory oczu jak Naen a wlosow jak Morlin. Potem widzimy bitwe miedzy zwyklymi a ciemnymi elfami. Przywodca zostaje zlapany. Zwykla elfka pilnuje przywodcy. Mija szmat lat. Elfka caly czas go pilnuje. Rozmawiaja ze soba. Mowa ciala jest inna ale nadal jest tarcie miedzy nimi. Dystans sie skrocil. Sa blizej siebie ale dalej daleko. Po pewnym czasie widac nastepny skok w czasie. Ciemny elf i elfka sa ze soba. Elfka ma naszyjnik na sobie a ciemny elf ma przy sobie sztylet.
 
@@ -886,11 +886,13 @@ Pytam Wittori o samo miasto - Elftown, Dzielnica Swiatynna, Kamienny Olbrzym (mo
 
 Zdobywam nam pokoje po obnizonej cenie. Idziemy do Dzielnicy Swiatynnej. Joseph, Gudo, Riorn i Morlin ida do swiatyni. Gudo wycofuje sie ze swiatyni - nie chce dostac piorunem jeszcze raz. Joseph, Riorn i Morlin ida dalej. Gudo czeka na zewnatrz.
 
-Morlin pyta kaplanke o pomoc z pieczecia - pokazuje jej czesci pieczeci. Kaplanka dotyka pieczeci bezposrednio - nie znika - to dobry znak. Oddaje pieczec Morlinowi i idzie wglab swiatyni po matke swiatynna. Matka jest wysoka kobieta, widac jak od niej bije cieplo i swiatlo. Odbiera pieczec bez ani jednego slowa. Dotykajac pieczec widac jak jej oczy delikatnie sie swieca. Delikatny usmiech na jej twarzy, pyta "Gdzie to znalazles?". Mowi ze powinnismy udac sie z ta pieczecia do Aldorfu lub Kourone w Bretonii - tam znajduja sie dwie najwieksze swiatynie Szaliji. Tam beda w stanie nam pomoc. Mowi ze pieczec w kawalkach jest tylko zwyklym kamieniem ale w calosci jest poteznym artefaktem. Najblizsze miejsce z arcy-swiatynia do Kourone w Bretonii.
+Morlin pyta kaplanke o pomoc z pieczecia - pokazuje jej czesci pieczeci. Kaplanka dotyka pieczeci bezposrednio - nie znika - to dobry znak. Oddaje pieczec Morlinowi i idzie wglab swiatyni po matke swiatynna. Matka jest wysoka kobieta, widac jak od niej bije cieplo i swiatlo. Odbiera pieczec bez ani jednego slowa. Dotykajac pieczec widac jak jej oczy delikatnie sie swieca. Delikatny usmiech na jej twarzy, pyta "Gdzie to znalazles?". Mowi ze powinnismy udac sie z ta pieczecia do Aldorfu lub Kourone w Bretonii - tam znajduja sie dwie najwieksze swiatynie Szaliji. Tam beda w stanie nam pomoc. Mowi ze pieczec w kawalkach jest tylko zwyklym kamieniem ale w calosci jest poteznym artefaktem. Najblizsze miejsce z arcy-swiatynia to Kourone w Bretonii.
 
 Arcykaplanka wychodzi ze swiatyni i rozmawia ze mna - place jalmuzne 10zk. Modle sie - czuje cieplo Szaliji.
 
-Naen zaszedl do swiatyni Wereny - szuka tam biblioteki - dostaje reprymende, nie dostanie dostepu do ksiag bo jest "nieczysty". Modli sie do Wereny aby sie oczyscic, czyta ksiegi. Dowiaduje sie o swoim przodku - Alanir'ze - wyrywa w emocjach strone ksiegi. Opuszcza biblioteke pod przymusem.
+Naen zaszedl do swiatyni Wereny - szuka tam biblioteki - dostaje reprymende, nie dostanie dostepu do ksiag bo jest "nieczysty". Modli sie do Wereny aby sie oczyscic, czyta ksiegi. Dowiaduje sie o swoim przodku - Alarnil'ze - wyrywa w emocjach strone ksiegi. Opuszcza biblioteke pod przymusem.
+
+Morlin sie wazy w swiatyni Wereny - prawie zostal swietym.
 
 ---
 
@@ -898,3 +900,73 @@ Zdobyte XP: 180
 (akutalnie 1700 + 180 = 1880)
 
 ---
+
+# Sesja 10 - 23.11.2025
+
+---
+
+Wymyslamy sobie falszywe imiona na prosbe Katwelta:
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+Morlin zaraz po uniesieniu sie wagi czuje zaskoczenie bijace ze strony straznika. Morlin wchodzi do biblioteki Wereny. Slychac tylko dzwiek pisania na papierze i odlegle odglosy butow na marmurowej posadzce. Morlin szuka info o swoich rodzicach - szuka mezczyzny o imieniu Alarnil - ciemnego elfa sprzed 2000 lat.
+
+Kaplanka z ktora Morlin rozmawia przestraszyla sie na wiadomosc o Alarnil'ze - jakby zobaczyla najstraszniejszego czarnego kota. Pomaga Morlinowi znalezc odpowiednie ksiegi. Morlin probuje wyjsc z biblioteki ale sie w niej gubi.
+
+Czekamy w generalnym obszarze wokol swiatyni. Zapada wieczor - uznajemy ze Morlin odszedl bez dawania nam znac. Stoimy kolo swiatyni. Witaja nas rozpalone ogniska, ludzie tanczacy i bawiacy sie w blasku ksiezyca. Kult Manana.
+
+Wychodzimy z dzielnicy swiatynnej w kierunku dokow. Przechodzimy przez gigantyczny most. Zanim trafimy do dzielnicy elfow coraz czesciej czujemy zapach mokrych kamieni. Elfia dzielnica zaczyna sie nagle - widac odrazu roznice miedzy architektura i stylem prowadzenia drogi, domow, latarnii. Wszystko jak od linijki z kalkulowanym ale i konsztownym ozdobieniem.
+
+Naen (Loren) szuka kogos kto by sie odznaczal - jakiegos mrocznego elfa, ale wszystkie elfy sa dostojne i jasne - kierujemy sie w strone portu.
+
+Dochodzimy do mola - przy nim stoja symetryczne idealne elfickie statki. Widac jak zaladunek ze statkow jest przenoszony przez nie elfy a przez ludzi oraz zywiolaki (chmury wody, ziemi i ognia). Elfy nie wykonuja zadnej pracy fizycznej.
+
+Joseph (Madred) zaczepia jakiegos portowego elfa i pyta o koszt takiej lajby - 120k zk !!!
+
+Trafiamy do karczmy "Ranna dziewistea" (bo nie umiem czytac po elficku - poprawna nazwa "Poranna dziewica"). Duzo marynarzy w srodku, ogolny rozgardiasz taki jak zazwyczaj z marynarzami jest ale bardziej poukladany bo to elfy.
+
+Krzycze do barmana i pokazuje ze chce piwo ale ten daje mi fajke wodna. Nie mam zielonego pojeca jak tego uzyc wiec zaczepiam elfa obok, ten bierze to ode mnie i zaprasza do grupy do stolu. Palimy fajke i pijemy razem piwo. Mimo nie znania wlasnego jezyka elfy ewidentnie mnie polubily.
+
+W miedzy czasie, Riorn (Torri), uzy mojego imienia, zauwazyl to jakis jegomosc, zbliza sie do mojego stolu. Riorn (Torri), Naen (Loren) i Joseph (Madred) czuwaja za typkiem przygotowywujac sie do dzialania. Ja zapomnialem o tym typie.
+
+Elfy ze stolu zauwazaja Riorna (Torri'ego) do stolu. Mowia mu ze moje wlosy za warte 20 zk za pukiel (ja nic nie rozumiem bo nie znam jezyka). Riorn (Torri) prowadzi small talk z grupka elfow przy ktorych siedze w miedzyczasie Joseph (Madred) zauwaza ze jegomosc zbliza sie do mnie i jest coraz blizej.
+
+Jegomosc jest najblizej jak tylko moze, jest pol metra za mna. Leci nagle kamien z drugiej strony sali, laduje obok mnie i typek kleka przy nad kamieniem. Riorn (Torri) zaczepia type pytajac "Ej typie, lubisz nizolki?" - tamten mowi ze tak, jak najbardziej.
+
+Riorn (Torri) krzyczy "Zlodziej" po elficku. Zauwazam ze drze pizde, i biegnie za jegomosciem. Mimo upicia i upalenia tez wybiegam za nimi.
+
+Typek wbiega do kibla i ucieka przez okno. Tylko Joseph (Madred) i Naen (Loren) sa w stanie za nim pobiec dalej. Doganiaja go na zewnatrz w kanalizacji. Naen (Loren) nakurwia go kastetem. Ogluszaja go i zwiazuja.
+
+Spotykamy sie rano w karczmie Lysobyki - tam gdzie siedzimy z trupa cyrkowa. Przeszukujemy typka ktorego zlapalismy ale nic nie znajdujemy. W moim ekwipunku wszystko znajduje sie na swoim miejscu.
+
+Morlin (Willy) rano nadal jest w bibliotece - zauwaza jakiegos zaplaszczonego jegomoscia kryjacego sie przed biblioteka - wychodzi tylem ze swiatyni razem z ksiegami ktore wypozyczyl.
+
+Morlin (Willy) wraca do nas - tez uniknal zlodziejaszkow. Ma wszystkie czesci pieczeci ze soba.
+
+Przesluchujemy jegomoscia - idzie srednio. Ogluszamy go jeszcze raz (Riorn'a (Torri'ego) pojebalo). Typek krwawi mocno - mozliwe ze umrze. Joseph (Madred) leczy go. Typek jest nieprzytomny.
+
+Ustalamy ze wieczorem trzeba bedzie go przeniesc do stajni na dalsze przesluchania - narazie trzeba przy nim poczuwac.
+
+Kierujemy sie do wiezy z harpunem. Podobno jest tam potezny mag - moze nam pomoze. Gudo (Szafran) i Morlin (Willy) zostajemy z nieprzytomnym wiezniem a Joseph (Madred), Naen (Loren) i Riorn (Torri) udaja sie do wiezy z magiem.
+
+Joseph (Madred), Naen (Loren) i Riorn (Torri) wychodza z Lysobyka.
+
+Riorn (Torri) widzi jakiegos szemranego jegomoscia ktory tak jakby ich sledzil ale gubi go po chwili. Dochodza do wiezy.
+
+Wieza jest cienka, maks na 3 osoby w poprzek. U podstawy wiezy stoi jakis stwor, jakby gryf lub sfinks. Wokol wiezy kreca sie zywiolaki.
+
+W miedzyczasie Morlin (Willy) oraz ja przesluchujemy zlapanego ziomka. Przebudzil sie i czuje sie zle ale ma duzo zaufania do Morlin'a (Willy'ego). Gadaja i gadaja, zaczyna sie otwierac i gadac o tym ze jest czescia organizacji ktora dostala zlecenie ktorego celem bylo znalezienie pieczeci oraz nas.
+
+U chlopakow w wiezy sfinks zadaje trzy zagadki. Chlopaki rozwiazuja je i moga wejsc do wiezy. W srodku wieza jest zdecydowanie wieksza niz na zewnatrz. Ida na gore. Na samej gorze widza maga - Alterin'a.
+
+Naen (Loren) przedstawia sie swoim falszywym imieniem. Mag mowi ze nie moze mu pomoc jezeli nie poda swojego prawdziwego imienia. Po chwili, chlopaki przedstawiaja sie swoimi prawdziwymi imonami. Naen (Loren) pyta sie o swoich przodkow. Dostaje lore dump o ciemnych elfach ktore przyplynely tutaj z dalekich ladow i osiedlily sie tutaj. Jednakze ich przywodca, Alarnil, nie bylo dobra istota. Mag mowi ze moze przeprowadzic rytulal ktory pomoze Naen'owi (Loren'owi) poznac historie jego przodkow. Rytulal ten jednak jest kosztowny i niebezpieczny.
+
+Naen (Loren) decyduje sie przejsc przez rytulal - Alterin daje mu znac ze jezeli rytulal przejdzie zle (aka. jego wszyscy rodzice nie zyja) to umrze w przeciagu 24 godzin. Rytulal pozwoli mu spojrzec w przeszlosc historii swojej krwii. W przeciagu nastepnych 24 godzin albo umrze albo dostanie wizje przeszlosci swojej krwii.
+
+Chlopaki wychodza - Sfinks stoi na ich drodze zadaje znowu zagadki. Musza na nie odpowiedziec zeby moc wyjsc. Wychodza odpowiadajac na wszystkie zagadki.
