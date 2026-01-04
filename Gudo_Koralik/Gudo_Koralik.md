@@ -1022,7 +1022,11 @@ Ldzie zebrali sie poniewaz Willem - lokalny rybak - prawie sie utopil, zostal ur
 
 Tlum sie rozchodzi i mozemy przejsc dalej. Hanna daje nam znac ze aktualnie jest odplyw i nie bedziemy w stanie poplynac statkiem do Couronne. Hanna proponuje nam wywoz z miasta wozem, w ten sposob wydostaniemy sie z miasta ukryci przed potencjalnymi problemami.
 
-### Dopisac notatki
+Wyjezdzamy na wozie, po dniu drogi zostajemy zostaweini przez woznice na szlaku miedzy Marienburgiem a Breakwater. W Breakwater widzimy jak niektore domy zostaly spalone - to Figrimy ktore spotkalismy - quarell miedzy ich Szamanem a wiesniakiem co skradl jego corke, w wiadomym celu.
+
+Idziemy dalej do nastepnej wioski na drodze i znajdujemy ja kompletnie pusta - jedyne co tam znajdujemy to statek Bretonski warty 200_000 zk. Dalej znajdujemy mala fortece, zbudowana w pospiechu a w srodku bretonczykow - twierdza jest otoczona przez skaweny. Wracamy do Breakwater i przekonujemy wiesniakow ze jezeli nam pomoga to skarby ze statku beda ich - wciskamy im rowniez kit ze na skarbach jest klatwa, demon upierdoli ich (niby jak Josepha - blizny Josepha graja glowna role w przekonaniu) jezeli sprobuja wziac skarby bez pomagania oblezonym w twierdzy zeglarzom.
+
+Cala grupa - wraz z wiesniakami ustawiamy sie przez twierdza (pareset metrow), gotowi do walki.
 
 ---
 
