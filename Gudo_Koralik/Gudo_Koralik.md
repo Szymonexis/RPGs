@@ -949,7 +949,7 @@ Morlin (Willy) rano nadal jest w bibliotece - zauwaza jakiegos zaplaszczonego je
 
 Morlin (Willy) wraca do nas - tez uniknal zlodziejaszkow. Ma wszystkie czesci pieczeci ze soba.
 
-Przesluchujemy jegomoscia - idzie srednio. Ogluszamy go jeszcze raz (Riorn'a (Torri'ego) pojebalo). Typek krwawi mocno - mozliwe ze umrze. Joseph (Madred) leczy go. Typek jest nieprzytomny.
+Przesluchujemy jegomoscia (Silas) - idzie srednio. Ogluszamy go jeszcze raz (Riorn'a (Torri'ego) pojebalo). Typek krwawi mocno - mozliwe ze umrze. Joseph (Madred) leczy go. Typek jest nieprzytomny.
 
 Ustalamy ze wieczorem trzeba bedzie go przeniesc do stajni na dalsze przesluchania - narazie trzeba przy nim poczuwac.
 
@@ -961,7 +961,7 @@ Riorn (Torri) widzi jakiegos szemranego jegomoscia ktory tak jakby ich sledzil a
 
 Wieza jest cienka, maks na 3 osoby w poprzek. U podstawy wiezy stoi jakis stwor, jakby gryf lub sfinks. Wokol wiezy kreca sie zywiolaki.
 
-W miedzyczasie Morlin (Willy) oraz ja przesluchujemy zlapanego ziomka. Przebudzil sie i czuje sie zle ale ma duzo zaufania do Morlin'a (Willy'ego). Gadaja i gadaja, zaczyna sie otwierac i gadac o tym ze jest czescia organizacji ktora dostala zlecenie ktorego celem bylo znalezienie pieczeci oraz nas.
+W miedzyczasie Morlin (Willy) oraz ja przesluchujemy zlapanego ziomka. Przebudzil sie i czuje sie zle ale ma duzo zaufania do Morlin'a (Willy'ego). Gadaja i gadaja, zaczyna sie otwierac i gadac o tym ze jest czescia organizacji ktora dostala zlecenie ktorej celem bylo znalezienie pieczeci oraz nas.
 
 U chlopakow w wiezy sfinks zadaje trzy zagadki. Chlopaki rozwiazuja je i moga wejsc do wiezy. W srodku wieza jest zdecydowanie wieksza niz na zewnatrz. Ida na gore. Na samej gorze widza maga - Alterin'a.
 
@@ -974,6 +974,59 @@ Chlopaki wychodza - Sfinks stoi na ich drodze zadaje znowu zagadki. Musza na nie
 ---
 
 Zdobyte XP: 180
-(akutalnie 1880 + 180 = 1960)
+(akutalnie 1880 + 180 = 2060)
+
+---
+
+# Sesja 11 - 04.01.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+Riorn, Morlin i ja jestesmy w karczmie z Silasem (tym ziomkiem zwiazanym przez Josepha). Morlin czuje jak jego kosci go napierdalaja, jakby lamane. Naen i Morlin nie widza swoich odbic w kaluzach, tylko jakas inna postac w kolczastej zbroi.
+
+Humor Naena nie jest najlepszy. W drodze powrotnej prosi Josepha o dyskrecje przed reszta trupy.
+
+Z pieczeciami mamy pojechac do Bretonii Couronne (najblizej) lub Aldorfu lub Talabaim.
+
+Przesluchujemy Silasa dalej z Morlinem. Probujemy sytuacje rozwiazac obupulnie, pomoc jemu. Courone to rowniny - hoduja tam konie, dlatego mowi sie o nich ze to pustkowia, mimo ze to nie sa tak naprawde pustkowia.
+
+Widzimy Naena nad Silasem, Silas stracil paznokiec, bedzie gadal. Silas pracuje dla gangu Czerwonych Koron - maly gang do ochrony i malych zbrodni. Robote na nas zlecil mezczyzna o inicialach H.H. - podobno typek jest z Aldorfu (ten co pracowal z Heidelmanem). Chodzilo o kamien ktory niziolek (ja) mial przetrymywac ale mu sie nie udalo. Podobno jestesmy obserwowani w miescie - nie powinnismy tutaj siedziec dluzej niz pare dni. Serafel (zly czarodziej, znajomy opiekuna z samego poczatku) - chce spaczyc lzy bogini - kamienie Szaliji. Dzisiaj w nocy bedzie przezut orkiestrowany przez gang Czerwonych Koron.
+
+Fajnie byloby napasc na ten przezut - moze zdobedziemy jakies swiecidelka - chlopaki jednak nie za bardzo sa lasi na pieniazki i kosztownosci. Chca przekazac fake info Silasowi, apropos naszego nastepnego celu, wypuscic go - w domysle typek doniesie Czerwonym Koronom to fake info - a my pojedziemy do Bretonii, do Couronne.
+
+Naen idzie do Vittori i daje jej znac o tym co sie stalo. Mowi ze wie gdzie znalezc dowodce Czerwonych Koron i gdzie bedzie przezut. Vittoria pogada z Mautem. Odpali nam 20% z lupu. Naen jej nawytykal - na tym sie skonczylo.
+
+Ogluszylismy Silasa, oblewamy go bimbrem i ciagniemy jakby to byl nasz kolega na zewnatrz. Zostawimy go na ulicy.
+
+Lilly nie chce z nami dalej podrozowac - ze lzami w oczach mowi ze nie moze dalej z nami podrozowac. Daje medalion liscia Naenowi. Zegna nas.
+
+Wyprowadzamy nieprzytomnego Silasa - oddalismy pokoj. Jestesmy na zewnatrz - karczmarz nic nie wywachal. Wynieslismy Silasa do jakiegos rynsztoku i wracamy do trupy na ostatnie pa-pa. Tam Joseph wychodzi z "pozegnania" z akrobatka (Greta).
+
+Podbiegaja do nas, Vittoria, Greta, Angyan, Sybilla, Elzbeth, Kurt, Klemens - ogolem cala trupa (bez Mauta - tamten polecial juz do przezutu).
+
+Siedzimy w karczmie, spedzajac czas z Trupa. Nagle wpada 6 straznikow do karczmy. Naen automatycznie probuje sie zchowac - udaje mu sie. Probujemy przekonac straznikow ze nie znalezli odpowiednich osob ale sie nie udaje - trupa staje za nami i straznicy spierdalaja.
+
+Vittoria daje nam 50zk w worku - za dobra prace.
+
+Idziemy do portu, noca. Droga do portu jest zablokowana przez mezczyzn ubranych w portowe szaty. Ich przywodca ubrany w zielono-niebieskie szaty - stoja przed swiatynia Szaliji. Matka Hanna probuje przemowic tlumowi do rozsadku.
+
+Ldzie zebrali sie poniewaz Willem - lokalny rybak - prawie sie utopil, zostal uratowany przez kaplanow Szaliji. Tlum twierdzi ze Manan, bog morza, zostal okradziony z jego zdobyczy (rybaka ktory mial sie prawie utopil). Morlin przekonuje tlum ze Manan i Szalija chcieli aby rybak (Will) jednak przezyl.
+
+Tlum sie rozchodzi i mozemy przejsc dalej. Hanna daje nam znac ze aktualnie jest odplyw i nie bedziemy w stanie poplynac statkiem do Couronne. Hanna proponuje nam wywoz z miasta wozem, w ten sposob wydostaniemy sie z miasta ukryci przed potencjalnymi problemami.
+
+### Dopisac notatki
+
+---
+
+Zdobyte XP: 180
+(akutalnie 2060 + 180 = 2240)
 
 ---
