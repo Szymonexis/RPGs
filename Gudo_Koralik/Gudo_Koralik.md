@@ -688,7 +688,7 @@ Przez rok pracujemy w trupie cyrkowej. Nosimy skrzynie, pomagamy trupie, szkolim
 ---
 
 Zdobyte XP: 300
-(akutalnie 1120 + 300 = 1420)
+(aktualnie 1120 + 300 = 1420)
 
 ---
 
@@ -749,7 +749,7 @@ Zaczynamy sie miedzy soba bic, w chaosie Joseph probuje zaszarzowac z mieczem na
 ---
 
 Zdobyte XP: 150
-(akutalnie 1420 + 150 = 1570)
+(aktualnie 1420 + 150 = 1570)
 
 ---
 
@@ -817,7 +817,7 @@ Wszystko co nalezalo do zolnierzy znika w rekach ogladajacych. Zolnierze gasza o
 ---
 
 Zdobyte XP: 130
-(akutalnie 1570 + 130 = 1700)
+(aktualnie 1570 + 130 = 1700)
 
 ---
 
@@ -897,7 +897,7 @@ Morlin sie wazy w swiatyni Wereny - prawie zostal swietym.
 ---
 
 Zdobyte XP: 180
-(akutalnie 1700 + 180 = 1880)
+(aktualnie 1700 + 180 = 1880)
 
 ---
 
@@ -974,7 +974,7 @@ Chlopaki wychodza - Sfinks stoi na ich drodze zadaje znowu zagadki. Musza na nie
 ---
 
 Zdobyte XP: 180
-(akutalnie 1880 + 180 = 2060)
+(aktualnie 1880 + 180 = 2060)
 
 ---
 
@@ -1031,6 +1031,95 @@ Cala grupa - wraz z wiesniakami ustawiamy sie przez twierdza (pareset metrow), g
 ---
 
 Zdobyte XP: 180
-(akutalnie 2060 + 180 = 2240)
+(aktualnie 2060 + 180 = 2240)
+
+---
+
+# Sesja 12 - 27.01.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+Ratio skawenow do wiesniakow jest 50:50 liczebnosc ale ratio sily to 45:55 (w strone skawenow). Musimy obmyslic jakis plan ataku zeby zapewnic przewage.
+
+Aput - przywodca wiesniakow - wielki chlop, obgadujemy z nim taktyke ataku. Mamy woz, mamy dwie butle bimbru - zrobimy z nich molotowy.
+
+Walka!
+
+- Riorn bedzie rzuca molotowem. W tym samym momencie wychodzi zza palisady skawen-skurwiel - wielkie bydle, ojebane w kolcach prowadzone na lancuchach z mechaniczna lapa, prowadzony przez skawena ktory wyglada jak ich dowodca.
+- Molotow trafia w skawenow - panika i rozgardiasz. Drugi molotow jeszcze nie zostal rzucony.
+- Skawen-dowodca dostaje w pizde strzala od Naena, to go rozprasza. Niektore skaweny sie pala zywcem, skawen-skurwiel dobiega do nas, jest super blisko.
+- Leci drugi molotow w kierunku skawena-skurwiela - nie dolatuje, laduje przed nim.
+- Joseph i Morlin biegna razem z wiesniakami na skaweny - ratio sil 45:55. Narazie wiesniacy i skaweny nie sa obok siebie - wiesniacy ustawiaja sie na parowanie (defensywa).
+- Naen po oddaniu strzalu w skawena-dowodce wycofuje sie w kierunku wiesniakow i oddaje strzal w kierunku skawena-dowodcy, niestety strzala nie trafia.
+- Ja na widok wielkiego skawena-skurwiela uciekam w kierunku wiesniakow.
+- Joseph probowal szybko przekonac wiesniakow jak trzymac lepiej bron ale nie dociera.
+- Skaweny atakuja wiesniakow, wpadaja pod bronia ustawiona przez wiesniakow. Zaczynaja szlachtowac wiesniakow - ratio sil zmienia sie na 40:60.
+- Morlin dokonuje modly w imieniu Szaliji - wsparcie wiesniakow slowem - ratio sil zmienia sie na 45:55.
+- Istern zesral gacie - jako jedyny zostal z przodu zaraz obok skawena-skurwiela.
+- Skawen-skurwiel szarzuje w strone Isterna ale widac ze instrukcje skawena-dowodcy byly niejasne i nie trafia (confusion).
+- Istern stoi oko w oko ze skawenem-skurwielem - nastawia sie na parowanie.
+- Naen strzela w skawena-dowodce - nie trafia
+- Joseph wywija orenzem na lewo i prawo - chcial ciachac skaweny a trafia tylko powietrze.
+- Skaweny probuja atakowac wiesniakow ale po pierwszym ataku chaos jest tak wielki ze traca skupienie i traca przewage - ratio sil 55:45 na rzecz wiesniakow
+- Skawen-skurwiel stoi nad Isternem. Atakuje mechaniczna lapa ale ta trafia w ziemie zamiast w Isterna. Probuje go ugryzc ale lapie tylko powietrze. Potem atakuje druga lapa i tez ryje nia w ziemie.
+- Istern nadal stoi zamurowany, ataki skawena-skurwiela lataja wokol niego, zaczyna sie modlic do Szaliji
+- Naen probuje przestraszyc skaweny ale one nie znaja staroswiatowego - krzyczy tez do mnie zebym skontaktowal sie z bretonczykami
+- Biegne w strone palisady, na koniec ruchu strzelam w kierunku skawena-skurwiela ale nie trafiam
+- Morlin napierdala sie ze skawenami, przewodzi wiesniakami - ratio sil zmienia sie na 95:5
+- Joseph przypomina wiesniakom ze walcza o zloto i chwale - ratio sil zmienia sie na 97:3
+- Skaweny probuja odbic ataki wiesniakow ale wiesniacy sa za mocni, skaweny sie rozbiegaja
+- Wiesniacy staja oslupieni, nie atakuja skawena-skurwiela
+- Istern nadal stoi zamurowany
+- Naen'a widok potwora nie rusza - widzac Isterna zamurowanego przez strach, podbiega do Isterna i probuje go odciagnac stamtad. Skawen-skurwiel korzysta z okazji i gryzie Isterna - trzyma go w paszczy. Zaraz potem skawen-skurwiel macha lapa w kierunku Naena i trafia.
+- Ja laduje proce, stojac na plecach skawena ale widzac tego skawena-skurwiela staje oslupiony, zdaje sobie sprawe z tego jak wielkie monstrum to jest
+- Joseph tez stoi oslupiony
+- Skawen-skurwiel szarzuje w moja strone, ale przestrzela
+- Morlin wpierdziela sie w szale na tego skawena-skurwiela - ciacha go mieczem po mechanicznej lapie, leje sie z niej czarna krew ale skawen-skurwiel stoi nieobruszony
+- Chlopi nadal sa zamurowani
+- Istern nadal zamurowany
+- Naen wali w skawena-skurwiela z luku, nie trafia
+- Ja nadal stoje zamurowany z proca naladowana w rekach ale nie jestem w stanie nic zrobic ze strachu
+- Joseph otrzasnal sie z paralizu - tak bardzo ze otrzasa mnie i Isterna. Szarzuje na skawena-skurwiela, ciacha go mieczem bo korpusie. Ze skawena zaczyna sie lac zielono-czerwona krew ale skawen tylko sie usmiecha
+- Skawen-skurwiel wzial mnie na celownik i napierdala mnie. Najpierw mechaniczna lapa, ale nie trafia, probuje chapnac mnie ale trafia tylko powietrze. Zamachnal sie druga lapa i zapierdala mi po rece. Czuje jakby mi ktos ja probowal wyrwac - odlatuje na pare metrow do tylu - HP spada do 0 ☹️
+- Morlin atakuje mieczem w skawena-skurwiela
+- Bretonczycy wychodza zza palisady i biegna w nasza strone
+- Morlin atakuje mieczem jeszcze raz w skawena-skurwiela - trafia tak mocno ze przebija reke skawena do polowy i dobija miecz tarcza zatrzymujac sie na kosci. Gigantyczna ilosc czerwono-zielonej krwii leje sie z rany ale skawen nadal stoi.
+- Istern napierdala z luku w skawena-skurwiela - przycelowywuje, czeka az Morlin wyciagnie miecz z reki skawena, strzela i strzala leci prosto w oko skurwiela i przebija go na wylot. Skawen pada na morde.
+- Walka wygrana!
+
+Bretonczyk w wypucowanej zbroi podjezdza do nas i dziekuje nam za pomoc i pyta czy jestesmy rycerzami. Na imie mu Gotfryd von Katilon.
+
+Czterach pacholow niesie 5 skorznie i 2 worki zlota (kazdy po 50 zk) - jeden worek zlota i zwykle skorznie trafiaja do nas.
+
+Joseph, Istern i Morlin przeszukuja trupy z pola bitwy.
+Joseph bierze smieszne zielone kamienie z trupa skawena-skurwiela i pakuje je do worka (porazka rzut na sile woli).
+Istern widzi te same smieszne kamienie i bierze ich jeszcze wiecej do wora (porazka rzut na sile woli).
+Morlin przekonuje wiesniakow ze bycie dobrym poplaca - gadajac cos o Szaliji i dobroci serca, dyrdymaly.
+
+Wiesniacy zaprowadzili mnie do palisady razem z Neanem - sa niezadowoleni z 50 zk - ja i Naen udajemy ze szukamy Gotfryda, tak naprawde zaczynamy spierdalac stamtad. Naen rzuca kamieniem zeby odwrocic uwage wiesniakow i spierdalamy. Zauwazaja nas przy wyjsciu z palisady. Uciekamy w kierunku chlopakow.
+
+Morlin widzac nas gada do wiesniakow ktorych przekabacil na strone Szaliji - daje im dwie zlote korony na lebka (dwoch ich jest). Do tego dolacza sie Istern i Joseph, daja im "szmaragdy" (spaczone kamienie). Morlin, Joseph i Istern stoja obok tych wiesniakow ktorzy trzymaja golymi lapami te kamienie. Widza jak jeden z nich dostaje coraz dluzszych wlosow a drugiemu uszy zaczynaja rosnac w gore. Naen i ja dobieglismy do reszty i wiesniacy nie spuscili nam wpierdolu.
+
+Rzuty na ksiege spaczenia:
+
+- Istern - spalil PP-ka - brak mutacji
+- Joseph - spalil PP-ka - brak mutacji
+
+Wiesniacy ktorzy dostali "szmaragdy" mutuja. Padaja w konwulsjach. Kazdy z nich porasta futrem, racice zamiast stop, ogony skorpionow wyrastajace z rzyci, sama rzyc zamienia sie w odwlok pajaka, a zamiast rak maja macki. Mutuja i traca przytomnosc.
+
+Biegne po Bretonskich rycerzy - przybiegaja i ucinaja glowy wiesniakom, a my im "pomagamy". Jeden z rycerzy klepie Morlina po ramieniu, widzial ze Morlin przodowal w odcinaniu glow. Morlin jest wkurwiony ale podaje reke rycerzowi. Wszyscy wiesniacy ktorzy z nami przybyli sa martwi.
+
+---
+
+Zdobyte XP: 145
+(aktualnie 2240 + 145 = 2385)
 
 ---
