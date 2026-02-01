@@ -1123,3 +1123,21 @@ Zdobyte XP: 145
 (aktualnie 2240 + 145 = 2385)
 
 ---
+
+# Sesja 13 - 31.01.2026
+
+Podrozujemy jeden dzien w trakcie ktorego, Naen uzdrawia sie potka a mnie (z ciezkimi ranami) probuje uzdrowic Joseph. Udaje mu sie uleczyc kompletnie do ran lekkich (mam 3HP).
+
+Jestesmy jeszcze na koncowych czesciach mokradel.
+
+Mijaja dwa dni (+2HP - czyli mam 5HP) - otwiera sie przed nami rownina. Nie jestesmy do konca pewni czy nadal idziemy w strone Courone - rownina jest sucha i twarda - cos ala australijskie stepy.
+
+Dochodzimy w pewnym momencie do rzeki - plytka i z delikatnym nurtem. Troche dalej widac kamienny stary most a na moscie stoi ciezki woz, woznica sprawia wrazenie przestraszonego, to samo konie. Most jest stary i rozpadajacy sie, woznica zatrzymal sie zeby naprawiac most - a przynajmniej sprobowac swoich sil w tym.
+
+Woznica podchodzi do nas - prosi o pomoc. Woz wyglada jak dalekosiezny woz - przygotowany na droge. Dogagujemy sie z woznica ze my mu pomozemy, a on zabierze nas na woz i pomoze nam dostac sie do Couronne.
+
+Zbieramy wieksze skaly z dna plytkiej rzeki i ukladamy je na moscie w celu jego zalatania. W miedzy czasie Joseph podsluchuje konwersacje wewnatrz wozu - slyszy bretonski ktorego nie rozumie ale slyszy same kobiety.
+
+Zdajemy sobie sprawe ze stalo sie nagle dziwnie zimno - mimo ze brak wiatru i slonce jest w zenicie to czujemy chlod. Mimo dziwnego odczucia, wsiadamy na woz i podrozujemy w kierunku Courone. Wewnatrz wozu siedza dwie damy - jedna starsza druga mlodsza. Ich imiona to Ilona Breon i Coulette Metword. Podrozuja do Bretonii bo sa ta kraina zainteresowane.
+
+
