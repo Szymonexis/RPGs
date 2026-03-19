@@ -1233,6 +1233,10 @@ W tym momencie podbiegaja chlopaki - ja mam mord w oczach.
 
 ---
 
+> Aktualnie jezeli chcialbym odkrywac tajemnice rekawicy to przydaloby sie pojsc w rzemieslnika (basic) -> inzyniera z specjalizacja rusznikarz (advanced) -> mistrz rzemiosla (advanced)
+
+---
+
 Zdobyte XP: 150
 (aktualnie 2575 + 150 = 2725)
 
