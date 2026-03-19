@@ -1234,6 +1234,18 @@ W tym momencie podbiegaja chlopaki - ja mam mord w oczach.
 ---
 
 > Aktualnie jezeli chcialbym odkrywac tajemnice rekawicy to przydaloby sie pojsc w rzemieslnika (basic) -> inzyniera z specjalizacja rusznikarz (advanced) -> mistrz rzemiosla (advanced)
+> 
+> Ewentualnie:
+> - rusznikarstwo - umiejetnosc zaawansowana do ulepszania i napraw nad bronia
+> - bron specjalna mechaniczna - umiejetnosc potrzebna do strzelania normalnie (aktualnie nie wiem jakim cudem wogole moge z niej strzelac) (jestem specjalny)
+>
+> Rzemieslnik
+> - K +5
+> - odp +5
+> - zr +10 
+> - int +5
+> - sw +10
+> - Zyw +2
 
 ---
 
