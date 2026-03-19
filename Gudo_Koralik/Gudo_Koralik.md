@@ -1126,6 +1126,16 @@ Zdobyte XP: 145
 
 # Sesja 13 - 31.01.2026
 
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek (nie ma go na sesji)
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
 Podrozujemy jeden dzien w trakcie ktorego, Naen uzdrawia sie potka a mnie (z ciezkimi ranami) probuje uzdrowic Joseph. Udaje mu sie uleczyc kompletnie do ran lekkich (mam 3HP).
 
 Jestesmy jeszcze na koncowych czesciach mokradel.
@@ -1140,4 +1150,90 @@ Zbieramy wieksze skaly z dna plytkiej rzeki i ukladamy je na moscie w celu jego 
 
 Zdajemy sobie sprawe ze stalo sie nagle dziwnie zimno - mimo ze brak wiatru i slonce jest w zenicie to czujemy chlod. Mimo dziwnego odczucia, wsiadamy na woz i podrozujemy w kierunku Courone. Wewnatrz wozu siedza dwie damy - jedna starsza druga mlodsza. Ich imiona to Ilona Breon i Coulette Metword. Podrozuja do Bretonii bo sa ta kraina zainteresowane.
 
+---
 
+Okazuja sie byc wampirami, ujebaly nas wszystkich wieczorem w tawernie na drodze. Jestesmy nieprzytomni, nie wiadomo co sie stalo z Naen'em.
+
+---
+
+Zdobyte XP: 190
+(aktualnie 2385 + 190 = 2575)
+
+---
+
+# Sesja 14 - 19.03.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek (nie ma go na sesji)
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+Mija 5 dni - budzimy sie, brak Naen'a. Mamy ciezki oddech, czujemy sie ledwo zywi i tak jakby ktos z nas wyssal godnosc. Przychodzi do nas wysoka szczupla blondynka. Opatruje nas - jest zielarka. Udalo jej sie uleczyc do lekkich ran tylko Morlin'a i Riorn'a.
+
+Dzien szósty po ssaniu (hehe) przez wampiry. Zielarka probuje nas wyleczyc jeszcze raz. Udaje jej sie u kazdego tym razem ale nada ja oraz Joseph jestesmy ciezko ranni.
+
+Pokoj zielarki pachni potem i ziolami. Kazdy z nas ma swoje lozko, obok nas stoja miski pelne brudnej wody, wymiocin i ropy. Jestesmy w Karczmie u Basteina Roux - miasto Szatenią (?). Laska ma na imie Mere Collete - gada z Morlin'em - ten tak zakrecil ze ona dala mu "Lek na cale zlo" - jakas miksture. Mikstura trafia do Josepha a ten dostaje niekontrolowanej sraki.
+
+Morlin pyta Mere o Naen'a - laska nic nie wie. Mowi za to ze stajenny moze wiedziec wiecej.
+
+Idziemy do stajennego chlopca - stoi przy koniu i go czesze. Mowie mu ze szukamy dwoch dam z elfem. Woz pojechal do Couronne - kobieta z Naen'em na koniu pojechala na polany - 2 dni stad jest opuszczona posiadlosc w tym kierunku. 
+
+Tam pojechala mloda z Naen'em a stara pojechala do Couronne.
+
+Karczmarza pytamy o stara opuszczona posiadlosc. Jest to palac starego lorda. Mowi ze jego zona zostala powieszona przez niego, typ umral ze strosci. Teraz jego zona, jej duch, tam straszy. Karczmarz nie wie nic wiecej.
+
+W miescie jest swiatynia. Na witrazu jest kobieta - Panna Jeziora. Najbardziej dekorem przypomina najbardziej swiatynie chrzescijanska w stylu gotyckim.
+
+Na srodku swiatyni jest kobieta - kleczy i modli sie. Bije od niej delikatny poblask, ma blond wlosy, ubrana cala na bialo ze zlotymi ornamentami.
+
+Jak podchodze do niej ale jeden z kaplanow mnie deliktanie odpycha od niej - mowi ze arcy-kaplanka medytuje i moze to potrwac pare godzin albo pare lat. Kaplan powiedzial nam "idzta do zarzadcy miasta - moze on wam cos wiecej powie" wiec poszlismy do zarzadcy portu (bo to miasto portowe).
+
+Jestesmy w porcie - Morlin i Riorn zauwazaja osobe w porcie cala zakryta plaszczem w srodku pieknego slonecznego dnia zostawia skrzynie w porcie i odchodzi. Postac byla szeroka i wygladalo jakby cos sie ze nia ciagnelo.
+
+Otwieram skrzynie - w srodku przedramiennik pogrubiony z jednej strony. Przedramiennik - wyglada jak dzialo Iron-Man'a ale circa 1200 rok. Decyduje sie wziac ta lape - jest warta 4000zk (wedlug mojej wyceny).
+
+---
+
+Zdobywam przedramiennik - warty 4000zk
+
+Wyglada jak narzedzie laczace bron palna i magie - wyglada jakby brakowalo w nim jakiegos zrodla zasilania - uchwyt zrodla energii wyglada jakby mial trzymac jakis klejnot. Za lufami znajduja sie magazyny na kule. Przedramiennik nie mia systemu spustowego, lufy wychodza na jego gorze
+
+Dziwnym trafem sprzet wielkoscia pasuje na moja reke
+
+![](wygrywak-drugiego-mlota-przedramiennik.png)
+
+---
+
+Idziemy do zarzadcy - pytania leca czy ma cos wiecej do powiedzenia wzgledem tego co wiemy. Dochodzimy do wniosku ze ten palac to miejsce tylko tymczasowe dla tej mlodej i Naen'a - nie wiadomo co sie z nim stanie, musimy mu pomoc i go ratowac. 
+
+Zostawiam przedramiennik w karczmie z Riornem. Joseph nadal sra i rzyga.
+
+Idziemy (ja i Morlin) do cyruliczki - tak bardzo jej sie podobam ze zaprasza mnie na good time wieczorem a dwie potki zdrowia daje za darmo.
+
+Ogarniam sobie ten przedramiennik / rekawice. Zakladam ja, krece magazynkami. Nagle czuje uklucie, a w magazynku pojawia sie kula gotowa do strzalu.
+
+Zdjemuje rekawice, chowam do tobolka i ide wieczorem do cyruliczki na male co-nie-co. Jutro rano spotkamy sie z chlopakami przed karczma aby wyruszyc po Naen'a.
+
+Chlopaki zbieraja sie do spania w karczmie i slysza nagle ciezkie odbicie od dachu i potem cisze.
+
+Slysze za soba kroki - nie ludzkie, jakby zwierze. Obracam sie i widze Skaweny. Mowia do mnie lamanym staroswiedzkim "Oddaj REKAWICE!!!".
+
+Nagle zdaje sobie sprawe ze mam ja nareku i mowie "PO MOIM TRUPIE!"
+
+Mysle o strzale - salwa 3 pociskow w skaweny - leca trzy pociski. Dwa nie trafiaja ale jeden trafia i powala skawena ale nie zabija go.
+
+Skaweny biegna w moja strone. Mysle o strzale znowu i strzelam teraz cala salwa wielu wielu pociskow. Skaweny leza przede mna martwe.
+
+W tym momencie podbiegaja chlopaki - ja mam mord w oczach.
+
+---
+
+Zdobyte XP: 150
+(aktualnie 2575 + 150 = 2725)
+
+---
