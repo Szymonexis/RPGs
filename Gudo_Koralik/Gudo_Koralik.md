@@ -1181,7 +1181,7 @@ Pokoj zielarki pachni potem i ziolami. Kazdy z nas ma swoje lozko, obok nas stoj
 
 Morlin pyta Mere o Naen'a - laska nic nie wie. Mowi za to ze stajenny moze wiedziec wiecej.
 
-Idziemy do stajennego chlopca - stoi przy koniu i go czesze. Mowie mu ze szukamy dwoch dam z elfem. Woz pojechal do Couronne - kobieta z Naen'em na koniu pojechala na polany - 2 dni stad jest opuszczona posiadlosc w tym kierunku. 
+Idziemy do stajennego chlopca - stoi przy koniu i go czesze. Mowie mu ze szukamy dwoch dam z elfem. Woz pojechal do Couronne - kobieta z Naen'em na koniu pojechala na polany - 2 dni stad jest opuszczona posiadlosc w tym kierunku.
 
 Tam pojechala mloda z Naen'em a stara pojechala do Couronne.
 
@@ -1207,9 +1207,61 @@ Dziwnym trafem sprzet wielkoscia pasuje na moja reke
 
 ![](wygrywak-drugiego-mlota-przedramiennik.png)
 
+### Opis broni:
+
+### Nieznany przedramiennik strzelecki
+
+To ciężka, stara broń zakładana na przedramię. Jest pordzewiała, miejscami nadżarta czasem, ale mimo tego wciąż sprawna. Ma trzy krótkie lufy, system pasków, ruchomych zapadek i ciemne okienko w korpusie, pod którym czasem pojawia się słaby czerwony blask.
+
+Po założeniu broń sama dopasowuje się do ręki. Paski zaciskają się mocniej, niż powinny, a mechanizm układa dłoń i nadgarstek tak, jakby wiedział, gdzie mają leżeć. Nie wygląda na wygodną, ale po chwili zaczyna sprawiać wrażenie dziwnie naturalnej.
+
+Nie przypomina zwykłego pistoletu. Bardziej wygląda jak małe działko przedramienne albo stara rusznica wbudowana w ciężką rękawicę.
+
+### Profil
+
+- Grupa: Egzotyczna broń prochowa
+- Obrażenia: 4
+- Zasięg: 16/32
+- Przeładowanie: Pełna Akcja
+- Amunicja: 18
+- Ciężar: 45
+
+### Zasady specjalne
+
+#### Przedramienna
+
+Broń zajmuje przedramię i dłoń. Tą ręką trudno wykonywać precyzyjne czynności.
+
+#### Zespolenie
+
+Przy pierwszym założeniu broń wbija się w skórę i pobiera trochę krwi. Zadaje to 1 Ranę. To samo może zdarzyć się przy niektórych przeładowaniach.
+
+#### Dziwnie poręczna
+
+Mimo obcego mechanizmu broń sama „układa się” do strzału. Nie dostajesz kary za brak znajomości tej broni.
+
+#### Tryb strzału
+
+Jeden strzał zużywa 1 ładunek.
+
+#### Tryb salwy
+
+Możesz wystrzelić wszystkie 3 ładunki naraz. To wymaga Pełnej Akcji. Wykonujesz test US +20. Przy trafieniu cel główny dostaje trafienie, a za każde pełne 2 SU możesz objąć jeszcze 1 dodatkowy cel w promieniu 4 metrów, maksymalnie 3 cele.
+
+#### Niestabilna
+
+Przy wyniku 96–00 broń zacina się i rani użytkownika za 1 Ranę.
+
+### Co Gudo zauważa
+
+- broń dziwnie dobrze leży na ręce
+- czasem sama jakby koryguje ustawienie dłoni
+- reaguje na krew
+- po walce zostawia w ręce ciepło, napięcie i dziwną niechęć do zdejmowania
+
 ---
 
-Idziemy do zarzadcy - pytania leca czy ma cos wiecej do powiedzenia wzgledem tego co wiemy. Dochodzimy do wniosku ze ten palac to miejsce tylko tymczasowe dla tej mlodej i Naen'a - nie wiadomo co sie z nim stanie, musimy mu pomoc i go ratowac. 
+Idziemy do zarzadcy - pytania leca czy ma cos wiecej do powiedzenia wzgledem tego co wiemy. Dochodzimy do wniosku ze ten palac to miejsce tylko tymczasowe dla tej mlodej i Naen'a - nie wiadomo co sie z nim stanie, musimy mu pomoc i go ratowac.
 
 Zostawiam przedramiennik w karczmie z Riornem. Joseph nadal sra i rzyga.
 
@@ -1234,15 +1286,17 @@ W tym momencie podbiegaja chlopaki - ja mam mord w oczach.
 ---
 
 > Aktualnie jezeli chcialbym odkrywac tajemnice rekawicy to przydaloby sie pojsc w rzemieslnika (basic) -> inzyniera z specjalizacja rusznikarz (advanced) -> mistrz rzemiosla (advanced)
-> 
+>
 > Ewentualnie:
+>
 > - rusznikarstwo - umiejetnosc zaawansowana do ulepszania i napraw nad bronia
 > - bron specjalna mechaniczna - umiejetnosc potrzebna do strzelania normalnie (aktualnie nie wiem jakim cudem wogole moge z niej strzelac) (jestem specjalny)
 >
 > Rzemieslnik
+>
 > - K +5
 > - odp +5
-> - zr +10 
+> - zr +10
 > - int +5
 > - sw +10
 > - Zyw +2
@@ -1253,3 +1307,31 @@ Zdobyte XP: 150
 (aktualnie 2575 + 150 = 2725)
 
 ---
+
+# Sesja 15 - 27.03.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek (nie ma go na sesji)
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+PUNKTY REKAWICY: 9
+
+---
+
+Skaweny rozjebane - nie atakuje naszej grupy. Gadamy, chowam rekawice, i ide do blondyny - Morlin ze mna (bo chce potrzymac... rekawice). I am having a good time 😏. Morlin jest jebanym perwersem - oglada jak sie rucham z cyruliczka (Mere Collete).
+
+Chlopaki zbieraja przed, oknem ogladaja razem, mowie im zeby sobie poszli - zakonczenia byly dwa z blondyna - jestem wykonczony i ide spac z nia obok. Spie do polnocy. Budza mnie dzwieki na dole. To chlopaki, wolaja do karczmy.
+
+Spimy w karczmie - rano leczymy sie. Joseph nie jest w stanie mnie uleczyc, ale Morlin modli sie do Szaliji i leczy mnie na full - jego rece mienia sie bialymi golebicami i z jego rak bije cieple swiatlo. Morlin dostaje blogoslawienstwo Szaliji - staje sie asceta i Szalija przekazuje mu cala wiedze o leczeniu wielorakich ran.
+
+Ogarniamy sobie zarcie, cukierki z krwia oraz potki zycia (dla Naena).
+
+Wyruszamy w kierunku naweidzonego zamku - tam powinnismy znalezc Neana wraz z wampirzyca. Pare godzin na szlaku znajdujemy martw zwierzeta - psa, owce, koze. Zwierzeta nie posiadaja zadnych widocznych ran i ich truchla sa bardzo lekkie. Jednak po glebszej analizie widac male uklucia na szyjach kazdego z nich.
+
+
