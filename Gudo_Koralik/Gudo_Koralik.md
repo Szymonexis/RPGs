@@ -1207,7 +1207,7 @@ Dziwnym trafem sprzet wielkoscia pasuje na moja reke
 
 ![](wygrywak-drugiego-mlota-przedramiennik.png)
 
-### Opis broni:
+## Opis broni:
 
 ### Nieznany przedramiennik strzelecki
 
@@ -1320,7 +1320,7 @@ Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
 
 ---
 
-PUNKTY REKAWICY: 9
+PUNKTY REKAWICY: 11
 
 ---
 
@@ -1332,6 +1332,21 @@ Spimy w karczmie - rano leczymy sie. Joseph nie jest w stanie mnie uleczyc, ale 
 
 Ogarniamy sobie zarcie, cukierki z krwia oraz potki zycia (dla Naena).
 
-Wyruszamy w kierunku naweidzonego zamku - tam powinnismy znalezc Neana wraz z wampirzyca. Pare godzin na szlaku znajdujemy martw zwierzeta - psa, owce, koze. Zwierzeta nie posiadaja zadnych widocznych ran i ich truchla sa bardzo lekkie. Jednak po glebszej analizie widac male uklucia na szyjach kazdego z nich.
+Wyruszamy w kierunku nawiedzonego zamku - tam powinnismy znalezc Neana wraz z wampirzyca. Pare godzin na szlaku znajdujemy martw zwierzeta - psa, owce, koze. Zwierzeta nie posiadaja zadnych widocznych ran i ich truchla sa bardzo lekkie. Jednak po glebszej analizie widac male uklucia na szyjach kazdego z nich.
 
+Zapada noc - ja bawie sie swoja rekawica. 
 
+Sir Alerik De Briesuck - mija nas - jest jednym z Blood Dragonow - wiecznych rycerzy. Pyta Izabele i Colette - to nasza wampirzyce. Sir Alerik mowi nam o sobie - jest wampirem ale wampirem kotry kontroluje swoje rzadze. Jego pramistrz - Aborash - pokonal smoka i wypil jego krew stajac sie odpornym na swiatlo sloneczne.
+
+Czujemy zapach zgnilizny - dalej slyszymy dzwieki napierdalania metal o metal. Przed soba widzimy 4 ghule - wpierdalaja truchla, nie widza nas. Sir Alerik w oddali walczy z jakimis stworami dalej. Musi to byc pierwsza linia obrony.
+
+Walczymy z Ghulami - upierdalam pierwszego - reszta leci na mnie i upierdala mnie w klatke.
+
+W efekcie walki z ghulami trace jeden punkt przeznaczenia - zostalem ubity i musialem go spalic.
+
+---
+
+Zdobyte XP: 160
+(aktualnie 2725 + 160 = 2885)
+
+---
