@@ -1350,3 +1350,21 @@ Zdobyte XP: 160
 (aktualnie 2725 + 160 = 2885)
 
 ---
+
+# Sesja 16 - 21.04.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek (nie ma go na sesji)
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+PUNKTY REKAWICY: 11
+
+---
+
+
