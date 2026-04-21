@@ -1397,3 +1397,5 @@ Zdobyte XP: 100
 (aktualnie 2885 + 100 = 2985)
 
 ---
+
+> Nastepna sesja zbieraj kurwa ksiegi z gabinetu!!!
