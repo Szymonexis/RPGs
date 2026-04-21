@@ -1199,6 +1199,8 @@ Otwieram skrzynie - w srodku przedramiennik pogrubiony z jednej strony. Przedram
 
 ---
 
+> [REKAWICA]
+
 Zdobywam przedramiennik - warty 4000zk
 
 Wyglada jak narzedzie laczace bron palna i magie - wyglada jakby brakowalo w nim jakiegos zrodla zasilania - uchwyt zrodla energii wyglada jakby mial trzymac jakis klejnot. Za lufami znajduja sie magazyny na kule. Przedramiennik nie mia systemu spustowego, lufy wychodza na jego gorze
@@ -1234,7 +1236,7 @@ Broń zajmuje przedramię i dłoń. Tą ręką trudno wykonywać precyzyjne czyn
 
 #### Zespolenie
 
-Przy pierwszym założeniu broń wbija się w skórę i pobiera trochę krwi. Zadaje to 1 Ranę. To samo może zdarzyć się przy niektórych przeładowaniach.
+Przy pierwszym założeniu broń wbija się w skórę i pobiera trochę krwi. Zadaje to 1 Ranę. To samo może zdarzyć się przy niektórych przeładowaniach (w sensie zadac 1 Ranę).
 
 #### Dziwnie poręczna
 
@@ -1242,11 +1244,11 @@ Mimo obcego mechanizmu broń sama „układa się” do strzału. Nie dostajesz 
 
 #### Tryb strzału
 
-Jeden strzał zużywa 1 ładunek.
+Jeden strzał zużywa 1 ładunek. Wykonujesz test US +10.
 
 #### Tryb salwy
 
-Możesz wystrzelić wszystkie 3 ładunki naraz. To wymaga Pełnej Akcji. Wykonujesz test US +20. Przy trafieniu cel główny dostaje trafienie, a za każde pełne 2 SU możesz objąć jeszcze 1 dodatkowy cel w promieniu 4 metrów, maksymalnie 3 cele.
+Możesz wystrzelić wszystkie 3 ładunki naraz. To wymaga Pełnej Akcji. Wykonujesz test US +30. Przy trafieniu cel główny dostaje trafienie, a za każde pełne 2 SU możesz objąć jeszcze 1 dodatkowy cel w promieniu 4 metrów, maksymalnie 3 cele.
 
 #### Niestabilna
 
@@ -1334,9 +1336,9 @@ Ogarniamy sobie zarcie, cukierki z krwia oraz potki zycia (dla Naena).
 
 Wyruszamy w kierunku nawiedzonego zamku - tam powinnismy znalezc Neana wraz z wampirzyca. Pare godzin na szlaku znajdujemy martw zwierzeta - psa, owce, koze. Zwierzeta nie posiadaja zadnych widocznych ran i ich truchla sa bardzo lekkie. Jednak po glebszej analizie widac male uklucia na szyjach kazdego z nich.
 
-Zapada noc - ja bawie sie swoja rekawica. 
+Zapada noc - ja bawie sie swoja rekawica.
 
-Sir Alerik De Briesuck - mija nas - jest jednym z Blood Dragonow - wiecznych rycerzy. Pyta Izabele i Colette - to nasza wampirzyce. Sir Alerik mowi nam o sobie - jest wampirem ale wampirem kotry kontroluje swoje rzadze. Jego pramistrz - Aborash - pokonal smoka i wypil jego krew stajac sie odpornym na swiatlo sloneczne.
+Sir Alerik De Briesuck - mija nas - jest jednym z Blood Dragonow - wiecznych rycerzy. Pyta o Izabele i Colette - to nasza wampirzyce. Sir Alerik mowi nam o sobie - jest wampirem ale wampirem kotry kontroluje swoje rzadze. Jego pramistrz - Aborash - pokonal smoka i wypil jego krew stajac sie odpornym na swiatlo sloneczne.
 
 Czujemy zapach zgnilizny - dalej slyszymy dzwieki napierdalania metal o metal. Przed soba widzimy 4 ghule - wpierdalaja truchla, nie widza nas. Sir Alerik w oddali walczy z jakimis stworami dalej. Musi to byc pierwsza linia obrony.
 
@@ -1367,4 +1369,31 @@ PUNKTY REKAWICY: 11
 
 ---
 
+Widzimy niski mur, a za nim w ciemnosciach, cien posiadlosci. Gdzie niegdzie widac pojedyncze swiatlo w oknach. Znalezlismy suche miejsce, gdzie sie regrupujemy i spedzilismy reszte nocy.
 
+Ja i Morlin idziemy spac - Joseph stoi na warcie a Riorn probuje przetopic srebrne szylingi na groty do strzal - zeby moc zabic wampiry. Udaje mu sie zrobic 3 srebrne groty i 3 srebrne kulki. Dodatkowo udalo mu sie pokryc srebrem miecz Josepha oraz kij Morlina.
+
+Przed brama widac szczatki pociachanego stwora, za brama widac kosciotrupy, wartujace w ta i spowrotem. Idziemy po lewej stronie muru, zeby zobaczyc co tam dalej sie kryje.
+
+Widze kosciotrupa-kucharza, podchodzi do jednego z drzew, zrywa jego galazki, wchodzi do koscianego kojca i idzie w kierunku poludniowych budynkow.
+
+Joseph rzucil kamieniem zeby odwrocic uwage szkieletow - 4 z 6 na dworze ruszaja w kierunku domku - widzimy w nim Sir Alerik'a. Zauwaza nas i pokazuje "cicho". 4 szkielety wchodza do domku gdzie Sir Alerik siedzial. Z polnocy wybiegaja Ghule, wbiegaja do kojca. Wita je kosciotrup-kucharz. Ghule zostaja zamkniete w kojcu.
+
+Idziemy w kierunku polnocnym, tam gdzie widzielismy Alerik'a. Skradamy sie w tym kierunku. W domku widac kosci rozrzucone wszedzie. Alerik siedzi na kupie kosci. Pytamy sie czy ma jakis plan. Mowi ze chce zabic Collette. Obgadujemy plan.
+
+Nagle kosci na ktorych siedzi Alerik zaczynaja sie poruszac i wypelzac spod niego. Probujemy trzymac niektore z kosci. Reszta wylatuje przez polotwarte drzwi. Nagle rycerz wstaje lapie mnie i wysysa ze mnie krew. Padam, jestem blady - wygladam jakbym nie pil i nie jadl od tygodnia. Jestem kompletnie wycienczony.
+
+Postac ubrana kompletnie na czarno wychodzi i odjezdza na koniu. Alerik widzac to wybiega za nia. To na 99 procent Collette. Chlopaki miedzy soba gaworza non-stop. Wkurwiam sie, zakladam rekawice i ze zloscia mowie ze wychodze ratowac Naena. Chlopaki wychodza za mna i Riorn dostaje molotowa i zapalki w lape. Rzuca molotowem w kojce. Jeden z kojcow staje w plomieniach. Reszta Ghuli zaczyna wyc i probuje wydrzec sie ze swoich kojcy do tego co sie pali.
+
+Kucharz wychodzi ze stajni, trzyma w rekach kusze, strzela w kierunku Riorna. Wszyscy biegniemy w kierunku drzwi sluzby. Riorn otwiera je sztyletem. Morlin i ja rozwalamy kosciotrupa-kucharza. Jego kosci odrazu zbieraja sie w kupke i pelzna w kierunku otwartych drzwi sluzby. To samo dzieje sie z innymi koscmi.
+
+Wchodzimy do srodka. Pomieszczenie ktore widzimy jest pelne popsutych skrzyn i starego splesnialego jedzenia. Dalej widzimy sien - jest w niej jasno. Wchodzimy do jadalni - nakryto do stolu, jasno, dwa talerze w skrajnych czesciach stolu. W jednej czesci jadalni widzimy kosciotrupa-kamerdynera - widzac nas klania sie w naszym kierunku ale nic innego nie robi. Z jadalni wchodzimy do oranzerii - w niej stara roslinnosc ale widocznie ktos probowal tutaj naprawic roslinnosc sie w niej znajdujaca. Wnet szkielet wchodzi i zaczyna pielegnowac grzadki. Wchodzimy do salonu, w kominku Riorn znajduje ukryta wajche - rzezby na wschodniej scianie rozchodza sie i ukazuje sie nam przejscie do Gabinetu. W Gabinecie Morlin znajduje ksiege magiczna oraz rekawice (zwinnych palcy?). Z gabinetu idziemy w na poludnie w kierunku pokoju muzycznego. Tam spotykamy kobiete ktora wczesniej widzielismy na dworze.
+
+Riorn zadaje jej serie pytan i ostatnim pytaniem jest "Czy widzialas tutaj chlopca? Wskazesz nam gdzie?".
+
+---
+
+Zdobyte XP: 100
+(aktualnie 2885 + 100 = 2985)
+
+---
