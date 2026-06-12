@@ -1399,3 +1399,98 @@ Zdobyte XP: 100
 ---
 
 > Nastepna sesja zbieraj kurwa ksiegi z gabinetu!!!
+
+---
+
+# Sesja 17 - 12.06.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek 
+Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
+
+---
+
+PUNKTY REKAWICY: 22
+
+---
+
+W rogu pomieszczenia porusza sie kotara. "Morlin?" - to Naen. Wyglada normalnie. Jego zęby wygladaja normalnie. Mowi ze nie przemienila go Colette.
+
+Obudzil sie w zamku nie pamietajac ci sie tutaj stalo. Powiedziala mu ze zginelismy w karczmie - w plomieniach. Starsza Pani grajaca na pianinie - Margot - powiedziala mu jednak ze to wkreta i ze Colette rzucala na niego roznorakie uroki i zaklecia. Znalazl przejscie pod kaplica ale widzac rycerza smokow wrocil sie po Margot i chcial uciekac i wtedy weszlismy my.
+
+Margot mowi ze jest ostatnia dziedziczka posiadlosci na ktorej sie znajdujemy. Dziwne, bo wsioki mowily ze zamek jest od setek lat opuszczony. Czy Colette rzucila urok na cala wies?
+
+Zauwazamy ze Margot jest cala pogryziona na szyi.
+
+Slyszymy walenie do drzwi zamku - to szkielety nakurwiaja non stop. Chcemy zablokowac te drzwi - musimy przejsc przez oranzerie. Szkielet-ogrodnik ktory wczesniej tam byl spokojny chwyta nozyce i szarzuje na nas.
+
+Biegniemy na gore, ogarniamy ekwipunek Naen'a. Widzimy w oknach Colatte. Spierdlamy na dol. Atakuja nas szkielety, omijamy je, biegniemy do ucieczki dalej - Naen prowadzi nas do kaplicy zeby uciec tunelem za mur. Colette wali w strone sciany - nie splatala zaklecia, nic sie nie dzieje.
+
+Naen prowadzi nas przez ruiny kaplicy - jestesmy w srodku. Widzimy Colette jadaca na koniu w naszym kierunku. Spierdalamy dalej Guddo i Margot wchodza do tunelu.
+
+Istern napierdala z luku do Colette - widac ze skupia jakies zaklecie. Joseph i Naen wbiegaja do tunelu.
+
+Colette rzuca urok na Morlina - on wyrywa sie w ostatniej chwili. Morlin i Istern spierdalaja do tunelu i zamykaja za soba klape.
+
+Dobiegamy do korytarza tunelu - podpalamy korytarz - czuje jej oddech an sobie ale mowie sobie "TO ILUZJA" i biegne dalej. W korytarzu nagle slychac jeki i krzyk. Ucieklismy, przynajmniej narazie.
+
+---
+
+Jestesmy posrodku lasu. Zmeczeni, rozjebani ale wzgledenie bezpieczni. Naen rozklada szalas, ja i Istern rozpalamy ognisko. Morlin czyta ksiege o wampirach. Ja czatuje przy Margot i odpoczywam. Istern i Joseph wartuja.
+
+Istern i Joseph slysza jakies dziwne odglosy beczenia. Budza nas wszystkich. Widzimy obok nas zombie - to rodzina Margot.
+
+Zwijamy oboz. Planujemy, czy odejsc od nich i je zostawic w spokoju czy przywiazac do drzewa czy upierdolic im lby i odejsc.
+
+Na wzgorzu daleko, w swietle ksiezyca, widzimy umarle psy Colette. Przed psami nie ma ucieczki - gotujemy sie do walki.
+
+Stojac pod nogami Morlina strzelam w psa alphe - dostal po pizdzie, upadl ale potem jak gdyby nigdy nic wstaje i biegnie dalej.
+
+Istern strzela w alphe, przebija ja w chuj ale pojebany pies nadal dycha. Naen wykonuje strzal dwiema strzalami i trafia w slepia bestii i alpha pada martwa. Strzala w mozgu plus dwie strzaly w oczach powalily pojebanego wilka.
+
+Strzelam w jednego z wilkow salwa - ostatni strzal rozstrzaskuje jego czaszke w mokra papke.
+
+Isterna trafia ostatni wilk i zaczyna go rozszarpywac. Naen widzac to podpbiega do bestii i wbija jej sztylet wielokrotnie dzgajac go w szyje poki resztki zycie nie uciekna z jego slepi. Morlin leczy Isterna.
+
+Zombiaki lecza wilki i jeden ulecza wilka ale upierdalamy i zombie i uleczonego wilka. Palimy wszystkie ciala.
+
+Odbywa sie modlitwa do Pani Jeziora na rzecz umarlej rodziny Margot ktora ona prowadzi.
+
+Bardzo daleko widzimy czarna postac, na wzgorzu, obok sciezki ktora prowadzi spowrotem do posiadlosci Margot. Potem znika w oddali.
+
+---
+
+Idziemy dalej wsrod lasow. Mimo niskich zapasow to dajemy rade. Las stal sie naszym drugim domem - tyle czasu spedzilismy w lasach w trakcie naszej przygody, ze czujemy sie jak w domu. Potrafimy znalezc wode, jedzenie, schronienie.
+
+Mijaja dwa dni. 15 naboi w rekawicy. 
+
+Mijamy stara granice - na slupkach granicznych widnieja wyblakle herby. Troche pozniej trafiamy na opuszczone obozowisko lesnikow. W obozowizku worki a w workach konskie wlosie.
+
+Wnet widzimy chlopa ktory ciagnie za soba drewniana kukle konskiej czaszki. Kiedy nas zobaczyl, zastygl, klania sie i mowi "Panowie rycerze mowili zeby nie patrzec w strone pola dopoki kruki nie skoncza" i odchodzi. No kurwa mac! xd
+
+Szukamy polany, widzimy kruki ktore na czyms rzeczywiscie zeruja. Wychodzi na to ze rycerze zajebali chlopow za jakies przestepstwo. Nie probkujemy dalej tej sytuacji - idziemy dalej.
+
+Mija nastepny dzien. Joseph z Morlinem czytali ksiege przez ostatnie pare dni i z niej dowiadujemy sie ze wampiry z ktorymi mamy doczynienia to Lamie. Sa slabymi fizycznie wampirami ale palaja sie mocami psionicznymi. Lamie nie sa w stanie przejsc przez plynaca wode oraz panicznie boja sie slonca. Wpiska na marginesie rowniez mowi o specjalnym helmie z antena ktory chorni przed atakami psionicznymi Lamii.
+
+Morlin w trakcie czytania poczul groze. Rozglada sie i widzi pare czerwonych oczu. oddaje 3 strzaly z rekawicy - 12 naboi w rekawicy.
+
+Colette leci w moja strone. Naen strzela w nia zapalona strzala ale ona natychmiast ja gasi. Nagle pojawia sie obok mnie i czaruje mnie. Staje sie wiotki i odlatuje w czelusci swojego umyslu.
+
+Joseph ja atakuje ale ta unika jego ataku bez zadnego wysilku. Istern trafia ja srebrna strzala - widac ze sie wkuriwla. Krzyczy do mnie "ZABIJ GO!". Ja celuje w Isterna, wtem podbiega do mnie Morlin i chwyta mnie za rece. Wtedy Naen podbiega do mnie i zrywa ze mnie rekawice - trafie jeden punkt hp. Naen ja zaklada.
+
+Naen i Colette znikaja nagle - probuje w nia strzelic - rekawic asie zacina - wyciaga sztylet i napierdala ja przepoteznie. Potem Joseph szarzuje na Colette, trafia ja w leb i ona pada jak kloda. Potem obcina jej leb.
+
+Ja przestaje byc w jej kontroli. Podbiegam do Naena - "ODDAJ REKAWICE!". Wyrywam mu rekawice i zakladam ja spowrotem. Naen i ja wymieniamy sie fakersami - jemu leje sie sieka z lapy.
+
+Cialo Colette zostaje spalone w "swietym ogniu". Odjezdzamy w kierunku Couronne - nie wiemy o tym ale jej stopa delikatnie rusza sie w zgliszczach.
+
+---
+
+Zdobyte XP: 175
+(aktualnie 2985 + 175 = 3160)
+
+---
