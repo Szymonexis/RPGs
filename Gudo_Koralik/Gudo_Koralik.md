@@ -1199,7 +1199,7 @@ Otwieram skrzynie - w srodku przedramiennik pogrubiony z jednej strony. Przedram
 
 ---
 
-> [REKAWICA]
+## REKAWICA
 
 Zdobywam przedramiennik - warty 4000zk
 
@@ -1209,9 +1209,9 @@ Dziwnym trafem sprzet wielkoscia pasuje na moja reke
 
 ![](wygrywak-drugiego-mlota-przedramiennik.png)
 
-## Opis broni:
+### Opis broni:
 
-### Nieznany przedramiennik strzelecki
+#### Nieznany przedramiennik strzelecki
 
 To ciężka, stara broń zakładana na przedramię. Jest pordzewiała, miejscami nadżarta czasem, ale mimo tego wciąż sprawna. Ma trzy krótkie lufy, system pasków, ruchomych zapadek i ciemne okienko w korpusie, pod którym czasem pojawia się słaby czerwony blask.
 
@@ -1219,7 +1219,7 @@ Po założeniu broń sama dopasowuje się do ręki. Paski zaciskają się mocnie
 
 Nie przypomina zwykłego pistoletu. Bardziej wygląda jak małe działko przedramienne albo stara rusznica wbudowana w ciężką rękawicę.
 
-### Profil
+#### Profil
 
 - Grupa: Egzotyczna broń prochowa
 - Obrażenia: 4
@@ -1228,33 +1228,33 @@ Nie przypomina zwykłego pistoletu. Bardziej wygląda jak małe działko przedra
 - Amunicja: 18
 - Ciężar: 45
 
-### Zasady specjalne
+#### Zasady specjalne
 
-#### Przedramienna
+##### Przedramienna
 
 Broń zajmuje przedramię i dłoń. Tą ręką trudno wykonywać precyzyjne czynności.
 
-#### Zespolenie
+##### Zespolenie
 
 Przy pierwszym założeniu broń wbija się w skórę i pobiera trochę krwi. Zadaje to 1 Ranę. To samo może zdarzyć się przy niektórych przeładowaniach (w sensie zadac 1 Ranę).
 
-#### Dziwnie poręczna
+##### Dziwnie poręczna
 
 Mimo obcego mechanizmu broń sama „układa się” do strzału. Nie dostajesz kary za brak znajomości tej broni.
 
-#### Tryb strzału
+##### Tryb strzału
 
 Jeden strzał zużywa 1 ładunek. Wykonujesz test US +10.
 
-#### Tryb salwy
+##### Tryb salwy
 
 Możesz wystrzelić wszystkie 3 ładunki naraz. To wymaga Pełnej Akcji. Wykonujesz test US +30. Przy trafieniu cel główny dostaje trafienie, a za każde pełne 2 SU możesz objąć jeszcze 1 dodatkowy cel w promieniu 4 metrów, maksymalnie 3 cele.
 
-#### Niestabilna
+##### Niestabilna
 
 Przy wyniku 96–00 broń zacina się i rani użytkownika za 1 Ranę.
 
-### Co Gudo zauważa
+#### Co Gudo zauważa
 
 - broń dziwnie dobrze leży na ręce
 - czasem sama jakby koryguje ustawienie dłoni
@@ -1408,7 +1408,7 @@ Zdobyte XP: 100
 
 Gudo (falszywe: Szafran) - Ja
 Joseph (falszywe: Madred) - Krysu
-Thet'An'Naen (falszywe: Loren) - Janek 
+Thet'An'Naen (falszywe: Loren) - Janek
 Istern'Riorn (Riorn) (falszywe: Tor'Ri'Eot - Torri) - Maciek
 Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer - Willy) - Kuba
 
@@ -1466,7 +1466,7 @@ Bardzo daleko widzimy czarna postac, na wzgorzu, obok sciezki ktora prowadzi spo
 
 Idziemy dalej wsrod lasow. Mimo niskich zapasow to dajemy rade. Las stal sie naszym drugim domem - tyle czasu spedzilismy w lasach w trakcie naszej przygody, ze czujemy sie jak w domu. Potrafimy znalezc wode, jedzenie, schronienie.
 
-Mijaja dwa dni. 15 naboi w rekawicy. 
+Mijaja dwa dni. 15 naboi w rekawicy.
 
 Mijamy stara granice - na slupkach granicznych widnieja wyblakle herby. Troche pozniej trafiamy na opuszczone obozowisko lesnikow. W obozowizku worki a w workach konskie wlosie.
 
@@ -1494,3 +1494,100 @@ Zdobyte XP: 175
 (aktualnie 2985 + 175 = 3160)
 
 ---
+
+# Sesja 18 - 26.06.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Istern lub Riorn) (falszywe: Tor'Ri'Eot (Torri)) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer (Willy)) - Kuba
+
+---
+
+PUNKTY REKAWICY: 22
+
+---
+
+Dotarlismy do Couronne. Niedawne przygody pozostaja za nami (przynajmniej narazie). Jednakze Naen nie jest taki sam - przyzwyczail sie do mysli ze nie zyjemy w trakcie jak byl trzymany przez Colette.
+
+Rekawice zdjalem ale z trudem - czuje sie jakbym byl nagi ale udaje mi sie ja zdjac.
+
+Po dlugiej wedrowce przez gory trafiamy do Couronne - widac swiatynie, mury miasta, wierze zamkow. Wszystko wydaje sie czyste i basniowe - jakby z legend. 
+
+Idziemy dalej wzdluz muru - czujemy coraz mocniejszy smrod stechlizny i zuzytych bandarzy. Docieramy do swiatynia Szaliji - zaraz obok niego znajduje sie obozowisko pielgrzymow.
+
+Idziemy dalej, przechodzimy przez bramy do miasta bez wiekszego problemu. Trafiamy do Dolnego Miasta - ubogiej dzielnicy Couronne.
+
+Wychodzimy z miasta i idziemy w kierunku Swiatyni Szaliji. Pod brama miasta slyszymy rozmowy w jezyku staroswiatowym - kaplanki i straznicy dziela chorych na grupy. Widac wielu szemranych ludzi i innych ras ktore sie tutaj mieszaja. Pilnujemy swojego ekwipunku przed lotrzykami.
+
+Naen trafia ofiara mlodego zlodzieja. Lapie go w ostatniej chwili i odzyskuje swoja sakiewke. Mlody zlodziej odbiega bez lupu. Rycerz do niego podchodzi, rozmawia krotko i ucina mu reke.
+
+W Obozowisku Pielgrzymow czeka nas wiecej scammerow i sprzedawcow olejii z weza. Nie zwracamy zbytnio na nich uwagi. 
+
+Widzimy woz pelny chorych ludzi. Ludzie pchaja sie na ten woz i przez cale to zamieszanie jednej kobiecie z wozu wypada dziecko zaraz pod kola. Naen i Riorn rzucaja sie zeby uratowac dzieciaka ale im sie nie udaje. Morlin krzyczy na woz, a Joseph zato na spokojnie podchodzi, lapie dzieciaka za noge i go wyciaga spod kola. Kobieta dziekuje Josephowi i na wiesc ze jestesmy z Imperium zarumienia sie. Idziemy za wozem w glab swiatyni.
+
+Stoimy w kolejce do swiatyni (w srodku swiatyni). Zastanawiamy sie jak zwrocic na siebie uwage ale w tym momencie jakas laska przed nami zaczyna rodzic. Morlin proboje jej pomoc. Dzieciak jest w zlym ulozeniu. Morlin i Joseph jako nasi medycy sporbuja jej pomoc i Morlin modli sie do szaliji aby dziecko sie urodzilo zdrowe i nie umarlo.
+
+W tym czasie Naen wybiega przed swiatynie aby szukac kaplanki. Rozpycha sie w tlumie i macha rekami w kierunku kaplanki. Bawi sie w migi ale okazuje sie ze laska mowi po imperialnemu (xd). Kaplanka dobiega do nas i zajmuje sie sytuacja.
+
+Kaplanka zajmuje sie porodem a Morlin modli sie z rodzaca kobieta - ona po bretonsku a on po imperialnemu.
+
+Porod sie udaje - kaplanka - Mirella - prosi nas abysmy wzieli kobiete na koc i przeniesli ja na dziedziniec. Mirella sama bierze dziecko w rece i idziemy na dziedziniec.
+
+Na dziedzincu jest czysto ale nie jest to spokojne miejsce. Pelno noszy, kadzi z goraca woda. Pod arkadami siedza niezliczone siostry zapisujace informacje o pacjentach. Na srodku dziedzinca sa duze biale drzwi przez ktore przechodzimy z kobieta i Mirella. Tam pelno ludzi chorych, krwii, zapachu ropy i stechlizny. Mirella pokazuje nam miejsce gdzie mamy polozyc kobiete.
+
+W momencie kiedy juz mamy odejsc kobieta lapie Morlina za reke i mowi po imperialnemu "Dziekuje".
+
+Po calej akcji odchodzimy w relatywnie ciche miejsce i Mirella zaczyna sie myc. Morlin pokazuje jej swoj znak golebicy na rece i pokazuje jej pieczec Szaliji w ktorej brakuje dwoch czesci.
+
+Morlin mowi Mirelli o historii pieczeci, o naszych przygodach i o zamiarze zlozenia tej pieczeci. Kaplanka pyta sie Morlina czy dotykal pieczeci po uzyskaniu dotyku Szaliji. Mowi ze nie. Dotyka pieczeci. Dla nas trwa to doslownie ulamek sekundy. Dla niego wiecznosc.
+
+Morlin czuje cieplo, szanse nawrocenia, dobro, zlo, czuje sie jakby robil dobrze i same dobre emocje przeplywaja przez niego. Jakas obecnosc pokazuje mu elfa ktory siedzi przy ognisku, z bardzo podartymi ubraniami i cos je. Nastepnie widzi bardzo duze wysokie drzewa ktorych nigdy wczesniej nie widzial, ale sa bardzo charakterystyczne. Widzi stworzenia ktorych nigdy wczesniej nie widzial ale jednak wydaja sie znajome. Caly las w tej wizji wydaje sie byc zadbany przez kogos i wydaje sie posiadac niewytlumaczalna symetrie. Nastepnie widzi ciezarek chorongwii procesyjnej i czuje ze tam jest czesc pieczeci - widzi tez karkas w ktorym tez znajduje sie czesc pieczeci. Ostatnia wizja to wizja pieczeci wpasowanej w pas relikwiarzowy. Widzi Aldorf i nieznane miasto z jakims kompleksem swiatynnym Szaliji. Morlin opowiada nam o jego wizjach.
+
+Mirella mowi ze swiatynia w nieznanym miescie to moglo byc Talabajm albo jakas miejscowosc w Hohlandzie albo Elengradzie. Mowi nam ze musimy pokazac ze mamy serce aby zdobyc dostep do relikwiarza - tam mozliwe ze znajdziemy nastepna czesc pieczeci.
+
+Wracamy sie do Dolnego Miasta. Widzimy jak ludzie ida w kierunku polnocnej czesci miasta. Idziemy za nimi. Slyszymy krzyki, oklaski i w pewnym momencie widzimy "Lion Ring" - tysiace ludzi siedza wokol toru wyscigowego dla koni. Przed wejsciem na ring stoi typ ktory zbiera kase za wejscie. Idziemy za bogatszymi ludzmi w kieunku wejscia do ringu. Placimy 10 szylingow za wejscie.
+
+Na ringu widze bukmachera, podchodze. Dostepne jest 8 koni - biegna 3 okrazenia - jedno okrazenie ~1000m:
+- lwia grzywa (wyglada zajebiscie, ciezki na zakretach, jakis sir Alber La Raumont) 2:1
+- biala dama (wyglada turbo zajebiscie, klacz biala jak snieg, cicha reka ja prowadzi, zawodowa amazonka) 2.5:1
+- czarna lilja (klacz bez polysku, spokojna, brak reakcji na wrzask tlumu, jedzie na niej niski i brzydki Du'Pont) 4:1
+- grzmot (potezny siwy bojowy, z blina na piersi, kon rycerski niz wyscigowy) 6:1
+- zlota igla (mala, nerwowa, wyglada niepozornie, podobno startuje jak strzalac, jedzie syn stajennego) 8:1
+- miedziany dzwon (ciemnorudy, z plama na pysku, raz biegnie jak demon a raz sie zatrzymuje, jedzie Bastien Cock, pijack) 10:1
+- slony wiatr (nie lubi tlumu, sploszony) 12:1
+- swiety pyl (stary pielgrzymi, jest wolny ale wytrzymaly, jedzie stary Martin, kon podobno jest blogoslawiony przez sama Szalije) 20:1
+
+Stawiamy:
+Gudo - 4 zk (przez siebie i chlopakow) na biala dame
+Joseph - 2 zk na zlota igle, 5 zk na swiety pyl
+Morlin - nic
+Naen - 1 zk na swiety pyl, 2 zk na zlota igle
+Istern - nic
+
+Kurwa czarna lilja wygrala - kasa stracona i chuj ☹️.
+
+Joseph i Istern rozgladaja sie czy nie polecial walek albo czy ktos sie nie cieszy nadmiernie ale nic nie osiagaja.
+
+Dowiadujemy sie ze dobry nocleg jest w Miescie Srednim. Przechodzimy obok karczmy "Pod pelnym Uprzezeniem". Wyglada spoko wiec wchodzimy jak do siebie. Sciany obwieszone starymi siodlami, peknietymi podkowami i pogietymi proporcami rycerzy. Ludzi jest troche ale nie jest nadmiernie tloczno. Z zaplecza wybiega chlopak i oskarza go zarzadca stajni o podwedzenie srebrnego wedzidla. Z zaplecza wychodzi kucharka, niesie wedzidlo i mowi ze zostalo znalezione na dnie kotla. Zarzadca nie przeprasza i odchodzi.
+
+Kupujemy nocleg w osobnych pokojach oraz zarcie dobrej jakosci. Siadamy i wpierdalamy. W zupie plywaja jakies krazki, gladkie miekkie, niby troche smaczne ale dziwne w teksturze. Chlopaki jedza a ja podchodze do karczmarza i pytam sie "Co to jest, do chuja?". Karczmarz odpowiada "No jak to co! Boullbaisse". To roslina, przerobiona, ziarenka i chuj, nic wiecej nie tlumaczy bo jestem debilem. Zrezygnowany siadam i jem dalej z chlopakami. Po chwili mi sie przypomina co to jest - to wytwor roslinny, takie niby tofu.
+
+Po zjedzeniu idziemy szukac Margot. Pytamy sie straznikow czy widzieli ja - opisujemy jak wygladala. Mowia ze szla w kierunku Dolnego Miasta. Wchodze do karczmy "Mokra Podkowa". Typ bez reki mowi ze widzial Margot i czeka za karczma, ja spierdalam bo nie ma reki wiec znaczy ze jest lub byl zlodziejem. Wchodzimy spowrotem do srodka i zlodziejaszek spierdala. Ja ide do karczmarza i pytam sie o Margot. Morlin w trakcie widzi jak jakis typo napada mnie i opierdala mnie ze zlota. Morlin idzie w kierunku tego zlodzieja i tez daje znac wszystkim zeby uwazali na swoje rzeczy.
+
+Ja i Morlin podchodzimy do zlodziejaszka tymczasem Istern modli sie pod nosem do boga zlodzei - Ranalda - i nagle czuje bardzo duzy naplyw wiedzy do siebie. W pewnym momencie zaczal znac wszystkich ludzi ktorzy wierza w Ranalda i na jego szyi pojawil sie znak X. To znak Ranalda. 
+
+---
+
+## Co uzyskal Istern'Riorn (Istern lub Riorn) (falszywe: Tor'Ri'Eot (Torri)) - Maciek dzieki wyrzuceniu 1 na modlitwe do Ranalda?
+
+Posiada powszechna wiedze dotyczaca Ranaldczykow - wie gdzie sa i jak sie nazywaja. Staje sie czescia botnetu Ranalda. Dostaje naturalna mozliwosc przejscia na akolite Ranalda i jezeli pozniej bedzie kaplanem to pozniej przy splataniu magii Ranalda bedzie mial plusy (+10 do splatania magii przy dzeidzienie Ranadla, +10 do kontaktu z Ranaldianami). 
+
+---
+
+Nagle widzimy jak Istern tweekuje i zlodzieje nagle do niego podchodza robia mu znak X na klatce (rekoma go wyznaczaja) i oddaja mu moja sakiewke. Jeden ze zlodzieji pokazuje mu lzy po policzkach (na migi) i prowadzi go do Margot. Wychodzimy z karczmy bez burdy i ze znaleziona Margot 😄.
+
+Mija pare dni - bylismy pare razy w swiatyni i okazuje sie ze "pokazanie serca" nie bedzie takie latwe. Bedziemy musieli sie meczyc przez miesiace jak i nie nawet caly rok moze nawet daw.
