@@ -1591,3 +1591,15 @@ Posiada powszechna wiedze dotyczaca Ranaldczykow - wie gdzie sa i jak sie nazywa
 Nagle widzimy jak Istern tweekuje i zlodzieje nagle do niego podchodza robia mu znak X na klatce (rekoma go wyznaczaja) i oddaja mu moja sakiewke. Jeden ze zlodzieji pokazuje mu lzy po policzkach (na migi) i prowadzi go do Margot. Wychodzimy z karczmy bez burdy i ze znaleziona Margot 😄.
 
 Mija pare dni - bylismy pare razy w swiatyni i okazuje sie ze "pokazanie serca" nie bedzie takie latwe. Bedziemy musieli sie meczyc przez miesiace jak i nie nawet caly rok moze nawet daw.
+
+---
+
+Przed nastepna sesja napisac jak przez rok pokazujemy ze mamy dobre serce
+
+---
+
+Zdobyte XP: 230 + 100
+Wolne XP: 260 + 230 + 100 = 590
+Lacznie XP: 3160 + 230 + 100 = 3490
+
+---
