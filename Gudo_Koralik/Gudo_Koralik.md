@@ -1596,6 +1596,8 @@ Mija pare dni - bylismy pare razy w swiatyni i okazuje sie ze "pokazanie serca" 
 
 Przed nastepna sesja napisac jak przez rok pokazujemy ze mamy dobre serce
 
+-> [Opis roku w Couronne](Rok_w_Couronne.md)
+
 ---
 
 Zdobyte XP: 230 + 100
