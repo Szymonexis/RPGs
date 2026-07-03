@@ -1515,7 +1515,7 @@ Dotarlismy do Couronne. Niedawne przygody pozostaja za nami (przynajmniej narazi
 
 Rekawice zdjalem ale z trudem - czuje sie jakbym byl nagi ale udaje mi sie ja zdjac.
 
-Po dlugiej wedrowce przez gory trafiamy do Couronne - widac swiatynie, mury miasta, wierze zamkow. Wszystko wydaje sie czyste i basniowe - jakby z legend. 
+Po dlugiej wedrowce przez gory trafiamy do Couronne - widac swiatynie, mury miasta, wierze zamkow. Wszystko wydaje sie czyste i basniowe - jakby z legend.
 
 Idziemy dalej wzdluz muru - czujemy coraz mocniejszy smrod stechlizny i zuzytych bandarzy. Docieramy do swiatynia Szaliji - zaraz obok niego znajduje sie obozowisko pielgrzymow.
 
@@ -1525,7 +1525,7 @@ Wychodzimy z miasta i idziemy w kierunku Swiatyni Szaliji. Pod brama miasta slys
 
 Naen trafia ofiara mlodego zlodzieja. Lapie go w ostatniej chwili i odzyskuje swoja sakiewke. Mlody zlodziej odbiega bez lupu. Rycerz do niego podchodzi, rozmawia krotko i ucina mu reke.
 
-W Obozowisku Pielgrzymow czeka nas wiecej scammerow i sprzedawcow olejii z weza. Nie zwracamy zbytnio na nich uwagi. 
+W Obozowisku Pielgrzymow czeka nas wiecej scammerow i sprzedawcow olejii z weza. Nie zwracamy zbytnio na nich uwagi.
 
 Widzimy woz pelny chorych ludzi. Ludzie pchaja sie na ten woz i przez cale to zamieszanie jednej kobiecie z wozu wypada dziecko zaraz pod kola. Naen i Riorn rzucaja sie zeby uratowac dzieciaka ale im sie nie udaje. Morlin krzyczy na woz, a Joseph zato na spokojnie podchodzi, lapie dzieciaka za noge i go wyciaga spod kola. Kobieta dziekuje Josephowi i na wiesc ze jestesmy z Imperium zarumienia sie. Idziemy za wozem w glab swiatyni.
 
@@ -1552,6 +1552,7 @@ Mirella mowi ze swiatynia w nieznanym miescie to moglo byc Talabajm albo jakas m
 Wracamy sie do Dolnego Miasta. Widzimy jak ludzie ida w kierunku polnocnej czesci miasta. Idziemy za nimi. Slyszymy krzyki, oklaski i w pewnym momencie widzimy "Lion Ring" - tysiace ludzi siedza wokol toru wyscigowego dla koni. Przed wejsciem na ring stoi typ ktory zbiera kase za wejscie. Idziemy za bogatszymi ludzmi w kieunku wejscia do ringu. Placimy 10 szylingow za wejscie.
 
 Na ringu widze bukmachera, podchodze. Dostepne jest 8 koni - biegna 3 okrazenia - jedno okrazenie ~1000m:
+
 - lwia grzywa (wyglada zajebiscie, ciezki na zakretach, jakis sir Alber La Raumont) 2:1
 - biala dama (wyglada turbo zajebiscie, klacz biala jak snieg, cicha reka ja prowadzi, zawodowa amazonka) 2.5:1
 - czarna lilja (klacz bez polysku, spokojna, brak reakcji na wrzask tlumu, jedzie na niej niski i brzydki Du'Pont) 4:1
@@ -1578,13 +1579,13 @@ Kupujemy nocleg w osobnych pokojach oraz zarcie dobrej jakosci. Siadamy i wpierd
 
 Po zjedzeniu idziemy szukac Margot. Pytamy sie straznikow czy widzieli ja - opisujemy jak wygladala. Mowia ze szla w kierunku Dolnego Miasta. Wchodze do karczmy "Mokra Podkowa". Typ bez reki mowi ze widzial Margot i czeka za karczma, ja spierdalam bo nie ma reki wiec znaczy ze jest lub byl zlodziejem. Wchodzimy spowrotem do srodka i zlodziejaszek spierdala. Ja ide do karczmarza i pytam sie o Margot. Morlin w trakcie widzi jak jakis typo napada mnie i opierdala mnie ze zlota. Morlin idzie w kierunku tego zlodzieja i tez daje znac wszystkim zeby uwazali na swoje rzeczy.
 
-Ja i Morlin podchodzimy do zlodziejaszka tymczasem Istern modli sie pod nosem do boga zlodzei - Ranalda - i nagle czuje bardzo duzy naplyw wiedzy do siebie. W pewnym momencie zaczal znac wszystkich ludzi ktorzy wierza w Ranalda i na jego szyi pojawil sie znak X. To znak Ranalda. 
+Ja i Morlin podchodzimy do zlodziejaszka tymczasem Istern modli sie pod nosem do boga zlodzei - Ranalda - i nagle czuje bardzo duzy naplyw wiedzy do siebie. W pewnym momencie zaczal znac wszystkich ludzi ktorzy wierza w Ranalda i na jego szyi pojawil sie znak X. To znak Ranalda.
 
 ---
 
 ## Co uzyskal Istern'Riorn (Istern lub Riorn) (falszywe: Tor'Ri'Eot (Torri)) - Maciek dzieki wyrzuceniu 1 na modlitwe do Ranalda?
 
-Posiada powszechna wiedze dotyczaca Ranaldczykow - wie gdzie sa i jak sie nazywaja. Staje sie czescia botnetu Ranalda. Dostaje naturalna mozliwosc przejscia na akolite Ranalda i jezeli pozniej bedzie kaplanem to pozniej przy splataniu magii Ranalda bedzie mial plusy (+10 do splatania magii przy dzeidzienie Ranadla, +10 do kontaktu z Ranaldianami). 
+Posiada powszechna wiedze dotyczaca Ranaldczykow - wie gdzie sa i jak sie nazywaja. Staje sie czescia botnetu Ranalda. Dostaje naturalna mozliwosc przejscia na akolite Ranalda i jezeli pozniej bedzie kaplanem to pozniej przy splataniu magii Ranalda bedzie mial plusy (+10 do splatania magii przy dzeidzienie Ranadla, +10 do kontaktu z Ranaldianami).
 
 ---
 
@@ -1601,7 +1602,153 @@ Przed nastepna sesja napisac jak przez rok pokazujemy ze mamy dobre serce
 ---
 
 Zdobyte XP: 230 + 100
-Wolne XP: 260 + 230 + 100 = 590
+Wolne XP: 260 + 230 + 100 - 100 (wydane na rozwoj) = 490
 Lacznie XP: 3160 + 230 + 100 = 3490
+
+---
+
+# Sesja 19 - 03.07.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Istern lub Riorn) (falszywe: Tor'Ri'Eot (Torri)) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer (Willy)) - Kuba
+
+---
+
+PUNKTY REKAWICY: 25
+
+---
+
+Wyglad Gudo od momentu jak zaczelismy przygody:
+
+![](Gudo_Koralik_po_3_miesiacach.png)
+
+Co sie stalo przez rok:
+
+- Joseph:
+  - wystepuje w miescie, jest artysta, zarabia troche
+  - poznal idealnie domy szlachcicow, i moze sie po nich poruszac
+  - rozumie jezyk Bretonyjski na poziomie uzytkowym
+- Morlin:
+  - sluzba szaliji - zostaje uznany za swieckiego pomocnika, brata w swiatyni, widac w nim prawdziwe powolanie
+  - mimo tego ze szalija przelewala na niego wiedze to nie udalo mu sie nauczyc profesjonalnego leczenia
+  - czyta ksiege o wampirach - dowiaduje sie wiele o wampirach
+- Gudo:
+  - studiowanie rekawicy - nauczylem sie kontrolowac objawy noszenia rekawicy, jezeli czuje ze rekawica robi sie glodna (np probowala zabic ludzi dookola) to teraz moge nad tym panowac
+  - krasnoludzki rusznikarz - dostalem namiar na rusznikarza Borin Krotka Iskra, warsztat w bocznej uliczce w dzielnicy rzemieslniczej, nie jest tani ale jest uczciwy i nie nawidzi partaczy
+  - pomoc w swiatyni - Gudo ma zaufanie kuchni i siostr, moge poruszac sie po wiekszej czesci swiatyni, Mirella i Lucie traktuja mnie jak swojego malego poslanca
+- Istern:
+  - kaplan Ranalda - Istern nie zostaje jeszcze pelnym kaplanem ale zostaje dopuszcozny do inicjalizacji, Ranald daje mu drobny znak, kocia monete w postaci naszyjnika
+  - ukrywanie sie wsrod farmerow - ukrywa sie wsrod farmerow i dzieki temu jest w stanie dzialac jako zlodziej/kaplan Ranalda i zyc spokojnie w Couronne
+  - aksamitne maski - znajduje znak lub nazwisko zwiazane ze sprawa jego rodzicow, ktos z gildii, jakis Ranaldczyk, powiedzial ze "...jego rodzice nie uciekli, tylko plan zakladal ze zostana zabrani..."
+- Naen:
+  - nauczyl sie jezyka i kultury Bretonii
+  - powiadal piesni i opowiesci, zdobywal informacje o zlych ludziach w miescie i w nocy wymierzal na nich sprawiedliwosc - zdobyl symbol opadajacego liscia
+  - archiwa - znajduje symbol zwiazany ze starym elfickim rodem, prywatny spis elfich wygnancow, wzmianka nt. Alfmira
+
+Cala druzyna:
+
+- matka Morianna uslyszala o nas, pomagalismy w Bialej Goraczce
+- ranny rycerz w swiatyni - trafil do nas rycerz (a przynajmniej wojak w zbroi) ktory zabil setki ludzi - wyleczylismy go i opuscil Couronne
+- skradzione bandaze - dowiedzielismy sie ze czesc bandazy ze szla na czarny rynek a czesc na potrzebujacych
+
+---
+
+## REKAWICA - AKTUALIZACJA
+
+Zdobywam przedramiennik - warty 4000zk
+
+Wyglada jak narzedzie laczace bron palna i magie - wyglada jakby brakowalo w nim jakiegos zrodla zasilania - uchwyt zrodla energii wyglada jakby mial trzymac jakis klejnot. Za lufami znajduja sie magazyny na kule. Przedramiennik nie mia systemu spustowego, lufy wychodza na jego gorze
+
+Dziwnym trafem sprzet wielkoscia pasuje na moja reke
+
+![](wygrywak-drugiego-mlota-przedramiennik.png)
+
+### Opis broni:
+
+#### Nieznany przedramiennik strzelecki
+
+To ciężka, stara broń zakładana na przedramię. Jest pordzewiała, miejscami nadżarta czasem, ale mimo tego wciąż sprawna. Ma trzy krótkie lufy, system pasków, ruchomych zapadek i ciemne okienko w korpusie, pod którym czasem pojawia się słaby czerwony blask.
+
+Po założeniu broń sama dopasowuje się do ręki. Paski zaciskają się mocniej, niż powinny, a mechanizm układa dłoń i nadgarstek tak, jakby wiedział, gdzie mają leżeć. Nie wygląda na wygodną, ale po chwili zaczyna sprawiać wrażenie dziwnie naturalnej.
+
+Nie przypomina zwykłego pistoletu. Bardziej wygląda jak małe działko przedramienne albo stara rusznica wbudowana w ciężką rękawicę.
+
+#### Profil
+
+- Grupa: Egzotyczna broń prochowa
+- Obrażenia: 4
+- Zasięg: 16/32
+- Przeładowanie: Pełna Akcja
+- Amunicja: 18
+- Ciężar: 45
+
+#### Zasady specjalne
+
+##### Przedramienna
+
+Broń zajmuje przedramię i dłoń. Tą ręką trudno wykonywać precyzyjne czynności.
+
+##### Zespolenie
+
+Przy pierwszym założeniu broń wbija się w skórę i pobiera trochę krwi. Zadaje to 1 Ranę. To samo może zdarzyć się przy niektórych przeładowaniach (w sensie zadac 1 Ranę).
+
+##### Dziwnie poręczna
+
+Mimo obcego mechanizmu broń sama „układa się” do strzału. Nie dostajesz kary za brak znajomości tej broni.
+
+##### Tryb strzału
+
+Jeden strzał zużywa 1 ładunek. Wykonujesz test US +20. (wczesniej bylo +10 - awans po przebiciu 24 punktow rekawicy).
+
+##### Tryb salwy
+
+Możesz wystrzelić wszystkie 3 ładunki naraz. To wymaga Pełnej Akcji. Wykonujesz test US +30. Przy trafieniu cel główny dostaje trafienie, a za każde pełne 2 SU możesz objąć jeszcze 1 dodatkowy cel w promieniu 4 metrów, maksymalnie 3 cele.
+
+##### Niestabilna
+
+Przy wyniku 96–00 broń zacina się i rani użytkownika za 1 Ranę.
+
+---
+
+Dzisiaj jest dzien namaszczenia matek. Rumor i ruch w swiatyni. Nad wsyzstkimi wisi cisza oczekiwania i nagle 3 uderzenia w dzwon.
+
+Jestem w kuchni - krzycza na mnie - jakis chlopczyk na mnie krzyczy. Wtem dzwon dzwoni 3 razy i wszytko cichnie.
+
+Zbieramy sie wszyscy na dziedzincu swiatyni Szaliji. Jest kompletna cisza, nawet umierajacy sa cicho. Siostry chodza cicho ale szybko. Mirella zatrzymuje sie przy nas i mowi "ZA MNA!". Gauntier idzie obok niej - klucznik - mowi ze nie mamy prawa isc z nimi ale wchodzimy do razem do domu matek.
+
+Idziemy przez korytarze i odchodzimy do izby w ktorej przez caly rok nie mielismy dostepu - to pralnia, ale wszystko jest dziwnie swiete. Widzimy na kamiennje posadzce kobiete stara chuda, ktos przykryl ja przescieradlem. Na przescieradle lezy czarne pioro. Na piorze widnieje ksztalt liscia. Typiara jest dead.
+
+Zanim Joseph jeszcze obejrzal kobiete, Mirella mowi ze to siostra Jehanna. Nie byla nigdy kaplanka ale znala sie na swojej pracy - pracy praczki. Widac ze kobieta nie zostala zabita dzgnieciem tylko zostala zabita uduszeniem albo uspiona. Cialo zostalo znalezione przed chwila. Istern znajduje slady manipulacji na ryglu przy drzwiach. Ktos ewidentnie sie tu wlamal.
+
+Gautiere nagle wypierdala i oskarza Naena - mimo ze chlopak przyszedl tutaj z Dolnego Miasta i byl w miejscu publicznym. Dostajemy 24 godziny na udowodnienie niewinnosci Naen'a.
+
+Mirella rozpoznaje zapach srodka odurzajacego - to znieczulacz stosowany w operacjach amputacji. Jehanna z rana sie klocila z kims o "tkanine bez pamieci".
+
+Naen znajduje Berenice w swiatyni - przy malej umywalni. Jest to siostra swiatynna. Powiedziala ze Jehanna nie byla juz mloda, zaczela na nia troche juz hejcic. Jehanna sobie zaczela wmawiac ze tkaniny maja pamiec. Pytamy ja czy wie co sie stalo w pralni. Mowi ze nie. Jest zestresowana, ale chyba nie kreci. Berenice przed rozmowa pierze lapy w misce a obok lezy perfekcyjni bialy recznik. Po troche dluzszym i mocniejszym przycisnieciu, potwierdza info ktore uslyszelismy o "tkaninie bez pamieci", dalej mowi ze zobaczyla jakis wysoki cien. Wtedy to sie wydarzylo - ona odwrocila wzrok. Po chiwli zauwazamy ze placze ale placz jest udawany.
+
+Berenice mowi ze ze ona "chciala tylko zeby obrzad sie odbyl" a Jehanna nie pozwalala odbyc sie obrzadkom bo "tkanina byla bez pamieci". Okazuje sie ze chodzi o relikwiarz z pasem ktory sie tutaj znalduje. Jehanna widziala ze ktos podjebal albo plotno na relikwiarz albo sam pas z relikwiarza!
+
+Idziemy do komnat prowadzonych przez Jehanne i przegladamy jej schowek. Tam rozne polki oznaczone roznymi znakami - wariacjami kropek i kresek. Na jednej polce kompletnie brak tkanin. Kazda tkanina musi byc przypisana do konretnej relikwii - takie zasaby kaplanek Szaliji. Tkaniny "pamietaja" na ktorym relikwiarzu leza w trakcie obrzadkow i podmienienie takiej tkaniny to duzy problem w ich religii.
+
+Morlin przekonuje Mirelle aby sprawdzic czy relikwiarz i pas znajdujacy sie w srodku nadal tam jest. Pas jest w relikwiarzu. Morlin wraca do nas.
+
+Nagle nas uderze - czarne duze piora - Agata sprzed roku. Wyznanniczka Tzeentcha. Tak samo jak Sefaren - ten ktory szuka pieczeci w zlych celach - przyjaciel opiekuna (Ketfana) Morlina i Naena z naszej dawnej wioski.
+
+Dostajemy od chlopca gazete - dzisiejsze wydanie. W nim mowa o Mordercy ze znakiem liscia oraz innych duperelach.
+
+Istern idzie zbadac sprawe zapachu na kawalku materialu. Ogarnia ze Roseline de Voux to szlachcianka ktora korzysta z takich perfum.
+
+Przypominamy sobie tez ze urawny kawalek materialu na rekawie miala Berenice. Lecimy do hospicjum - bedzie konfontacja - juz chyba wiemy kto jest odpowiedzialny! Berenice prawdopodobnie zajebala Jehanne mozliwe ze bedac pod wplywem magii Agaty pozujacej jako Roseline de Vaux - ewentualnie Rosaline wspolpracuje z Agata???.
+
+---
+
+Zdobyte XP: 180
+Wolne XP: 490 + 180 = 670
+Lacznie XP: 3490 + 180 = 3670
 
 ---
