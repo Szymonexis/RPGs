@@ -1752,3 +1752,34 @@ Wolne XP: 490 + 180 = 670
 Lacznie XP: 3490 + 180 = 3670
 
 ---
+
+# Sesja 20 - 19.11.2026
+
+---
+
+Gudo (falszywe: Szafran) - Ja
+Joseph (falszywe: Madred) - Krysu
+Thet'An'Naen (falszywe: Loren) - Janek
+Istern'Riorn (Istern lub Riorn) (falszywe: Tor'Ri'Eot (Torri)) - Maciek
+Mor'Or'Lin (Morlin) (falszywe: Mil'Wil'Naer (Willy)) - Kuba
+
+---
+
+PUNKTY REKAWICY: 39
+STAN AMUNICJI: 18/18
+
+---
+
+Podbiegam do Agaty - widze ze Agata jeszcze cos dycha i mowi "Przepraszam..." ale mowi to do rekawicy. Glos w mojej glowie mowi niebianskim, spokojnym glosem "Jest to stworzenie ktore musisz zabic, tu i teraz..." - to glos Szaliji. Strzelam pelna salwa w glowe Agaty - jej mozg rozbryzguje sie na chodniku. Mam chec przylozenia reki do ciala Agaty. Dotykam jej ciala - jeje krew laczy sie z moja rekawica. Przeszywa mnie nieposkromiona chec doskonalenia samego siebie i slysze "Mmmm, Tak... Dobrze..." - nadal glos Szaliji. Rekawica teraz zamiast emanowac czerwienia, emanuje turkusem.
+
+---
+
+Zdobyte XP: 280
+Wolne XP: 70 + 280 = 350
+Lacznie XP: 3670 + 280 = 3950
+
+---
+
+Na nastepna sesje przygotowac opis tego co robimy przez nastepny rok
+
+---
